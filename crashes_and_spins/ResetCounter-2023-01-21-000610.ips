@@ -1,0 +1,9 @@
+{"bug_type":"115","timestamp":"2023-01-21 00:06:10.26 -0700","name":"Reset count","os_version":"iPhone OS 13.3 (17C54)","incident_id":"E3B7DD43-492E-47A7-8611-8CB224F6360C"}
+Incident Identifier: E3B7DD43-492E-47A7-8611-8CB224F6360C
+CrashReporter Key:   9c2ffe980af4c75b608219260d2aa7809b7658f8
+Date: 2023-01-21 00:06:09.68 -0700
+Reset count: 0
+Boot failure count: 2
+Boot faults: dblclk_to
+Boot stage: 16
+Boot app: 2724057959

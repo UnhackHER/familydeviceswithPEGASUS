@@ -1,0 +1,13 @@
+
+APPLYING DEFAULT FILTERS:
+SDUnitLogPathArray with 0 paths: found no matches
+
+APPLYING DEFAULT FILTERS:
+/private/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/Personalization/PersonalizationPortrait.log, Added to Candidate logs
+
+
+ENFORCING SIZE LIMIT OF 5 MB ON FILTERED CANDIDATES:
+
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/Personalization/PersonalizationPortrait.log, Added
+
+** DONE Enforcing size limit **

@@ -1,0 +1,12 @@
+
+APPLYING DEFAULT FILTERS:
+/var/mobile/Library/Preferences/com.apple.speech.SpeechRecognitionCommandAndControl.plist, Added to Candidate logs
+/var/mobile/Library/Preferences/com.apple.speech.SpeechRecognitionCommandAndControl.CustomGestures.plist, File not found
+/var/mobile/Library/Preferences/com.apple.Accessibility.FullKeyboardAccess.plist, File not found
+
+
+ENFORCING SIZE LIMIT OF 5 MB ON FILTERED CANDIDATES:
+
+/var/mobile/Library/Preferences/com.apple.speech.SpeechRecognitionCommandAndControl.plist, Added
+
+** DONE Enforcing size limit **

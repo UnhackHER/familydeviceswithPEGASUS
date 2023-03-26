@@ -1,0 +1,60 @@
+{
+  "assets" : {
+    "common" : {
+      "assetVersion" : 307,
+      "compatibilityVersion" : 11
+    },
+    "non-watch" : {
+      "assetVersion" : 307,
+      "compatibilityVersion" : 11
+    }
+  },
+  "configuration" : {
+    "variantName" : "Default_200728"
+  },
+  "database" : {
+    "check" : {
+      "foreign_key_check" : [
+
+      ],
+      "integrity_check" : [
+        "ok"
+      ]
+    },
+    "stats" : {
+      "remoteRecordCounts" : {
+        "ne_records" : 0,
+        "tp_records" : 0
+      },
+      "rowCounts" : {
+        "fb_pending_records" : 0,
+        "integrityCheck" : 0,
+        "kv_blobs" : 1,
+        "loc_records" : 47,
+        "loc_records_clp_areasOfInterest" : 1,
+        "loc_records_contextual_ne" : 18,
+        "ne_records" : 205,
+        "sources" : 178,
+        "sqlite_sequence" : 8,
+        "tp_records" : 29
+      },
+      "sources" : {
+        "date" : {
+          "earliest" : "2019-09-24",
+          "latest" : "2023-01-21"
+        },
+        "ref_count" : {
+          "avg" : 1.5786516853932584,
+          "max" : 10,
+          "median" : 1,
+          "min" : 1
+        },
+        "unique_field_count" : {
+          "bundleId" : 3,
+          "docId" : 178
+        }
+      },
+      "version" : 15
+    }
+  }
+}

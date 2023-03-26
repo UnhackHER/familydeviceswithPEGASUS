@@ -1,0 +1,15 @@
+{"timestamp":"2023-01-21 17:56:07.40 -0700","bug_type":"211","os_version":"iPhone OS 13.3 (17C54)","incident_id":"C517A1E9-F4D2-4323-85CB-1B34AFDC1DC8"}
+{"_marker":"<metadata>","_preferredUserInterfaceLanguage":"en","_userInterfaceLanguage":"en-CA","_userSetRegionFormat":"GB","configParentUuid":"1dbf61d4-cdb6-4cea-a6c5-87f90ce3adf1","configUuid":"595478e3-9222-4119-859e-7e13fc9d9d54","startTimestamp":"2023-01-21T00:00:09Z","version":"1.0"}
+{"message":{"Count":1,"appVersion":null,"bundleID":null,"exceptionCodes":"0x0000000000000000, 0x0000000000000000","process":"assistantd","responsibleApp":null,"sum_of_logwritten":1,"terminationReasonExceptionCode":null,"terminationReasonNamespace":"<NO_NS>"},"name":"StabilityCrashNumerator3","uuid":"4dd15d8f-e874-4043-9db3-b20ee15b1366_2"}
+{"message":{"Count":6,"appVersion":null,"bundleID":null,"exceptionCodes":"0x0000000000000000, 0x0000000000000000","process":"mediaserverd","responsibleApp":null,"sum_of_logwritten":6,"terminationReasonExceptionCode":null,"terminationReasonNamespace":"<NO_NS>"},"name":"StabilityCrashNumerator3","uuid":"4dd15d8f-e874-4043-9db3-b20ee15b1366_2"}
+{"message":{"Count":7,"bug_type":"109"},"name":"NumberOfLogsSavedByBugType","uuid":"d67c6c0a-ee58-4668-9792-e4b3877559c6_2"}
+{"message":{"Count":1,"bug_type":"115"},"name":"NumberOfLogsSavedByBugType","uuid":"d67c6c0a-ee58-4668-9792-e4b3877559c6_2"}
+{"message":{"Count":1,"bug_type":"120"},"name":"NumberOfLogsSavedByBugType","uuid":"d67c6c0a-ee58-4668-9792-e4b3877559c6_2"}
+{"message":{"Count":1,"bug_type":"156"},"name":"NumberOfLogsSavedByBugType","uuid":"d67c6c0a-ee58-4668-9792-e4b3877559c6_2"}
+{"message":{"Count":6,"bug_type":"211"},"name":"NumberOfLogsSavedByBugType","uuid":"d67c6c0a-ee58-4668-9792-e4b3877559c6_2"}
+{"message":{"Count":2,"bug_type":"288"},"name":"NumberOfLogsSavedByBugType","uuid":"d67c6c0a-ee58-4668-9792-e4b3877559c6_2"}
+{"message":{"Count":3,"bug_type":"298"},"name":"NumberOfLogsSavedByBugType","uuid":"d67c6c0a-ee58-4668-9792-e4b3877559c6_2"}
+{"message":{"BogusFieldNotActuallyEverUsed":null,"Count":5,"daily_total_BogusMeasureNotActuallyEverUsed":null},"name":"StabilityHeartBeatCount4","uuid":"b5427173-7342-4a02-b223-56969d089ca1_8"}
+{"message":{"Count":1,"appVersion":null,"bundleID":null,"exceptionCodes":"0x0000000000000000, 0x0000000000000000","incidentID":null,"process":"assistantd","responsibleApp":null,"sum_of_logwritten":1,"terminationReasonExceptionCode":null,"terminationReasonNamespace":"<NO_NS>"},"name":"StabilityCrashNumerator3WithIncidentID","uuid":"d3c723bf-e2e0-4d73-96b7-2ca44ee70465_2"}
+{"message":{"Count":6,"appVersion":null,"bundleID":null,"exceptionCodes":"0x0000000000000000, 0x0000000000000000","incidentID":null,"process":"mediaserverd","responsibleApp":null,"sum_of_logwritten":6,"terminationReasonExceptionCode":null,"terminationReasonNamespace":"<NO_NS>"},"name":"StabilityCrashNumerator3WithIncidentID","uuid":"d3c723bf-e2e0-4d73-96b7-2ca44ee70465_2"}
+{"_marker":"<end-of-file>"}

@@ -1,0 +1,14 @@
+
+APPLYING DEFAULT FILTERS:
+/private/var/MobileSoftwareUpdate/lastOTA/OTAUpdate-2019-12-19-01-29-05.ips, Added to Candidate logs
+/private/var/MobileSoftwareUpdate/lastOTA/ota_tolerated_failures.plist, Added to Candidate logs
+/private/var/MobileSoftwareUpdate/lastOTA/ota_patch.txt, Added to Candidate logs
+
+
+ENFORCING SIZE LIMIT OF 5 MB ON FILTERED CANDIDATES:
+
+/var/MobileSoftwareUpdate/lastOTA/OTAUpdate-2019-12-19-01-29-05.ips, Added
+/var/MobileSoftwareUpdate/lastOTA/ota_tolerated_failures.plist, Added
+/var/MobileSoftwareUpdate/lastOTA/ota_patch.txt, Added
+
+** DONE Enforcing size limit **

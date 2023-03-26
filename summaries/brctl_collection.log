@@ -1,0 +1,12 @@
+
+APPLYING PREDICATE NOT lastPathComponent == "brctl-dump.txt":
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/brctl, File not found
+
+APPLYING DEFAULT FILTERS:
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/brctl/brctl-dump.txt, File not found
+
+
+ENFORCING SIZE LIMIT OF 5 MB ON FILTERED CANDIDATES:
+
+
+** DONE Enforcing size limit **

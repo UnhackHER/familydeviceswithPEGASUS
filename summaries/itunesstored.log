@@ -1,0 +1,18 @@
+
+APPLYING DEFAULT FILTERS:
+/private/var/mobile/Library/Logs/com.apple.itunesstored/itunesstored.log, Added to Candidate logs
+
+APPLYING DEFAULT FILTERS:
+/var/mobile/Media/Downloads/downloads.28.sqlitedb, Added to Candidate logs
+/var/mobile/Media/Downloads/downloads.28.sqlitedb-shm, Added to Candidate logs
+/var/mobile/Media/Downloads/downloads.28.sqlitedb-wal, Added to Candidate logs
+
+
+ENFORCING SIZE LIMIT OF 5 MB ON FILTERED CANDIDATES:
+
+/var/mobile/Library/Logs/com.apple.itunesstored/itunesstored.log, Added
+/var/mobile/Media/Downloads/downloads.28.sqlitedb-shm, Added
+/var/mobile/Media/Downloads/downloads.28.sqlitedb-wal, Added
+/var/mobile/Media/Downloads/downloads.28.sqlitedb, Added
+
+** DONE Enforcing size limit **

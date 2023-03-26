@@ -1,0 +1,70 @@
+
+APPLYING PREDICATE (NOT lastPathComponent BEGINSWITH "stacks-") AND (lastPathComponent ENDSWITH "ips" OR lastPathComponent ENDSWITH "ips.ca" OR lastPathComponent ENDSWITH "ips.beta" OR lastPathComponent ENDSWITH "ips.synced" OR lastPathComponent ENDSWITH "ips.ca.synced" OR lastPathComponent ENDSWITH "ips.beta.synced"):
+/private/var/mobile/Library/Logs/CrashReporter/mediaserverd-2023-01-21-101655.ips, Added to Candidate logs
+/private/var/mobile/Library/Logs/CrashReporter/assistantd-2023-01-21-100919.ips, Added to Candidate logs
+/private/var/mobile/Library/Logs/CrashReporter/assistantd-2023-01-20-155424.ips, File past date limit
+/private/var/mobile/Library/Logs/CrashReporter/mediaserverd-2023-01-21-095619.ips, Added to Candidate logs
+/private/var/mobile/Library/Logs/CrashReporter/stacks-2023-01-21-235415.ips, File did not match predicate
+/private/var/mobile/Library/Logs/CrashReporter/ResetCounter-2023-01-21-210238.ips, Added to Candidate logs
+/private/var/mobile/Library/Logs/CrashReporter/Analytics-Daily-2023-01-21-175606.6074.ips.ca.synced, Added to Candidate logs
+/private/var/mobile/Library/Logs/CrashReporter/awdd-2023-01-20-152302-794.consolidated.metriclog, File past date limit
+/private/var/mobile/Library/Logs/CrashReporter/mediaserverd-2023-01-21-101730.ips, Added to Candidate logs
+/private/var/mobile/Library/Logs/CrashReporter/awdd-2023-01-20-152302-795.consolidated.metriclog.anon, File past date limit
+/private/var/mobile/Library/Logs/CrashReporter/JetsamEvent-2023-01-21-105752.ips, Added to Candidate logs
+/private/var/mobile/Library/Logs/CrashReporter/Analytics-90Day-2023-01-21-175606.5973.ips.ca.synced, Added to Candidate logs
+/private/var/mobile/Library/Logs/CrashReporter/Analytics-Journal-90Day-2023-01-20-170009.ips.ca.synced, File past date limit
+/private/var/mobile/Library/Logs/CrashReporter/Analytics-Daily-2023-01-20-170009.3884.ips.ca.synced, File past date limit
+/private/var/mobile/Library/Logs/CrashReporter/stacks-2023-01-21-001008.ips, File did not match predicate
+/private/var/mobile/Library/Logs/CrashReporter/stacks-2023-01-21-001009.ips, File did not match predicate
+/private/var/mobile/Library/Logs/CrashReporter/mediaserverd-2023-01-21-101037.ips, Added to Candidate logs
+/private/var/mobile/Library/Logs/CrashReporter/Analytics-Journal-Never-2023-01-21-175606.5922.ips.ca.synced, Added to Candidate logs
+/private/var/mobile/Library/Logs/CrashReporter/searchpartyd.cpu_resource-2023-01-21-090706.ips, Added to Candidate logs
+/private/var/mobile/Library/Logs/CrashReporter/Analytics-Never-2023-01-21-175607.ips.ca.synced, Added to Candidate logs
+/private/var/mobile/Library/Logs/CrashReporter/JetsamEvent-2023-01-21-084039.ips, Added to Candidate logs
+/private/var/mobile/Library/Logs/CrashReporter/backboardd.wakeups_resource-2023-01-20-210359.ips, File past date limit
+/private/var/mobile/Library/Logs/CrashReporter/Analytics-Never-2023-01-20-170009.4145.ips.ca.synced, File past date limit
+/private/var/mobile/Library/Logs/CrashReporter/JetsamEvent-2023-01-21-103005.ips, Added to Candidate logs
+/private/var/mobile/Library/Logs/CrashReporter/ResetCounter-2023-01-21-000610.ips, Added to Candidate logs
+/private/var/mobile/Library/Logs/CrashReporter/LowBatteryLog-2023-01-20-211354.ips, File past date limit
+/private/var/mobile/Library/Logs/CrashReporter/Analytics-Journal-Daily-2023-01-20-170009.378.ips.ca.synced, File past date limit
+/private/var/mobile/Library/Logs/CrashReporter/Analytics-Journal-Daily-2023-01-21-175606.587.ips.ca.synced, Added to Candidate logs
+/private/var/mobile/Library/Logs/CrashReporter/Analytics-90Day-2023-01-20-170009.3813.ips.ca.synced, File past date limit
+/private/var/mobile/Library/Logs/CrashReporter/Analytics-Journal-90Day-2023-01-21-175606.ips.ca.synced, Added to Candidate logs
+/private/var/mobile/Library/Logs/CrashReporter/LowBatteryLog-2023-01-21-205833.ips, Added to Candidate logs
+/private/var/mobile/Library/Logs/CrashReporter/mediaserverd-2023-01-21-101607.ips, Added to Candidate logs
+/private/var/mobile/Library/Logs/CrashReporter/Analytics-Journal-Never-2023-01-20-170009.3802.ips.ca.synced, File past date limit
+/private/var/mobile/Library/Logs/CrashReporter/assistantd-2023-01-20-155404.ips, File past date limit
+/private/var/mobile/Library/Logs/CrashReporter/stacks-2023-01-21-235421.ips, File did not match predicate
+/private/var/mobile/Library/Logs/CrashReporter/assistantd-2023-01-20-155406.ips, File past date limit
+/private/var/mobile/Library/Logs/CrashReporter/stacks-2023-01-21-235421.683.ips, File did not match predicate
+/private/var/mobile/Library/Logs/CrashReporter/mediaserverd-2023-01-21-085611.ips, Added to Candidate logs
+/private/var/mobile/Library/Logs/CrashReporter/assistantd-2023-01-20-155359.ips, File past date limit
+/private/var/mobile/Library/Logs/CrashReporter/CoreTime-2023-01-20-170009.ips.synced, File past date limit
+/private/var/mobile/Library/Logs/CrashReporter/stacks-2023-01-21-235421.7802.ips, File did not match predicate
+/private/var/mobile/Library/Logs/CrashReporter/assistantd-2023-01-20-165716.ips, File past date limit
+
+
+ENFORCING SIZE LIMIT OF 20 MB ON FILTERED CANDIDATES:
+
+/var/mobile/Library/Logs/CrashReporter/ResetCounter-2023-01-21-210238.ips, Added
+/var/mobile/Library/Logs/CrashReporter/LowBatteryLog-2023-01-21-205833.ips, Added
+/var/mobile/Library/Logs/CrashReporter/Analytics-Never-2023-01-21-175607.ips.ca.synced, Added
+/var/mobile/Library/Logs/CrashReporter/Analytics-Daily-2023-01-21-175606.6074.ips.ca.synced, Added
+/var/mobile/Library/Logs/CrashReporter/Analytics-90Day-2023-01-21-175606.5973.ips.ca.synced, Added
+/var/mobile/Library/Logs/CrashReporter/Analytics-Journal-Never-2023-01-21-175606.5922.ips.ca.synced, Added
+/var/mobile/Library/Logs/CrashReporter/Analytics-Journal-Daily-2023-01-21-175606.587.ips.ca.synced, Added
+/var/mobile/Library/Logs/CrashReporter/Analytics-Journal-90Day-2023-01-21-175606.ips.ca.synced, Added
+/var/mobile/Library/Logs/CrashReporter/JetsamEvent-2023-01-21-105752.ips, Added
+/var/mobile/Library/Logs/CrashReporter/mediaserverd-2023-01-21-101730.ips, Added
+/var/mobile/Library/Logs/CrashReporter/assistantd-2023-01-21-100919.ips, Added
+/var/mobile/Library/Logs/CrashReporter/searchpartyd.cpu_resource-2023-01-21-090706.ips, Added
+/var/mobile/Library/Logs/CrashReporter/JetsamEvent-2023-01-21-103005.ips, Added
+/var/mobile/Library/Logs/CrashReporter/mediaserverd-2023-01-21-101655.ips, Added
+/var/mobile/Library/Logs/CrashReporter/ResetCounter-2023-01-21-000610.ips, Added
+/var/mobile/Library/Logs/CrashReporter/mediaserverd-2023-01-21-101607.ips, Added
+/var/mobile/Library/Logs/CrashReporter/JetsamEvent-2023-01-21-084039.ips, Added
+/var/mobile/Library/Logs/CrashReporter/mediaserverd-2023-01-21-101037.ips, Added
+/var/mobile/Library/Logs/CrashReporter/mediaserverd-2023-01-21-095619.ips, Added
+/var/mobile/Library/Logs/CrashReporter/mediaserverd-2023-01-21-085611.ips, Added
+
+** DONE Enforcing size limit **

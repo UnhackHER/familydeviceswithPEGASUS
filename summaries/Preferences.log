@@ -1,0 +1,47 @@
+
+APPLYING DEFAULT FILTERS:
+SDUnitLogPathArray with 0 paths: found no matches
+
+APPLYING DEFAULT FILTERS:
+/private/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/Preferences/AppleLanguages_CurrentUser.txt, Added to Candidate logs
+/private/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/Preferences/AppleLocale_Global.txt, Added to Candidate logs
+/private/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/Preferences/AppleLocale_CurrentUser.txt, Added to Candidate logs
+/private/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/Preferences/AppleLanguages_Global.txt, Added to Candidate logs
+/private/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/Preferences/UIPreferredContentSizeCategoryName_CurrentUser.txt, Added to Candidate logs
+
+APPLYING DEFAULT FILTERS:
+/ /private/var/log/CDIS.custom, File not found
+
+
+ENFORCING SIZE LIMIT OF 5 MB ON FILTERED CANDIDATES:
+
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/Preferences/UIPreferredContentSizeCategoryName_CurrentUser.txt, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/Preferences/AppleLocale_Global.txt, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/Preferences/AppleLanguages_Global.txt, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/Preferences/AppleLocale_CurrentUser.txt, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/Preferences/AppleLanguages_CurrentUser.txt, Added
+
+** DONE Enforcing size limit **
+
+APPLYING DEFAULT FILTERS:
+SDUnitLogPathArray with 0 paths: found no matches
+
+APPLYING DEFAULT FILTERS:
+/private/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/Preferences/AppleLanguages_CurrentUser.txt, Added to Candidate logs
+/private/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/Preferences/AppleLocale_Global.txt, Added to Candidate logs
+/private/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/Preferences/AppleLocale_CurrentUser.txt, Added to Candidate logs
+/private/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/Preferences/Keyboard_Preferences.txt, Added to Candidate logs
+/private/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/Preferences/AppleLanguages_Global.txt, Added to Candidate logs
+/private/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/Preferences/UIPreferredContentSizeCategoryName_CurrentUser.txt, Added to Candidate logs
+
+
+ENFORCING SIZE LIMIT OF 5 MB ON FILTERED CANDIDATES:
+
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/Preferences/Keyboard_Preferences.txt, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/Preferences/UIPreferredContentSizeCategoryName_CurrentUser.txt, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/Preferences/AppleLocale_Global.txt, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/Preferences/AppleLanguages_Global.txt, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/Preferences/AppleLocale_CurrentUser.txt, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/Preferences/AppleLanguages_CurrentUser.txt, Added
+
+** DONE Enforcing size limit **

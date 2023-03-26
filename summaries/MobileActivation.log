@@ -1,0 +1,28 @@
+
+APPLYING DEFAULT FILTERS:
+/var/mobile/Library/Logs/mobileactivationd/ucrt_oob_request.txt, Added to Candidate logs
+/var/mobile/Library/Logs/mobileactivationd/ucrt_oob_response.txt, Added to Candidate logs
+/var/mobile/Library/Logs/mobileactivationd/collection_oob_request.txt, Added to Candidate logs
+/var/mobile/Library/Logs/mobileactivationd/collection_oob_response.txt, Added to Candidate logs
+
+APPLYING DEFAULT FILTERS:
+/var/mobile/Library/Logs/mobileactivationd/mobileactivationd.log.0, Added to Candidate logs
+/var/mobile/Library/Logs/mobileactivationd/mobileactivationd.log.1, Added to Candidate logs
+/var/mobile/Library/Logs/mobileactivationd/mobileactivationd.log.4, Added to Candidate logs
+/var/mobile/Library/Logs/mobileactivationd/mobileactivationd.log.3, Added to Candidate logs
+/var/mobile/Library/Logs/mobileactivationd/mobileactivationd.log.2, Added to Candidate logs
+
+
+ENFORCING SIZE LIMIT OF 5 MB ON FILTERED CANDIDATES:
+
+/var/mobile/Library/Logs/mobileactivationd/ucrt_oob_response.txt, Added
+/var/mobile/Library/Logs/mobileactivationd/ucrt_oob_request.txt, Added
+/var/mobile/Library/Logs/mobileactivationd/collection_oob_response.txt, Added
+/var/mobile/Library/Logs/mobileactivationd/collection_oob_request.txt, Added
+/var/mobile/Library/Logs/mobileactivationd/mobileactivationd.log.0, Added
+/var/mobile/Library/Logs/mobileactivationd/mobileactivationd.log.1, Added
+/var/mobile/Library/Logs/mobileactivationd/mobileactivationd.log.2, Added
+/var/mobile/Library/Logs/mobileactivationd/mobileactivationd.log.3, Added
+/var/mobile/Library/Logs/mobileactivationd/mobileactivationd.log.4, Added
+
+** DONE Enforcing size limit **

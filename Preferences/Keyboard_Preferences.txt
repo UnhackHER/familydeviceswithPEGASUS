@@ -1,0 +1,35 @@
+com.apple.Preferences:
+{
+    DictationLanguagesEnabled =     {
+        "en_US" = 1;
+    };
+    DictationLanguagesLastUsed =     {
+        LastUsedDictationLangauge = "en_US";
+    };
+    KeyboardAllowPaddle = 0;
+    KeyboardAutocapitalization = 0;
+    KeyboardAutocorrection = 0;
+    KeyboardCheckSpelling = 1;
+    KeyboardLastUsedForLanguage =     {
+        ASCIICapable = "en_US@sw=QWERTY;hw=Automatic";
+        "en_US" = "en_US@sw=QWERTY;hw=Automatic";
+        intl = "intl@hw=Automatic";
+    };
+    KeyboardPeriodShortcut = 0;
+    KeyboardPrediction = 0;
+    KeyboardShowPredictionBar = 0;
+    KeyboardsCurrentAndNext =     (
+        "en_US@sw=QWERTY;hw=Automatic",
+        "en_US@sw=QWERTY;hw=Automatic",
+        "emoji@sw=Emoji"
+    );
+    SmartDashesEnabled = 0;
+    SmartQuotesEnabled = 0;
+}
+GlobalPreferences:
+{
+    AppleKeyboards =     (
+        "en_US@sw=QWERTY;hw=Automatic"
+    );
+    AppleKeyboardsExpanded = 1;
+}

@@ -1,0 +1,96 @@
+23:54:53.130 [263EB] BEGIN   [arp]
+23:54:53.130 [F972A] BEGIN   wifistats-PRE
+23:54:53.130 [A3DD4] BEGIN   [ifconfig]
+23:54:53.130 [CCC89] BEGIN   Wi-Fi Preferences
+23:54:53.131 [6EE0A] BEGIN   EAPOL Logs
+23:54:53.131 [D770F] BEGIN   [security]
+23:54:53.131 [F6805] BEGIN   Bluetooth Status
+23:54:53.132 [19975] BEGIN   Network Status
+23:54:53.132 [F972A] END     wifistats-PRE, took 0.001196s
+23:54:53.132 [6EE0A] END     EAPOL Logs, took 0.000713s
+23:54:53.132 [263EB] END     [arp], took 0.001937s
+23:54:53.133 [9ABDE] BEGIN   CoreCapture (Dump)
+23:54:53.133 [9FCDC] BEGIN   CoreCapture
+23:54:53.133 [A3DD4] END     [ifconfig], took 0.001952s
+23:54:53.134 [7C79A] BEGIN   CoreCapture
+23:54:53.134 [5AAAC] BEGIN   CoreCapture
+23:54:53.134 [9ABDE] END     CoreCapture (Dump), took 0.000004s
+23:54:53.135 [63CF2] BEGIN   Previous
+23:54:53.135 [9FCDC] END     CoreCapture, took 0.000611s
+23:54:53.135 [7C79A] END     CoreCapture, took 0.000527s
+23:54:53.136 [3D280] BEGIN   TCP Dump (Pre)
+23:54:53.136 [5AAAC] END     CoreCapture, took 0.000339s
+23:54:53.136 [63CF2] END     Previous, took 0.000585s
+23:54:53.137 [0A9BB] BEGIN   Wi-Fi Logs (Dump)
+23:54:53.137 [6CB25] BEGIN   CoreCapture (Dump)
+23:54:53.137 [0A9BB] END     Wi-Fi Logs (Dump), took 0.000001s
+23:54:53.137 [6CB25] END     CoreCapture (Dump), took 0.000002s
+23:54:53.138 [D770F] END     [security], took 0.006129s
+23:54:53.138 [CCC89] END     Wi-Fi Preferences, took 0.006937s
+23:54:53.138 [C2BB5] BEGIN   [mobilewifitool]
+23:54:53.139 [82706] BEGIN   CoreCapture (Dump)
+23:54:53.139 [82706] END     CoreCapture (Dump), took 0.000005s
+23:54:53.140 [C2BB5] END     [mobilewifitool], took 0.001290s
+23:54:53.140 [2694F] BEGIN   Delay
+23:54:53.140 [AF19B] BEGIN   Wi-Fi Status
+23:54:53.442 [3D280] END     TCP Dump (Pre), took 0.305855s
+23:54:53.444 [9068A] BEGIN   Delay
+23:54:53.450 [19975] END     Network Status, took 0.318650s
+23:54:53.451 [AF19B] END     Wi-Fi Status, took 0.309938s
+23:54:53.451 [F6805] END     Bluetooth Status, took 0.318980s
+23:54:53.453 [3CF54] BEGIN   AWDL Status
+23:54:53.530 [3CF54] END     AWDL Status, took 0.076994s
+23:54:53.541 [A316A] BEGIN   WiFi Conf Diagnostics
+23:54:53.600 [A316A] END     WiFi Conf Diagnostics, took 0.055762s
+23:54:53.609 [409DF] BEGIN   Leaky AP Stats
+23:54:53.611 [409DF] END     Leaky AP Stats, took 0.001369s
+23:54:53.612 [127DA] BEGIN   Wi-Fi Scan Results
+23:54:54.243 [2694F] END     Delay, took 1.102674s
+23:54:54.751 [A1252] BEGIN   wifi_datapath-PRE
+23:54:54.764 [A1252] END     wifi_datapath-PRE, took 0.011966s
+23:54:54.765 [F3D48] BEGIN   netstat-PRE
+23:54:54.768 [F3D48] END     netstat-PRE, took 0.002093s
+23:54:54.771 [61CCE] BEGIN   WiFi Conn Diagnostics
+23:54:54.791 [61CCE] END     WiFi Conn Diagnostics, took 0.018539s
+23:54:54.797 [254F9] BEGIN   netstat-POST
+23:54:54.799 [254F9] END     netstat-POST, took 0.001964s
+23:54:54.800 [F9D75] BEGIN   wifi_datapath-POST
+23:54:54.804 [F9D75] END     wifi_datapath-POST, took 0.003887s
+23:54:54.806 [1C44D] BEGIN   Wi-Fi Logs
+23:54:54.809 [1C44D] END     Wi-Fi Logs, took 0.003327s
+23:54:54.810 [BADAC] BEGIN   wifistats-POST
+23:54:54.810 [BADAC] END     wifistats-POST, took 0.000040s
+23:54:54.825 [BB1CC] BEGIN   CoreCapture (Dump)
+23:54:54.825 [BB1CC] END     CoreCapture (Dump), took 0.000005s
+23:54:54.825 [CC2D2] BEGIN   Delay
+23:54:54.825 [3B866] BEGIN   Delay
+23:54:54.825 [EE4CE] BEGIN   Delay
+23:54:54.825 [8E898] BEGIN   Delay
+23:54:54.826 [05174] BEGIN   Delay
+23:54:54.826 [B1236] BEGIN   TCP Dump (Post)
+23:54:54.826 [B1236] END     TCP Dump (Post), took 0.000017s
+23:54:54.827 [BDBCC] BEGIN   Delay
+23:54:54.827 [08222] BEGIN   Wi-Fi Scan Cache
+23:54:54.831 [08222] END     Wi-Fi Scan Cache, took 0.003922s
+23:54:54.834 [536EC] BEGIN   WiFi Env Diagnostics
+23:54:54.920 [536EC] END     WiFi Env Diagnostics, took 0.085580s
+23:54:54.948 [9068A] END     Delay, took 1.502939s
+23:54:55.952 [127DA] END     Wi-Fi Scan Results, took 2.339721s
+23:54:55.953 [52935] BEGIN   3Bars Cache
+23:54:55.954 [52935] END     3Bars Cache, took 0.001210s
+23:54:56.331 [BDBCC] END     Delay, took 1.504092s
+23:54:57.029 [05174] END     Delay, took 2.203319s
+23:54:57.032 [F9976] BEGIN   CoreCapture
+23:54:57.034 [F9976] END     CoreCapture, took 0.001484s
+23:54:57.770 [CC2D2] END     Delay, took 2.944988s
+23:54:57.770 [3B866] END     Delay, took 2.944744s
+23:54:57.770 [EE4CE] END     Delay, took 2.945056s
+23:54:57.773 [CADC7] BEGIN   CoreCapture
+23:54:57.773 [94232] BEGIN   CoreCapture
+23:54:57.774 [8653F] BEGIN   CoreCapture
+23:54:57.775 [94232] END     CoreCapture, took 0.001155s
+23:54:57.775 [CADC7] END     CoreCapture, took 0.001257s
+23:54:57.776 [8653F] END     CoreCapture, took 0.000978s
+23:55:00.367 [8E898] END     Delay, took 5.540812s
+
+INCOMPLETE: None

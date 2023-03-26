@@ -1,0 +1,4059 @@
+Band stats:
+===========
+numBands: 635
+band:    0	Utility Band
+
+INTERMEDIATE PARTITION:
+band:   1	flow:13	valid:   0.0	erases:  639 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 1 mode:1
+band:   2	flow:13	valid:   0.0	erases:  639 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:   3	flow:13	valid:   0.0	erases:  639 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:   4	flow: 4	valid:   0.5	erases:  639 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:   5	flow:13	valid:   0.0	erases:  639 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:   6	flow: 0	valid:  20.0	erases:  639 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:   7	flow: 0	valid:  27.2	erases:  639 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:   8	flow:13	valid:   0.0	erases:  639 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 1 mode:1
+band:   9	flow:13	valid:   0.0	erases:  639 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  10	flow: 0	valid:  23.8	erases:  639 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  11	flow:13	valid:   0.0	erases:  639 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  12	flow: 0	valid:  29.1	erases:  639 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  13	flow: 0	valid:  19.5	erases:  639 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  14	flow: 0	valid:  25.0	erases:  639 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  15	flow:13	valid:   0.0	erases:  639 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  16	flow:13	valid:   0.0	erases:  639 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  17	flow:13	valid:   0.0	erases:  639 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  18	flow:13	valid:   0.0	erases:  639 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  19	flow:13	valid:   0.0	erases:  639 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  20	flow:13	valid:   0.0	erases:  639 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  21	flow:13	valid:   0.0	erases:  639 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  22	flow:13	valid:   0.0	erases:  639 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 1 mode:1
+band:  23	flow:13	valid:   0.0	erases:  639 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  24	flow:13	valid:   0.0	erases:  639 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  25	flow:13	valid:   0.0	erases:  639 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  26	flow:13	valid:   0.0	erases:  639 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  27	flow:13	valid:   0.0	erases:  639 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  28	flow:13	valid:   0.0	erases:  639 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  29	flow:13	valid:   0.0	erases:  639 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  30	flow:13	valid:   0.0	erases:  639 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  31	flow: 0	valid:  20.8	erases:  639 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  32	flow: 0	valid:  17.0	erases:  639 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  33	flow: 0	valid:  48.8	erases:  640 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  34	flow: 0	valid:  31.1	erases:  639 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  35	flow: 0	valid:  19.0	erases:  640 [  0%] 	age:    1	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  36	flow: 0	valid:  24.1	erases:  639 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  37	flow: 0	valid:  18.3	erases:  639 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  38	flow: 0	valid:  32.6	erases:  639 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  39	flow:10	valid:    NA	erases:  640 [  0%] 	age:    3	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  40	flow: 0	valid:  41.4	erases:  640 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  41	flow: 0	valid:  30.8	erases:  639 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  42	flow: 4	valid:   1.2	erases:  640 [  0%] 	age:    3	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  43	flow: 0	valid:  20.4	erases:  639 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  44	flow: 0	valid:  14.2	erases:  639 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  45	flow: 0	valid:  22.5	erases:  638 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  46	flow: 4	valid:   4.6	erases:  637 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  47	flow: 0	valid:  16.6	erases:  638 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  48	flow: 0	valid:  29.3	erases:  638 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  49	flow: 0	valid:  11.4	erases:  639 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  50	flow: 0	valid:  14.3	erases:  639 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  51	flow: 0	valid:  17.4	erases:  639 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  52	flow: 0	valid:  11.3	erases:  639 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  53	flow: 0	valid:  15.9	erases:  639 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  54	flow: 0	valid:  13.5	erases:  639 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  55	flow: 4	valid:   3.7	erases:  639 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  56	flow: 0	valid:  13.1	erases:  639 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  57	flow: 8	valid:    NA	erases:  639 [  0%] 	age:    6	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:1
+band:  58	flow: 0	valid:  11.8	erases:  639 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:1
+
+USER PARTITION:
+band:  59	flow:12	valid:   0.0	erases:   14 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  60	flow:12	valid:   0.0	erases:    7 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  61	flow:12	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  62	flow: 5	valid:   0.1	erases:   12 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  63	flow: 5	valid:   0.2	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  64	flow: 5	valid:  16.0	erases:   11 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  65	flow:12	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  66	flow: 5	valid:   1.2	erases:   15 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  67	flow:12	valid:   0.0	erases:   14 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  68	flow: 5	valid:  54.3	erases:   16 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  69	flow: 5	valid:  33.7	erases:    7 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  70	flow:12	valid:   0.0	erases:   15 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  71	flow: 5	valid:  23.6	erases:   12 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  72	flow:12	valid:   0.0	erases:   10 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  73	flow: 5	valid:  10.2	erases:   10 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  74	flow:12	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  75	flow: 5	valid:  21.8	erases:   13 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  76	flow: 5	valid:  83.6	erases:    9 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  77	flow:12	valid:   0.0	erases:   10 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  78	flow:12	valid:   0.0	erases:    9 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  79	flow: 5	valid:  81.0	erases:    9 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  80	flow: 5	valid:  13.8	erases:   16 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  81	flow: 5	valid:  99.9	erases:   11 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  82	flow: 5	valid:  37.7	erases:    7 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  83	flow: 5	valid:   0.2	erases:   11 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  84	flow: 5	valid:  99.9	erases:    7 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  85	flow:12	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  86	flow: 5	valid:  63.4	erases:    7 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  87	flow: 5	valid:   0.0	erases:   17 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  88	flow:12	valid:   0.0	erases:   10 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  89	flow: 5	valid:  26.1	erases:    9 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  90	flow:12	valid:   0.0	erases:   13 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  91	flow: 5	valid:   5.4	erases:   16 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  92	flow: 5	valid:  14.7	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  93	flow:12	valid:   0.0	erases:    8 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  94	flow: 5	valid:   4.8	erases:   13 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  95	flow: 5	valid:  27.2	erases:   15 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  96	flow: 5	valid:  96.8	erases:    5 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  97	flow: 5	valid:   5.4	erases:   13 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  98	flow: 5	valid:  59.5	erases:   14 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band:  99	flow: 5	valid:   0.4	erases:    6 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 100	flow: 6	valid:  31.0	erases:    9 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 101	flow: 5	valid:  29.7	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 102	flow:12	valid:   0.0	erases:   10 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 103	flow: 5	valid:  23.4	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 104	flow: 5	valid:   0.5	erases:   16 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 105	flow: 5	valid:  26.9	erases:    5 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 106	flow: 5	valid:  24.6	erases:   12 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 107	flow: 5	valid:  72.0	erases:   15 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 108	flow: 5	valid:  92.7	erases:   13 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 109	flow: 5	valid:  35.9	erases:   11 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 110	flow: 5	valid:  33.7	erases:   13 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 111	flow: 5	valid:  11.6	erases:    5 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 112	flow:12	valid:   0.0	erases:    7 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 113	flow: 5	valid:   8.8	erases:    8 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 114	flow: 5	valid:  97.1	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 115	flow: 5	valid:   0.1	erases:   13 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 116	flow: 5	valid:  18.3	erases:   16 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 117	flow: 5	valid:  38.0	erases:   16 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 118	flow: 5	valid:  99.9	erases:    9 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 119	flow:12	valid:   0.0	erases:    7 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 120	flow: 5	valid:  22.7	erases:    6 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 121	flow: 5	valid:  18.8	erases:   12 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 122	flow: 5	valid:  49.4	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 123	flow: 5	valid:  24.2	erases:    6 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 124	flow: 5	valid:  83.2	erases:    6 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 125	flow:12	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 126	flow: 5	valid:  99.5	erases:    7 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 127	flow: 5	valid:  47.1	erases:    7 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 128	flow: 5	valid:   1.6	erases:    6 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 129	flow: 5	valid:   0.0	erases:    8 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 130	flow: 5	valid:   0.0	erases:   16 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 131	flow: 5	valid:   8.7	erases:   13 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 132	flow: 5	valid:  99.0	erases:    6 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 133	flow: 5	valid:  99.9	erases:    8 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 134	flow: 6	valid:  31.3	erases:    9 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 135	flow: 5	valid:  55.9	erases:    6 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 136	flow:12	valid:   0.0	erases:   10 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 137	flow: 5	valid:  22.3	erases:   16 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 138	flow: 5	valid:  97.9	erases:   12 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 139	flow: 5	valid:  19.1	erases:    7 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 140	flow: 5	valid:   4.5	erases:   11 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 141	flow:12	valid:   0.0	erases:    9 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 142	flow: 5	valid:   0.1	erases:   15 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 143	flow:12	valid:   0.0	erases:   14 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 144	flow: 5	valid:  99.5	erases:    6 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 145	flow: 5	valid:  99.8	erases:    5 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 146	flow: 5	valid:  31.5	erases:    9 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 147	flow: 5	valid:  95.6	erases:    8 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 148	flow: 5	valid:  99.3	erases:   11 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 149	flow: 5	valid:  50.7	erases:    5 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 150	flow: 5	valid:   9.9	erases:   12 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 151	flow: 5	valid:  97.9	erases:   10 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 152	flow: 5	valid:  32.5	erases:    7 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 153	flow: 5	valid:  99.4	erases:    5 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 154	flow: 5	valid:  37.9	erases:    5 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 155	flow: 5	valid:  50.4	erases:    5 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 156	flow:12	valid:   0.0	erases:   15 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 157	flow: 5	valid:  93.1	erases:    7 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 158	flow: 5	valid:  64.4	erases:    8 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 159	flow:12	valid:   0.0	erases:   13 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 160	flow:12	valid:   0.0	erases:   14 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 161	flow: 5	valid:  99.9	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 162	flow:12	valid:   0.0	erases:    8 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 163	flow: 5	valid:   0.3	erases:    9 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 164	flow: 5	valid:   0.4	erases:    5 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 165	flow: 5	valid:  47.1	erases:   11 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 166	flow:12	valid:   0.0	erases:    8 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 167	flow: 5	valid:   0.7	erases:    8 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 168	flow: 5	valid:  99.6	erases:    8 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 169	flow: 5	valid:  91.1	erases:    5 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 170	flow: 5	valid:   0.0	erases:   11 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 171	flow: 5	valid:  36.5	erases:   13 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 172	flow: 5	valid:  15.3	erases:   14 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 173	flow:12	valid:   0.0	erases:   14 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 174	flow: 5	valid:  21.4	erases:   10 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 175	flow:12	valid:   0.0	erases:    7 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 176	flow: 5	valid:   0.5	erases:    6 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 177	flow: 5	valid:  34.8	erases:   10 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 178	flow: 5	valid:   0.0	erases:   10 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 179	flow: 5	valid:   7.4	erases:    6 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 180	flow: 5	valid:  25.5	erases:    5 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 181	flow: 5	valid:  33.3	erases:    5 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 182	flow: 5	valid:  20.1	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 183	flow: 5	valid:   3.0	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 184	flow: 6	valid:  27.4	erases:    6 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 185	flow: 6	valid:  15.8	erases:    7 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 186	flow: 5	valid:   5.2	erases:   10 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 187	flow: 5	valid:  14.2	erases:   15 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 188	flow: 5	valid:   7.6	erases:    6 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 189	flow: 5	valid:  27.1	erases:   15 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 190	flow: 5	valid:  99.7	erases:    9 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 191	flow: 5	valid:  99.9	erases:    5 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 192	flow: 5	valid:  37.6	erases:    6 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 193	flow: 5	valid:  19.8	erases:   15 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 194	flow: 5	valid:   0.0	erases:    5 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 195	flow: 5	valid:  11.0	erases:    6 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 196	flow: 5	valid:   6.2	erases:   17 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 197	flow:12	valid:   0.0	erases:    9 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 198	flow: 5	valid:  38.8	erases:   13 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 199	flow:12	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 200	flow: 6	valid:   8.9	erases:    9 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 201	flow: 5	valid:  68.6	erases:   13 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 202	flow: 5	valid:  14.0	erases:   17 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 203	flow:12	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 204	flow:12	valid:   0.0	erases:    9 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 205	flow: 5	valid:   0.0	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 206	flow: 5	valid:  68.2	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 207	flow: 5	valid:   0.7	erases:   19 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 208	flow: 5	valid:  51.4	erases:   17 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 209	flow:12	valid:   0.0	erases:   13 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 210	flow:12	valid:   0.0	erases:   10 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 211	flow: 5	valid:   0.2	erases:   15 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 212	flow: 6	valid:  42.2	erases:    8 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 213	flow: 6	valid:  22.0	erases:    9 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 214	flow:12	valid:   0.0	erases:   14 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 215	flow: 5	valid:   2.5	erases:   12 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 216	flow: 5	valid:  99.9	erases:   11 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 217	flow: 5	valid:  54.2	erases:   11 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 218	flow: 5	valid:   0.3	erases:   10 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 219	flow: 5	valid:   0.0	erases:   16 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 220	flow: 5	valid:  99.3	erases:   12 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 221	flow: 5	valid:  99.9	erases:   11 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 222	flow: 5	valid:  36.2	erases:   13 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 223	flow: 5	valid:  35.4	erases:   12 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 224	flow: 5	valid:   1.8	erases:   11 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 225	flow: 5	valid:  32.4	erases:    7 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 226	flow:12	valid:   0.0	erases:   14 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 227	flow: 5	valid:  80.3	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 228	flow: 5	valid:  99.7	erases:   12 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 229	flow: 6	valid:  27.2	erases:    7 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 230	flow:12	valid:   0.0	erases:   11 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 231	flow: 5	valid:   0.2	erases:   14 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 232	flow: 5	valid:  14.8	erases:    7 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 233	flow: 5	valid:   5.3	erases:   17 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 234	flow: 5	valid:   9.8	erases:   12 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 235	flow: 5	valid:   0.9	erases:   13 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 236	flow:12	valid:   0.0	erases:   14 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 237	flow: 5	valid:   7.5	erases:    6 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 238	flow:12	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 239	flow: 5	valid:   0.4	erases:   11 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 240	flow:12	valid:   0.0	erases:   13 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 241	flow: 5	valid:   0.0	erases:    8 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 242	flow: 5	valid:  38.8	erases:   11 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 243	flow: 5	valid:  57.9	erases:   10 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 244	flow: 5	valid:   0.2	erases:    8 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 245	flow: 5	valid:   0.0	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 246	flow:12	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 247	flow: 5	valid:  44.5	erases:   15 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 248	flow: 5	valid:  44.1	erases:   16 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 249	flow: 5	valid:  21.2	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 250	flow:12	valid:   0.0	erases:   14 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 251	flow: 5	valid:   6.9	erases:   12 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 252	flow: 5	valid:  17.0	erases:   16 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 253	flow: 5	valid:  99.7	erases:    8 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 254	flow: 5	valid:   0.2	erases:    9 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 255	flow: 5	valid:   0.2	erases:   16 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 256	flow:12	valid:   0.0	erases:   13 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 257	flow: 5	valid:   0.1	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 258	flow:12	valid:   0.0	erases:    9 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 259	flow: 5	valid:  47.2	erases:   17 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 260	flow: 5	valid:  77.5	erases:    8 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 261	flow:12	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 262	flow: 6	valid:  10.9	erases:    6 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 263	flow: 5	valid:  14.8	erases:   16 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 264	flow: 5	valid:  42.3	erases:   17 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 265	flow: 5	valid:  45.4	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 266	flow: 5	valid:  79.9	erases:   12 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 267	flow: 5	valid:   0.5	erases:   10 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 268	flow:12	valid:   0.0	erases:   13 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 269	flow:12	valid:   0.0	erases:   13 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 270	flow:12	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 271	flow:12	valid:   0.0	erases:   15 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 272	flow: 6	valid:  67.3	erases:   13 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 273	flow:12	valid:   0.0	erases:   10 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 274	flow:12	valid:   0.0	erases:   11 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 275	flow: 6	valid:  36.1	erases:    6 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 276	flow: 5	valid:   0.0	erases:   11 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 277	flow: 5	valid:  99.8	erases:   12 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 278	flow:12	valid:   0.0	erases:    6 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 279	flow: 5	valid:   0.1	erases:    6 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 280	flow: 5	valid:  99.6	erases:    6 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 281	flow: 5	valid:  96.5	erases:    7 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 282	flow:12	valid:   0.0	erases:    8 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 283	flow:12	valid:   0.0	erases:   14 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 284	flow: 5	valid:  13.3	erases:   12 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 285	flow: 5	valid:  19.2	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 286	flow: 5	valid:  25.2	erases:   13 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 287	flow: 5	valid:  53.7	erases:   10 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 288	flow: 5	valid:   2.5	erases:    9 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 289	flow:12	valid:   0.0	erases:   14 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 290	flow: 5	valid:  44.1	erases:   12 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 291	flow: 5	valid:   0.8	erases:   12 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 292	flow: 5	valid:  95.1	erases:   12 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 293	flow: 5	valid:  52.7	erases:   18 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 294	flow: 5	valid:  13.3	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 295	flow: 5	valid:  30.8	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 296	flow: 5	valid:  20.5	erases:   13 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 297	flow: 5	valid:   5.0	erases:    6 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 298	flow:12	valid:   0.0	erases:   17 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 299	flow:12	valid:   0.0	erases:   13 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 300	flow: 5	valid:  12.1	erases:   17 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 301	flow:12	valid:   0.0	erases:   10 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 302	flow: 5	valid:   1.8	erases:   13 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 303	flow: 5	valid:   0.0	erases:    9 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 304	flow: 5	valid:   0.1	erases:   12 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 305	flow: 5	valid:  17.3	erases:   15 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 306	flow:12	valid:   0.0	erases:   16 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 307	flow: 5	valid:  99.6	erases:   11 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 308	flow: 5	valid:   3.3	erases:   10 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 309	flow: 5	valid:  96.5	erases:   13 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 310	flow: 5	valid:  96.8	erases:    8 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 311	flow: 5	valid:   1.6	erases:   12 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 312	flow: 5	valid:  22.4	erases:   10 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 313	flow: 6	valid:  17.8	erases:    9 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 314	flow: 5	valid:  30.3	erases:   16 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 315	flow: 5	valid:   0.4	erases:   17 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 316	flow:12	valid:   0.0	erases:    7 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 317	flow:12	valid:   0.0	erases:    6 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 318	flow: 5	valid:  25.5	erases:   16 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 319	flow:12	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 320	flow: 5	valid:  99.8	erases:    6 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 321	flow: 5	valid:  99.9	erases:   12 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 322	flow: 6	valid:  45.6	erases:    7 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 323	flow:12	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 324	flow: 5	valid:  99.7	erases:   10 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 325	flow: 5	valid:   0.0	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 326	flow:12	valid:   0.0	erases:   10 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 327	flow:12	valid:   0.0	erases:   13 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 328	flow: 5	valid:   9.5	erases:    6 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 329	flow:12	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 330	flow: 5	valid:  99.6	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 331	flow: 5	valid:  21.7	erases:   14 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 332	flow: 5	valid:  87.0	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 333	flow: 5	valid:  99.3	erases:   11 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 334	flow:12	valid:   0.0	erases:   13 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 335	flow: 5	valid:  59.7	erases:    7 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 336	flow: 5	valid:  89.3	erases:   12 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 337	flow:12	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 338	flow: 5	valid:   9.4	erases:   18 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 339	flow: 5	valid:   1.5	erases:   17 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 340	flow:12	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 341	flow:12	valid:   0.0	erases:   11 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 342	flow: 5	valid:  99.6	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 343	flow:12	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 344	flow:12	valid:   0.0	erases:   14 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 345	flow: 6	valid:  43.2	erases:    7 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 346	flow: 5	valid:  76.8	erases:    7 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 347	flow: 5	valid:  16.8	erases:   16 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 348	flow:12	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 349	flow:12	valid:   0.0	erases:   13 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 350	flow: 5	valid:   8.4	erases:   17 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 351	flow: 5	valid:   3.7	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 352	flow: 5	valid:  50.6	erases:    6 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 353	flow: 5	valid:  51.6	erases:    9 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 354	flow: 5	valid:   7.7	erases:   17 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 355	flow: 5	valid:   0.1	erases:   11 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 356	flow: 5	valid:   5.3	erases:    8 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 357	flow: 5	valid:  24.4	erases:   15 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 358	flow:12	valid:   0.0	erases:   13 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 359	flow:12	valid:   0.0	erases:   17 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 360	flow: 5	valid:  72.2	erases:    9 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 361	flow: 5	valid:  21.6	erases:   17 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 362	flow: 5	valid:   2.8	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 363	flow: 5	valid:  15.0	erases:   15 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 364	flow: 5	valid:   0.0	erases:   15 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 365	flow: 5	valid:  98.9	erases:   10 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 366	flow:12	valid:   0.0	erases:   15 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 367	flow: 5	valid:  12.8	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 368	flow: 5	valid:   8.0	erases:   15 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 369	flow: 5	valid:   0.0	erases:    9 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 370	flow: 5	valid:  52.9	erases:   13 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 371	flow: 5	valid:  18.6	erases:   14 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 372	flow: 5	valid:  96.4	erases:   13 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 373	flow: 5	valid:   9.6	erases:   16 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 374	flow: 5	valid:  10.9	erases:    6 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 375	flow: 5	valid:  33.6	erases:    6 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 376	flow: 5	valid:  39.0	erases:    9 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 377	flow: 5	valid:  64.4	erases:   11 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 378	flow: 5	valid:   0.1	erases:   11 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 379	flow:12	valid:   0.0	erases:    8 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 380	flow: 5	valid:  98.5	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 381	flow: 5	valid:   0.1	erases:    6 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 382	flow: 5	valid:  15.0	erases:   13 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 383	flow:12	valid:   0.0	erases:    9 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 384	flow: 5	valid:  90.1	erases:   13 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 385	flow: 5	valid:  98.4	erases:   12 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 386	flow: 5	valid:   1.9	erases:   15 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 387	flow: 5	valid:  24.2	erases:   13 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 388	flow: 5	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 389	flow:12	valid:   0.0	erases:   16 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 390	flow: 5	valid:  12.8	erases:   18 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 391	flow: 5	valid:  18.5	erases:   16 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 392	flow: 5	valid:  78.6	erases:    7 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 393	flow: 5	valid:   2.2	erases:   15 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 394	flow: 5	valid:  27.0	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 395	flow: 5	valid:   7.7	erases:   17 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 396	flow: 5	valid:   3.7	erases:    6 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 397	flow:12	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 398	flow: 5	valid:  20.7	erases:    6 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 399	flow:12	valid:   0.0	erases:   16 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 400	flow: 5	valid:  28.9	erases:   11 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 401	flow: 5	valid:  98.5	erases:    8 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 402	flow:12	valid:   0.0	erases:   10 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 403	flow: 5	valid:  52.5	erases:    7 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 404	flow: 5	valid:  96.6	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 405	flow: 5	valid:  34.4	erases:    7 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 406	flow: 5	valid:  61.2	erases:   16 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 407	flow: 5	valid:   0.3	erases:    8 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 408	flow: 5	valid:  99.5	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 409	flow: 5	valid:   0.6	erases:   11 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 410	flow: 5	valid:  99.9	erases:    9 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 411	flow: 5	valid:   1.3	erases:   12 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 412	flow:12	valid:   0.0	erases:   10 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 413	flow: 5	valid:  99.5	erases:    6 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 414	flow: 5	valid:   9.8	erases:   15 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 415	flow: 5	valid:   1.3	erases:   12 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 416	flow: 5	valid:   7.7	erases:   14 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 417	flow: 5	valid:  19.7	erases:    6 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 418	flow: 5	valid:  98.5	erases:   13 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 419	flow: 5	valid:   7.8	erases:    8 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 420	flow:12	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 421	flow: 5	valid:  99.7	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 422	flow: 5	valid:   4.8	erases:   12 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 423	flow: 5	valid:  97.6	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 424	flow: 5	valid:  47.4	erases:   12 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 425	flow: 5	valid:  30.7	erases:   12 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 426	flow: 5	valid:  99.9	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 427	flow: 5	valid:  10.9	erases:   15 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 428	flow: 5	valid:   1.9	erases:   16 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 429	flow:12	valid:   0.0	erases:   13 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 430	flow:12	valid:   0.0	erases:   13 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 431	flow:12	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 432	flow: 5	valid:  27.2	erases:   15 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 433	flow:12	valid:   0.0	erases:   10 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 434	flow: 5	valid:   9.3	erases:   14 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 435	flow:12	valid:   0.0	erases:   14 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 436	flow:12	valid:   0.0	erases:    8 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 437	flow:12	valid:   0.0	erases:   13 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 438	flow: 5	valid:   0.0	erases:   14 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 439	flow: 5	valid:   4.5	erases:   14 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 440	flow: 5	valid:   0.4	erases:   14 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 441	flow: 5	valid:  13.8	erases:    9 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 442	flow: 5	valid:  76.7	erases:   13 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 443	flow: 5	valid:  11.3	erases:   15 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 444	flow:12	valid:   0.0	erases:   10 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 445	flow: 5	valid:  98.0	erases:   11 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 446	flow: 5	valid:  16.2	erases:    6 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 447	flow: 5	valid:   1.5	erases:   11 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 448	flow: 5	valid:  40.3	erases:   11 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 449	flow: 5	valid:   8.1	erases:   11 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 450	flow: 5	valid:  19.1	erases:   15 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 451	flow: 5	valid:   0.0	erases:    8 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 452	flow:12	valid:   0.0	erases:   13 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 453	flow:12	valid:   0.0	erases:   15 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 454	flow: 5	valid:  24.4	erases:   16 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 455	flow:12	valid:   0.0	erases:   15 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 456	flow: 5	valid:  26.0	erases:   17 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 457	flow: 5	valid:  26.3	erases:    9 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 458	flow:12	valid:   0.0	erases:   13 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 459	flow: 5	valid:   3.9	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 460	flow: 5	valid:   0.0	erases:   16 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 461	flow: 5	valid:  43.3	erases:   13 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 462	flow: 5	valid:   0.8	erases:    8 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 463	flow: 5	valid:   0.3	erases:   15 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 464	flow:12	valid:   0.0	erases:   11 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 465	flow: 5	valid:   8.1	erases:   18 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 466	flow:12	valid:   0.0	erases:   10 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 467	flow: 5	valid:  94.8	erases:    9 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 468	flow: 5	valid:  77.5	erases:   12 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 469	flow: 5	valid:  65.7	erases:   17 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 470	flow: 5	valid:  44.0	erases:   12 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 471	flow:12	valid:   0.0	erases:    7 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 472	flow:12	valid:   0.0	erases:    9 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 473	flow:12	valid:   0.0	erases:   13 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 474	flow:12	valid:   0.0	erases:   14 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 475	flow: 5	valid:  99.7	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 476	flow: 5	valid:   5.6	erases:   17 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 477	flow: 6	valid:   4.6	erases:    6 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 478	flow: 5	valid:  99.2	erases:    8 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 479	flow: 5	valid:   3.1	erases:   16 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 480	flow:12	valid:   0.0	erases:    8 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 481	flow:12	valid:   0.0	erases:   13 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 482	flow: 5	valid:  41.9	erases:   15 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 483	flow: 6	valid:  31.9	erases:   15 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 484	flow: 5	valid:  26.3	erases:   18 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 485	flow:12	valid:   0.0	erases:   11 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 486	flow: 5	valid:   9.5	erases:   11 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 487	flow:12	valid:   0.0	erases:   18 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 488	flow: 5	valid:  60.5	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 489	flow: 5	valid:  99.9	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 490	flow:12	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 491	flow: 5	valid:   5.7	erases:    6 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 492	flow: 5	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 493	flow: 5	valid:  26.5	erases:   18 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 494	flow:12	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 495	flow: 5	valid:   1.2	erases:   11 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 496	flow: 5	valid:  12.1	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 497	flow:12	valid:   0.0	erases:   17 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 498	flow: 5	valid:  94.7	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 499	flow: 5	valid:   0.9	erases:   14 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 500	flow: 5	valid:  83.0	erases:   11 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 501	flow:12	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 502	flow:12	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 503	flow: 5	valid:   0.1	erases:   14 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 504	flow: 5	valid:  50.9	erases:   15 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 505	flow: 5	valid:  99.5	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 506	flow: 5	valid:  51.1	erases:   10 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 507	flow: 5	valid:  92.0	erases:   11 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 508	flow:12	valid:   0.0	erases:    8 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 509	flow:12	valid:   0.0	erases:   14 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 510	flow: 5	valid:  45.4	erases:   15 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 511	flow: 5	valid:  14.4	erases:   10 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 512	flow: 5	valid:  22.1	erases:   10 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 513	flow: 5	valid:   8.1	erases:   15 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 514	flow: 5	valid:   7.3	erases:   17 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 515	flow:12	valid:   0.0	erases:    7 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 516	flow:12	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 517	flow: 5	valid:  93.4	erases:   12 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 518	flow: 5	valid:  58.9	erases:   16 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 519	flow: 5	valid:  27.0	erases:   13 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 520	flow: 5	valid:   8.9	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 521	flow: 5	valid:   0.0	erases:   17 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 522	flow: 5	valid:  99.9	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 523	flow: 5	valid:   0.0	erases:    7 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 524	flow:12	valid:   0.0	erases:   14 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 525	flow: 5	valid:  23.1	erases:   17 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 526	flow: 5	valid:   2.1	erases:   13 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 527	flow: 5	valid:   4.5	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 528	flow: 5	valid:   4.2	erases:   11 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 529	flow:12	valid:   0.0	erases:    7 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 530	flow: 5	valid:   0.2	erases:   14 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 531	flow:12	valid:   0.0	erases:   17 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 532	flow:12	valid:   0.0	erases:   14 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 533	flow: 5	valid:  40.1	erases:    8 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 534	flow: 5	valid:  22.8	erases:   16 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 535	flow:12	valid:   0.0	erases:   11 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 536	flow: 5	valid:  12.2	erases:   16 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 537	flow: 5	valid:  66.1	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 538	flow: 5	valid:   0.5	erases:   10 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 539	flow: 5	valid:  99.7	erases:   10 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 540	flow:12	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 541	flow: 5	valid:   0.2	erases:   15 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 542	flow: 5	valid:  99.8	erases:    9 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 543	flow: 5	valid:  95.6	erases:   12 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 544	flow: 5	valid:   0.0	erases:   14 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 545	flow:12	valid:   0.0	erases:   13 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 546	flow: 5	valid:   0.4	erases:   14 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 547	flow: 5	valid:  99.8	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 548	flow: 5	valid:   7.5	erases:   12 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 549	flow: 5	valid:   8.0	erases:   17 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 550	flow: 5	valid:  28.4	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 551	flow:12	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 552	flow:12	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 553	flow: 5	valid:  11.3	erases:   18 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 554	flow:12	valid:   0.0	erases:    8 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 555	flow: 5	valid:   0.0	erases:   11 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 556	flow:12	valid:   0.0	erases:   16 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 557	flow: 5	valid:  99.1	erases:    8 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 558	flow:12	valid:   0.0	erases:   14 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 559	flow: 5	valid:  83.4	erases:   16 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 560	flow:12	valid:   0.0	erases:    6 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 561	flow: 5	valid:  31.7	erases:   15 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 562	flow: 5	valid:  24.3	erases:   11 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 563	flow: 6	valid:  37.6	erases:    8 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 564	flow: 5	valid:   0.8	erases:   16 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 565	flow: 5	valid:   5.8	erases:   17 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 566	flow: 5	valid:  46.4	erases:   10 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 567	flow: 5	valid:   0.0	erases:    7 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 568	flow: 5	valid:  97.0	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 569	flow:12	valid:   0.0	erases:   10 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 570	flow: 5	valid:  53.4	erases:   17 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 571	flow: 5	valid:  22.9	erases:   10 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 572	flow: 5	valid:  15.8	erases:   15 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 573	flow: 5	valid:  49.6	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 574	flow: 5	valid:  55.0	erases:   16 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 575	flow: 5	valid:   0.0	erases:   15 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 576	flow: 5	valid:  97.5	erases:    9 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 577	flow: 5	valid:  37.3	erases:   18 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 578	flow: 5	valid:   4.8	erases:   17 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 579	flow:12	valid:   0.0	erases:   16 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 580	flow:12	valid:   0.0	erases:    9 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 581	flow: 5	valid:   4.0	erases:   10 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 582	flow: 5	valid:  88.2	erases:   10 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 583	flow: 5	valid:  99.8	erases:    9 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 584	flow:12	valid:   0.0	erases:   15 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 585	flow: 5	valid:   1.4	erases:   17 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 586	flow: 5	valid:   0.0	erases:   11 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 587	flow: 5	valid:  99.9	erases:   10 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 588	flow: 5	valid:  62.2	erases:    7 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 589	flow: 5	valid:  19.4	erases:   16 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 590	flow: 5	valid:  73.4	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 591	flow: 5	valid:  36.6	erases:   10 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 592	flow: 5	valid:   3.7	erases:   17 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 593	flow:12	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 594	flow: 5	valid:  36.2	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 595	flow:12	valid:   0.0	erases:   14 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 596	flow:12	valid:   0.0	erases:   12 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 597	flow:12	valid:   0.0	erases:    8 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 598	flow: 5	valid:   3.2	erases:   17 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 599	flow: 5	valid:  97.9	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 600	flow: 5	valid:  40.9	erases:   15 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 601	flow: 5	valid:   0.2	erases:   14 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 602	flow:12	valid:   0.0	erases:   17 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 603	flow: 5	valid:   0.9	erases:   17 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 604	flow: 5	valid:   5.4	erases:   18 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 605	flow: 5	valid:  15.4	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 606	flow: 5	valid:  34.2	erases:   11 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 607	flow: 5	valid:  41.1	erases:   16 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 608	flow: 5	valid:   8.3	erases:   17 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 609	flow: 5	valid:   7.2	erases:   18 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 610	flow: 5	valid:   6.3	erases:   17 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 611	flow: 6	valid:  64.4	erases:   10 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 612	flow: 5	valid:  21.4	erases:   17 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 613	flow: 5	valid:   5.5	erases:   15 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 614	flow:12	valid:   0.0	erases:   13 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 615	flow:12	valid:   0.0	erases:   10 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 616	flow: 5	valid:  19.0	erases:   16 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 617	flow: 5	valid:   0.7	erases:   15 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 618	flow: 5	valid:  22.9	erases:   13 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 619	flow: 5	valid:   3.4	erases:   11 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 620	flow: 5	valid:  94.0	erases:   12 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 621	flow: 5	valid:  13.4	erases:   12 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 622	flow:12	valid:   0.0	erases:   10 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 623	flow: 5	valid:  18.0	erases:   12 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 624	flow: 5	valid:  79.2	erases:    9 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 625	flow: 5	valid:  10.0	erases:   17 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 626	flow: 5	valid:  99.9	erases:   10 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 627	flow: 5	valid:   0.3	erases:    9 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 628	flow: 5	valid:  32.3	erases:    9 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 629	flow:12	valid:   0.0	erases:   13 [  0%] 	age:    0	GCcan:0 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 630	flow: 5	valid:  97.8	erases:   14 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 631	flow: 5	valid:  49.5	erases:    9 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 632	flow: 5	valid:  28.7	erases:    7 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 633	flow: 5	valid:   0.1	erases:   15 [  0%] 	age:    0	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+band: 634	flow: 5	valid:   3.8	erases:   11 [  0%] 	age:    1	GCcan:1 GCmust:0 GCrd: 0 Special: 0 mode:0
+INTERMEDIATE PARTITION : Erase Cycles: Max ( 640, 0% of EoL ) Min ( 637, 0% of EoL ) Avg ( 639, 0% of EoL )
+                         Max band age:     ( 6 )
+                         EoL erase cycles: ( 100000 ) 
+USER PARTITION         : Erase Cycles: Max ( 19, 0% of EoL ) Min ( 5, 0% of EoL ) Avg ( 11, 0% of EoL )
+                         Max band age:     ( 1 )
+                         EoL erase cycles: ( 3000 ) 
+USER PARTITION:
+Erase Quantile [  100.00 (19.00 - 19.00 erases) ] = 1 bands
+Erase Quantile [  99.90 (18.98 - 19.00 erases) ] = 0 bands
+Erase Quantile [  99.00 (18.81 - 18.98 erases) ] = 0 bands
+Erase Quantile [  95.00 (18.05 - 18.81 erases) ] = 0 bands
+Erase Quantile [  90.00 (17.10 - 18.05 erases) ] = 11 bands
+Erase Quantile [  50.00 (9.50 - 17.10 erases) ] = 410 bands
+Erase Quantile [  0.00 (0.00 - 9.50 erases) ] = 154 bands
+NAND stats:
+===========
+             version:	0x8000000000000001
+      hostWriteXacts:	74064622
+       hostReadXacts:	101210426
+          hostWrites:	346327542
+       hostWritesDyn:	264131336
+    hostWritesStatic:	30412556
+      hostWritesMeta:	51783650
+     hostWritesPhoto:	0
+      pushSyncWrites:	0
+       hostPassiveIO:	58401353
+           hostReads:	819017380
+           validLbas:	4348210
+           shutdowns:	194
+               boots:	196
+        uncleanBoots:	4
+       IND_pool_free:	15813280
+      IND_pool_count:	16781312
+   hostWriteLogHisto:
+                      [0] = 49014164
+                      [1] = 8172941
+                      [2] = 12250869
+                      [3] = 1910704
+                      [4] = 1225742
+                      [5] = 445010
+                      [6] = 496835
+                      [7] = 289061
+                      [8] = 259296
+                      [9] = 0
+    hostReadLogHisto:
+                      [0] = 42093462
+                      [1] = 5851048
+                      [2] = 30135176
+                      [3] = 10159399
+                      [4] = 7069610
+                      [5] = 3428798
+                      [6] = 1252243
+                      [7] = 1164709
+                      [8] = 55981
+                      [9] = 0
+        wearLevMoves:	0
+          nandWrites:	523668770
+           nandReads:	1134336257
+          bandErases:	6814
+                KEY_414:	0
+            numPfail:	0
+            numEfail:	0
+        numRefreshes:	0
+         numSleepOps:	33569
+cntTimeWentBackWardOnBoot:	4
+ cntTimeWentBackWard:	0
+cntCalTimeWentBackWard:	0
+        powerOnHours:	134
+    shutdownDuringGC:	70
+   smartCritWarnings:	0
+          numFlushes:	210794
+           numFences:	2035932
+            numUnmap:	1990570
+         numUnmapSec:	2545107819
+         clogProgram:	974276
+           clogPFail:	0
+            clogRead:	157374
+           clogRFail:	0
+maxHighEnduranceBlockErases:	22
+     numSyscfgWrites:	69
+   numFirmwareWrites:	8
+        numBisWrites:	0
+       numFactoryBad:	6
+         numGrownBad:	0
+    numRetiredBlocks:	0
+numFreeVirtualBlocks:	142
+        bytesPerPage:	8192
+pagesPerVirtualBlock:	13824
+blocksPerVirtualBlock:	8
+    numVirtualBlocks:	635
+       exportVersion:	196609
+              ECBins:
+                      [0] = 577
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+                      [10] = 0
+                      [11] = 0
+                      [12] = 58
+                      [13] = 0
+                      [14] = 0
+                      [15] = 0
+                      [16] = 0
+                      [17] = 0
+                      [18] = 0
+                      [19] = 0
+                      [20] = 0
+                      [21] = 0
+                      [22] = 0
+                      [23] = 0
+                      [24] = 0
+                      [25] = 0
+                      [26] = 0
+                      [27] = 0
+                      [28] = 0
+                      [29] = 0
+                      [30] = 0
+                      [31] = 0
+                      [32] = 0
+                      [33] = 0
+                      [34] = 0
+                      [35] = 0
+                      [36] = 0
+                      [37] = 0
+                      [38] = 0
+                      [39] = 0
+                      [40] = 0
+                      [41] = 0
+                      [42] = 0
+                      [43] = 0
+                      [44] = 0
+                      [45] = 0
+                      [46] = 0
+                      [47] = 0
+                      [48] = 0
+                      [49] = 0
+                      [50] = 0
+                      [51] = 0
+                      [52] = 0
+                      [53] = 0
+                      [54] = 0
+                      [55] = 0
+                      [56] = 0
+                      [57] = 0
+                      [58] = 0
+                      [59] = 0
+                      [60] = 0
+                      [61] = 0
+                      [62] = 0
+                      [63] = 0
+                      [64] = 0
+                      [65] = 0
+                      [66] = 0
+                      [67] = 0
+                      [68] = 0
+                      [69] = 0
+                      [70] = 0
+                      [71] = 0
+                      [72] = 0
+                      [73] = 0
+                      [74] = 0
+                      [75] = 0
+                      [76] = 0
+                      [77] = 0
+                      [78] = 0
+                      [79] = 0
+                      [80] = 0
+                      [81] = 0
+                      [82] = 0
+                      [83] = 0
+                      [84] = 0
+                      [85] = 0
+                      [86] = 0
+                      [87] = 0
+                      [88] = 0
+                      [89] = 0
+                      [90] = 0
+                      [91] = 0
+                      [92] = 0
+                      [93] = 0
+                      [94] = 0
+                      [95] = 0
+                      [96] = 0
+                      [97] = 0
+                      [98] = 0
+                      [99] = 0
+              RCBins:
+                      [0] = 2198
+                      [1] = 924
+                      [2] = 665
+                      [3] = 318
+                      [4] = 148
+                      [5] = 127
+                      [6] = 98
+                      [7] = 43
+                      [8] = 20
+                      [9] = 19
+                      [10] = 16
+                      [11] = 9
+                      [12] = 8
+                      [13] = 7
+                      [14] = 15
+                      [15] = 14
+                      [16] = 26
+                      [17] = 17
+                      [18] = 24
+                      [19] = 11
+                      [20] = 10
+                      [21] = 4
+                      [22] = 7
+                      [23] = 16
+                      [24] = 4
+                      [25] = 8
+                      [26] = 10
+                      [27] = 8
+                      [28] = 10
+                      [29] = 17
+                      [30] = 14
+                      [31] = 9
+                      [32] = 13
+                      [33] = 7
+                      [34] = 6
+                      [35] = 15
+                      [36] = 18
+                      [37] = 21
+                      [38] = 17
+                      [39] = 17
+                      [40] = 25
+                      [41] = 26
+                      [42] = 18
+                      [43] = 12
+                      [44] = 11
+                      [45] = 13
+                      [46] = 7
+                      [47] = 9
+                      [48] = 5
+                      [49] = 4
+                      [50] = 4
+                      [51] = 0
+                      [52] = 4
+                      [53] = 3
+                      [54] = 1
+                      [55] = 0
+                      [56] = 0
+                      [57] = 0
+                      [58] = 0
+                      [59] = 0
+                      [60] = 0
+                      [61] = 0
+                      [62] = 0
+                      [63] = 0
+                      [64] = 0
+                      [65] = 0
+                      [66] = 0
+                      [67] = 0
+                      [68] = 0
+                      [69] = 0
+                      [70] = 0
+                      [71] = 0
+                      [72] = 0
+                      [73] = 0
+                      [74] = 0
+                      [75] = 0
+                      [76] = 0
+                      [77] = 0
+                      [78] = 0
+                      [79] = 0
+                      [80] = 0
+                      [81] = 0
+                      [82] = 0
+                      [83] = 0
+                      [84] = 0
+                      [85] = 0
+                      [86] = 0
+                      [87] = 0
+                      [88] = 0
+                      [89] = 0
+                      [90] = 0
+                      [91] = 0
+                      [92] = 0
+                      [93] = 0
+                      [94] = 0
+                      [95] = 0
+                      [96] = 0
+                      [97] = 0
+                      [98] = 0
+                      [99] = 0
+      utilFormatTime:	1566965832
+        calendarTime:	1674370455
+            wallTime:	653475
+          qosPerCmdQ:
+                      [0] = 67879
+                      [1] = 66539
+                      [2] = 21963
+                      [3] = 12694
+                      [4] = 7264
+                      [5] = 5175
+                      [6] = 5068
+                      [7] = 3817
+                      [8] = 12154
+                      [9] = 3323
+                      [10] = 1325
+                      [11] = 714
+                      [12] = 2139
+                      [13] = 696
+                      [14] = 38
+                      [15] = 6
+                      [16] = 1892148
+                      [17] = 67212
+                      [18] = 3448
+                      [19] = 849
+                      [20] = 493
+                      [21] = 430
+                      [22] = 488
+                      [23] = 802
+                      [24] = 17466
+                      [25] = 3652
+                      [26] = 1592
+                      [27] = 499
+                      [28] = 611
+                      [29] = 159
+                      [30] = 130
+                      [31] = 591
+                      [32] = 11201330
+                      [33] = 243788
+                      [34] = 102367
+                      [35] = 72627
+                      [36] = 43103
+                      [37] = 18596
+                      [38] = 14805
+                      [39] = 11354
+                      [40] = 26874
+                      [41] = 36767
+                      [42] = 12262
+                      [43] = 7076
+                      [44] = 18097
+                      [45] = 14458
+                      [46] = 10323
+                      [47] = 4565
+                      [48] = 40665206
+                      [49] = 648299
+                      [50] = 149363
+                      [51] = 158040
+                      [52] = 110821
+                      [53] = 93735
+                      [54] = 93922
+                      [55] = 88152
+                      [56] = 803461
+                      [57] = 3360577
+                      [58] = 259581
+                      [59] = 152049
+                      [60] = 351441
+                      [61] = 218212
+                      [62] = 232220
+                      [63] = 5164
+                      [64] = 10043108
+                      [65] = 172893
+                      [66] = 79739
+                      [67] = 60148
+                      [68] = 29686
+                      [69] = 22751
+                      [70] = 21536
+                      [71] = 17784
+                      [72] = 215663
+                      [73] = 193323
+                      [74] = 62459
+                      [75] = 39216
+                      [76] = 110799
+                      [77] = 51767
+                      [78] = 28095
+                      [79] = 133216
+                      [80] = 2498633
+                      [81] = 366492
+                      [82] = 187272
+                      [83] = 113526
+                      [84] = 59652
+                      [85] = 39337
+                      [86] = 29399
+                      [87] = 17425
+                      [88] = 60468
+                      [89] = 53834
+                      [90] = 35468
+                      [91] = 17066
+                      [92] = 31095
+                      [93] = 11216
+                      [94] = 7518
+                      [95] = 25403
+                      [96] = 9878563
+                      [97] = 21814848
+                      [98] = 3141880
+                      [99] = 2375912
+                      [100] = 1509425
+                      [101] = 653588
+                      [102] = 336215
+                      [103] = 343377
+                      [104] = 888525
+                      [105] = 514829
+                      [106] = 184036
+                      [107] = 121761
+                      [108] = 110969
+                      [109] = 12891
+                      [110] = 9452
+                      [111] = 30629
+                      [112] = 12705937
+                      [113] = 18097227
+                      [114] = 2846984
+                      [115] = 1370422
+                      [116] = 411829
+                      [117] = 236758
+                      [118] = 172596
+                      [119] = 213580
+                      [120] = 854117
+                      [121] = 491566
+                      [122] = 148043
+                      [123] = 199961
+                      [124] = 290481
+                      [125] = 104668
+                      [126] = 99990
+                      [127] = 418354
+                      [128] = 2320867
+                      [129] = 12013636
+                      [130] = 1333004
+                      [131] = 879223
+                      [132] = 641689
+                      [133] = 381542
+                      [134] = 298743
+                      [135] = 291121
+                      [136] = 772264
+                      [137] = 262396
+                      [138] = 110867
+                      [139] = 116732
+                      [140] = 271301
+                      [141] = 100531
+                      [142] = 79026
+                      [143] = 435410
+                      [144] = 32288
+                      [145] = 244799
+                      [146] = 5307
+                      [147] = 1827
+                      [148] = 929
+                      [149] = 607
+                      [150] = 453
+                      [151] = 366
+                      [152] = 2133
+                      [153] = 1230
+                      [154] = 1108
+                      [155] = 1563
+                      [156] = 4841
+                      [157] = 2342
+                      [158] = 1732
+                      [159] = 11136
+       maxQosPerCmdQ:
+                      [0] = 10362718
+                      [1] = 6921754
+                      [2] = 15159911
+                      [3] = 5902390
+                      [4] = 4438972
+                      [5] = 4971228
+                      [6] = 6973213
+                      [7] = 5014553
+                      [8] = 6505311
+                      [9] = 2594859
+       cmdq_flush_us:	10000
+       cmdq_unmap_us:	5000
+      cmdq_pri0_r_us:	5000
+      cmdq_pri0_w_us:	5000
+      cmdq_pri1_r_us:	20000
+      cmdq_pri1_w_us:	30000
+      cmdq_pri2_r_us:	50000
+      cmdq_pri2_w_us:	60000
+      cmdq_pri3_r_us:	100000
+      cmdq_pri3_w_us:	100000
+        host_idle_ms:	22
+cmd_hysteresis_window_us:	5000
+cmd_rw_hysteresis_us:	0
+cmd_lowPriHoldoffDelay_us:	50000
+cmd_lowPriHoldoffEnabled:	0
+cmd_expedite_num_success:	0
+cmd_expedite_num_failures:	10965
+       num_trimerase:	0
+      staticSizeInMB:	611
+      readCountHisto:
+                      [0] = 349436
+                      [1] = 689
+                      [2] = 170
+                      [3] = 143
+                      [4] = 26
+    slcInvalidations:	325491614
+  slcGCInvalidations:	127912634
+                      [0] = 232
+                      [1] = 11838
+                      [2] = 41895
+                      [3] = 1946929
+                      [4] = 1040197
+                      [5] = 599596
+                      [6] = 120092
+                      [7] = 31050
+                      [8] = 9060
+                      [9] = 1186
+hostSectorsDuringGCon:	16806931
+intermediateBandErases:	36895
+intermediatePartitionStart:	1
+  userPartitionStart:	59
+          iolog_lbas:	0
+        bandsAgeBins:
+                      [0] = 6896
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+intermediateBandsAgeBins:
+                      [0] = 36912
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+numBandsRefreshedForAgePerTier:
+                      [0] = 790
+                      [1] = 0
+                      [2] = 0
+         bdrDeltaHot:
+                      [0] = 157
+                      [1] = 61
+                      [2] = 88
+                      [3] = 93
+                      [4] = 103
+                      [5] = 125
+                      [6] = 117
+                      [7] = 125
+                      [8] = 242
+                      [9] = 870
+                      [10] = 409
+                      [11] = 6
+                      [12] = 13
+                      [13] = 8
+                      [14] = 0
+                      [15] = 12
+                      [16] = 1
+                      [17] = 1
+                      [18] = 0
+                      [19] = 10
+numBandsPaddedForAge:	27
+numRefreshOnClockLoss:	0
+numRefreshOnErrNandRefreshRel:	0
+numRefreshOnErrNandRefreshPerf:	0
+          bdrPadding:	49614
+   numBGRefreshMoves:	76
+   numBGPaddingMoves:	2243
+       photoFlowMode:	1
+pagesPerVirtualBlockSlc:	4608
+    bandsPerHostFlow:
+                      [0] = 35218
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+ bandsPerSpecialFlow:
+                      [0] = 7067
+                      [1] = 191
+                      [2] = 0
+                      [3] = 0
+                      [4] = 427
+     secsPerHostFlow:
+                      [0] = 323156736
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+  secsPerSpecialFlow:
+                      [0] = 187120512
+                      [1] = 5280768
+                      [2] = 0
+                      [3] = 0
+                      [4] = 3923712
+overWritesPerHostFlow:
+                      [0] = 47678306
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+overWritesPerSpecialFlow:
+                      [0] = 19185540
+                      [1] = 27523
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+   padSectorsPerFlow:
+                      [0] = 770937
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 43196
+                      [5] = 17998834
+                      [6] = 190850
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+            padSizes:
+                      [0] = 738203
+                      [1] = 173
+                      [2] = 0
+                      [3] = 4201
+   unmapsPerHostFlow:
+                      [0] = 146795412
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+unmapsPerSpecialFlow:
+                      [0] = 102695829
+                      [1] = 1770665
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+        coldestCycle:
+                      [0] = 5
+                      [1] = 637
+        hottestCycle:
+                      [0] = 19
+                      [1] = 640
+            gcWrites:	174144264
+       gcLonlyWrites:	0
+          gcPLWrites:	0
+             gcFreeL:	977089
+      gcDestinations:	7258
+         gcFragments:	7607983
+       gcReadsNoBlog:	24608
+   gcSlcDestinations:	444
+GC_MidDestSrcSwitchSLC2TLC:	0
+GC_MidDestSrcSwitchTLC2SLC:	0
+      errInjCounters:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+raidSuccessfulReconstructionInternal:	0
+raidSuccessfulReconstructionHost:	0
+raidFailedReconstructionHost:	0
+raidSuccessfulPMXReconstructionInternal:	0
+raidSuccessfulPMXReconstructionHost:	0
+raidFailedPMXReconstructionInternal:	0
+raidFailedPMXReconstructionHost:	0
+raidSuccessfulRMXReconstructionInternal:	0
+raidSuccessfulRMXReconstructionHost:	0
+raidFailedRMXReconstructionInternal:	0
+raidFailedRMXReconstructionHost:	0
+raidFailedReconstructionInternal:	0
+                KEY_400:	0
+                      [0] = 0
+                      [1] = 0
+                      [0] = 0
+                      [1] = 0
+raidFailedReadParityHost:	0
+                KEY_396:	0
+                KEY_398:	0
+                KEY_397:	0
+                KEY_399:	0
+                KEY_405:	0
+                KEY_403:	0
+raidFailedLbaMismatch:	0
+raidBandsPerHostFlow:	372
+ raidSecsPerHostFlow:	3419136
+                KEY_444:	0
+                KEY_445:	0
+                KEY_440:	0
+                KEY_441:	0
+                KEY_442:	0
+                KEY_443:	0
+raidReconstructReads:	888606
+           ueccReads:	0
+                KEY_416:	0
+                KEY_417:	0
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                KEY_472:	0
+                KEY_473:	0
+raidReconstructSuccessPartition:
+                      [0] = 0
+                      [1] = 0
+raidReconstructFailPartition:
+                      [0] = 0
+                      [1] = 0
+                KEY_408:	0
+                KEY_409:	0
+                KEY_410:	0
+                KEY_411:	0
+                KEY_412:	0
+                KEY_471:	0
+       TempSensorMax:
+                      [0] = 9331882296111890817
+       TempSensorMin:
+                      [0] = 9187201950435737471
+             odtsMax:	0
+       internalUeccs:	0
+ clogLastStripeUeccs:	0
+AbortSkip_ProgramError:	0
+AbortSkip_ReadErrorOpenBand:	0
+AbortSkip_FailedRebuildingParity:	0
+AbortSkip_MPBXReadVerifyClosedBand:	0
+AbortSkip_MPBXReadVerifyOpenBand:	0
+AbortSkip_MBPXFailedRebuildingParity:	0
+                KEY_420:	0
+                KEY_438:	3
+AbortPad_OpenRefreshBand:	10
+ AbortPad_CloseBands:	0
+   AbortPad_SetPhoto:	0
+ AbortPad_GcNoSource:	963
+     AbortPad_Format:	3
+nandDiscoveryDuration:	30
+coreCCEnableDuration:	0
+    coreOpenDuration:	96468
+coreWritableDuration:	3758
+coreClogLoadDuration:	344
+         numMemChoke:	1
+ maxMemChokeDuration:	10806
+    memChokeDuration:	10806
+       numMemExtreme:	0
+maxMemExtremeDuration:	0
+  memExtremeDuration:	0
+           numMemLow:	1
+   maxMemLowDuration:	10806
+      memLowDuration:	10806
+     bandGetsExtreme:	0
+         bandGetsLow:	725
+        numHostChoke:	79
+             e2eFail:	0
+  defragMFromOrphans:	0
+defragMFromFragments:	0
+         defragMTime:	0
+      defragMMaxTime:	0
+      powerOnSeconds:	2149
+numUnknownTokenHostRead:	0
+numUnmmapedTokenHostRead:	196163
+     indmbUnitsTotal:	16
+      indmbUnitsXfer:	0
+     indmbUnitsCache:	14
+       indmbUnitsInd:	1
+     wcacheFS_Mbytes:	0
+     wcacheDS_Mbytes:	42
+  wcacheFS_MbytesMin:	0
+  wcacheFS_MbytesMax:	0
+numOfThrottlingEntriesPerLevel:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+                      [10] = 0
+                      [11] = 0
+                      [12] = 0
+                      [13] = 0
+                      [14] = 0
+                      [15] = 0
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+                      [10] = 0
+                      [11] = 0
+                      [12] = 0
+                      [13] = 0
+                      [14] = 0
+                      [15] = 0
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+                      [10] = 0
+                      [11] = 0
+                      [12] = 0
+                      [13] = 0
+                      [14] = 0
+                      [15] = 0
+ crcInternalReadFail:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+          wcacheFSWr:	0
+          wcacheDSWr:	346327542
+    wcacheFSEvictCnt:	0
+   wcacheFSEvictSize:	0
+wcacheFSEvictSizeLogDist:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+    RD_openBandCount:	421
+     RD_openBandNops:	2818900
+RD_closedBandEvictCount:	17
+RD_closedBandEvictSectors:	468534
+wcacheFSOverWrLogSizeCnts:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+wcacheFSOverWrSizeByFlow:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+    indmbXferCountTo:
+                      [0] = 1
+                      [1] = 5
+indmbAccumulatedTimeBetweenXfers:
+                      [0] = 10337581527
+                      [1] = 7416534840731
+maxGracefulBootTimeMs:	165840
+maxUngracefulBootTimeMs:	6489
+averageGracefulBootTimeMs:	20265
+averageUngracefulBootTimeMs:	1901
+gracefulBootTimeLogMs:
+                      [0] = 100701
+                      [1] = 6651
+                      [2] = 6692
+                      [3] = 6615
+                      [4] = 7072
+                      [5] = 8747
+                      [6] = 3934
+                      [7] = 3742
+ungracefulBootTimeLogMs:
+                      [0] = 6489
+                      [1] = 300
+                      [2] = 412
+                      [3] = 404
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+ungracefulBootWorstIndicator:	0
+         odtsCurrent:	0
+       prefetchReads:	0
+        prefetchHits:	0
+prefetchWritesInvalidation:	0
+    numClogDoubleUnc:	0
+        readAmpHisto:
+                      [0] = 0
+                      [1] = 83171
+                      [2] = 6629
+                      [3] = 32196
+                      [4] = 29851
+                      [5] = 7549
+                      [6] = 4123
+                      [7] = 4920
+                      [8] = 1415
+                      [9] = 476
+                      [10] = 77
+                      [11] = 14
+                      [12] = 0
+                      [13] = 0
+                      [14] = 0
+                      [15] = 0
+        totalReadAmp:	524081
+      nvmeModeSelect:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+numBootBlockRefreshSuccess:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+numBootBlockRefreshFail:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+mspBootBlockMismatch:	0
+mspBootBlockMismatchErr:	0
+   numUnsupportedAsi:	24
+NumTerminatedProgramSegs:	0
+ indParityPagesDrops:	99232
+     indFlowPrograms:	971738
+   powerBudgetSelect:
+                      [0] = 1841
+                      [1] = 1851
+                      [2] = 0
+                      [3] = 0
+    RxBurnNandWrites:	0
+  E2EDPErrorCounters:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+                      [10] = 0
+                      [11] = 0
+    wcacheSectorsMax:	11367
+    wcacheSectorsMin:	7127
+    wcacheSectorsCur:	10915
+ wcacheDS_SectorsMax:	11367
+ wcacheDS_SectorsMin:	7127
+ wcacheDS_SectorsCur:	10915
+      wcacheFS_Reads:	0
+      wcacheDS_Reads:	4284353
+mspBootBlockReadFail:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+                      [10] = 0
+                      [11] = 0
+                      [12] = 0
+                      [13] = 0
+                      [14] = 0
+                      [15] = 0
+                      [16] = 0
+                      [17] = 0
+                      [18] = 0
+                      [19] = 0
+                      [20] = 0
+                      [21] = 0
+                      [22] = 0
+                      [23] = 0
+                      [24] = 0
+                      [25] = 0
+                      [26] = 0
+                      [27] = 0
+                      [28] = 0
+                      [29] = 0
+                      [30] = 0
+                      [31] = 0
+mspBootBlockProgFail:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+                      [10] = 0
+                      [11] = 0
+                      [12] = 0
+                      [13] = 0
+                      [14] = 0
+                      [15] = 0
+                      [16] = 0
+                      [17] = 0
+                      [18] = 0
+                      [19] = 0
+                      [20] = 0
+                      [21] = 0
+                      [22] = 0
+                      [23] = 0
+                      [24] = 0
+                      [25] = 0
+                      [26] = 0
+                      [27] = 0
+                      [28] = 0
+                      [29] = 0
+                      [30] = 0
+                      [31] = 0
+mspBootBlockEraseFail:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+                      [10] = 0
+                      [11] = 0
+                      [12] = 0
+                      [13] = 0
+                      [14] = 0
+                      [15] = 0
+                      [16] = 0
+                      [17] = 0
+                      [18] = 0
+                      [19] = 0
+                      [20] = 0
+                      [21] = 0
+                      [22] = 0
+                      [23] = 0
+                      [24] = 0
+                      [25] = 0
+                      [26] = 0
+                      [27] = 0
+                      [28] = 0
+                      [29] = 0
+                      [30] = 0
+                      [31] = 0
+bandsRefreshedOnError:	0
+        perHostReads:
+                      [0] = 819017380
+                      [1] = 0
+    perHostReadXacts:
+                      [0] = 101210426
+                      [1] = 0
+       perHostWrites:
+                      [0] = 346327542
+                      [1] = 0
+   perHostWriteXacts:
+                      [0] = 74064622
+                      [1] = 0
+   perHostNumFlushes:
+                      [0] = 210794
+                      [1] = 0
+    perHostNumFences:
+                      [0] = 2035932
+                      [1] = 0
+commitPadSectorsPerFlow:
+                      [0] = 738273
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 360
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+wcacheDSOverWrLogSizeCnts:
+                      [0] = 5291564
+                      [1] = 2805235
+                      [2] = 2348899
+                      [3] = 55416
+                      [4] = 14787
+                      [5] = 7465
+                      [6] = 14228
+                      [7] = 454
+                      [8] = 0
+                      [9] = 0
+wcacheDSOverWrSizeByFlow:
+                      [0] = 24210134
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+CmdRaisePrioiryEvents:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 1424
+                      [3] = 157
+                      [4] = 332
+                      [5] = 12
+                      [6] = 2
+                      [7] = 2
+                      [8] = 0
+                      [9] = 0
+ utilNumVerification:	27
+       utilRefreshes:	0
+       utilBDRErrors:	0
+     indBandsPerFlow:	434
+      secsPerIndFlow:	3981312
+       indDecodedECC:	0
+     indBoRecoveries:	0
+    indReplayExtUsed:	0
+numBootBlockValidateSuccess:
+                      [0] = 8
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+numBootBlockValidateFail:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+clogPagesFillingPercentage:
+                      [0] = 700044
+                      [1] = 60204
+                      [2] = 132753
+                      [3] = 81275
+ bdrCalTimeAccFactor:	197208
+ numBootChainUpdates:	2
+    bootChainRdError:	0
+ bootChainBlankError:	0
+bootChainRefreshError:	0
+bootChainVersionError:	0
+         bitflipAddr:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+        bitflipCount:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+        bitflipDupes:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+   bandsMaxTempHisto:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 174
+                      [8] = 745
+                      [9] = 3085
+                      [10] = 6027
+                      [11] = 10071
+                      [12] = 9555
+                      [13] = 6015
+                      [14] = 3651
+                      [15] = 1863
+                      [16] = 1172
+                      [17] = 459
+                      [18] = 6
+                      [19] = 4
+                      [20] = 3
+                      [21] = 0
+   bandsMinTempHisto:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 7
+                      [7] = 346
+                      [8] = 2338
+                      [9] = 4615
+                      [10] = 8038
+                      [11] = 10538
+                      [12] = 7308
+                      [13] = 4372
+                      [14] = 2714
+                      [15] = 1435
+                      [16] = 773
+                      [17] = 346
+                      [18] = 0
+                      [19] = 0
+                      [20] = 0
+                      [21] = 0
+bandsLifeTimeTempHisto:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 1540
+                      [7] = 91901
+                      [8] = 1250294
+                      [9] = 3328031
+                      [10] = 8661097
+                      [11] = 14933544
+                      [12] = 11554731
+                      [13] = 7022303
+                      [14] = 4929180
+                      [15] = 2598145
+                      [16] = 435084
+                      [17] = 15830
+                      [18] = 617
+                      [19] = 91
+                      [20] = 13
+                      [21] = 0
+ bandsDeltaTempHisto:
+                      [0] = 34916
+                      [1] = 6458
+                      [2] = 851
+                      [3] = 239
+                      [4] = 133
+                      [5] = 98
+                      [6] = 61
+                      [7] = 41
+                      [8] = 26
+                      [9] = 7
+                      [10] = 0
+                      [11] = 0
+                      [12] = 0
+                      [13] = 0
+                      [14] = 0
+                      [15] = 0
+                      [16] = 0
+                      [17] = 0
+                      [18] = 0
+                      [19] = 0
+                      [20] = 0
+                      [21] = 0
+ bandsCrossTempHisto:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+                      [10] = 0
+                      [11] = 0
+                      [12] = 0
+                      [13] = 14
+                      [14] = 72
+                      [15] = 275
+                      [16] = 1049
+                      [17] = 3221
+                      [18] = 7124
+                      [19] = 14539
+                      [20] = 25593
+                      [21] = 37364
+                      [22] = 72061
+                      [23] = 28015
+                      [24] = 13710
+                      [25] = 6793
+                      [26] = 3288
+                      [27] = 1398
+                      [28] = 555
+                      [29] = 258
+                      [30] = 108
+                      [31] = 16
+                      [32] = 1
+                      [33] = 0
+                      [34] = 0
+                      [35] = 0
+                      [36] = 0
+                      [37] = 0
+                      [38] = 0
+                      [39] = 0
+                      [40] = 0
+                      [41] = 0
+                      [42] = 0
+                      [43] = 0
+                      [44] = 0
+     wcacheWaitLogMs:
+                      [0] = 77375208
+                      [1] = 18003
+                      [2] = 61287
+                      [3] = 4717
+                      [4] = 1010
+                      [5] = 73
+                      [6] = 1
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+wcacheDS_segsSortedLogSize:
+                      [0] = 1380558
+                      [1] = 945448
+                      [2] = 1075698
+                      [3] = 347061
+                      [4] = 216636
+                      [5] = 92697
+                      [6] = 44872
+                      [7] = 20352
+                      [8] = 0
+                      [9] = 0
+                      [0] = 182744
+                      [1] = 14501
+                      [2] = 5749
+                      [3] = 2608
+                      [4] = 1429
+                      [5] = 773
+                      [6] = 463
+                      [7] = 317
+                      [8] = 280
+                      [9] = 188
+                      [10] = 164
+                      [11] = 132
+                      [12] = 1446
+                      [13] = 0
+                      [14] = 0
+                      [15] = 0
+                KEY_457:	11367
+                KEY_458:	11367
+                KEY_459:	0
+    numCrossTempUecc:	0
+ latencyMonitorError:	0
+       utilUeccReads:	0
+numOfAvoidedGCDueToTemp:	0
+      forceShutdowns:	0
+defectsPerPackageOverflow:	0
+RxBurnIntBandsProgrammed:	0
+RxBurnUsrBandsProgrammed:	503
+ RxBurnIntNandWrites:	0
+ RxBurnUsrNandWrites:	13903488
+                KEY_426:	0
+nvme_stats_shutdown_count_host0_normal:	360
+nvme_stats_shutdown_count_host1_normal:	0
+nvme_stats_shutdown_count_host0_s2r:	33410
+nvme_stats_shutdown_count_host1_s2r:	0
+gcPDusterIntrSrcValidityHisto:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+                      [10] = 0
+                      [11] = 0
+                      [12] = 0
+                      [13] = 0
+                      [14] = 0
+                      [15] = 0
+gcPDusterUserSrcValidityHisto:
+                      [0] = 234
+                      [1] = 60
+                      [2] = 39
+                      [3] = 44
+                      [4] = 26
+                      [5] = 23
+                      [6] = 18
+                      [7] = 53
+                      [8] = 2
+                      [9] = 6
+                      [10] = 7
+                      [11] = 5
+                      [12] = 6
+                      [13] = 6
+                      [14] = 0
+                      [15] = 0
+       lhotNumSkipes:	0
+   lhotNumIsHotCalls:	0
+         lhotFullLap:	0
+     lhotSkipPrecent:	0
+  eraseSuspendEvents:	0
+eraseSuspendedStatuses:	0
+ eraseSuspendedBands:	0
+eraseSuspendSituationsBelowThreshold:	0
+eraseSuspendSituationsAboveThreshold:	0
+       bdrLastDoneHr:	78
+  bdrBackupThreshHrs:	120
+clogPortableProgBufs:	193327
+clogPortableDropBufs:	0
+clogPortablePadSectors:	0
+    openBandReadFail:	0
+                KEY_401:	0
+                KEY_402:	0
+                KEY_404:	0
+                KEY_418:	0
+                KEY_419:	4096
+                KEY_422:	6808
+                KEY_423:	0
+                KEY_424:	444
+                KEY_425:	35213
+    directToTLCBands:	0
+  directToTLCSectors:	0
+                KEY_485:	0
+ fallbackToWaterfall:	0
+balanceProportionBucketsHistogram:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+                      [10] = 0
+           lockToTlc:	0
+  burstSizeHistogram:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+                KEY_483:	0
+            nandDesc:	3253009
+fwUpdatesPercentUsed:	0
+      slcPercentUsed:	0
+         percentUsed:	0
+                KEY_432:	0
+                KEY_433:	0
+                KEY_434:	7067
+                KEY_435:	191
+                KEY_436:	0
+                KEY_437:	0
+                KEY_446:	1
+                KEY_447:	0
+                KEY_448:	0
+                KEY_449:	0
+                KEY_488:	0
+                KEY_486:	0
+                KEY_450:	0
+                KEY_452:	0
+                      [0] = 99178
+                      [1] = 37
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [0] = 5593416
+                      [1] = 1011414
+                      [2] = 385477
+                      [3] = 251029
+                      [4] = 163187
+                      [5] = 149549
+                      [6] = 99779
+                      [7] = 80630
+                      [8] = 362882
+                      [9] = 56043
+                      [10] = 23936
+                      [11] = 8948
+                      [12] = 1389
+                      [13] = 403
+                      [14] = 57
+                      [15] = 49
+                      [16] = 216630
+                      [17] = 25659
+                      [18] = 11205
+                      [19] = 6828
+                      [20] = 4573
+                      [21] = 6614
+                      [22] = 2918
+                      [23] = 3026
+                      [24] = 55005
+                      [25] = 6373
+                      [26] = 2645
+                      [27] = 1917
+                      [28] = 241
+                      [29] = 98
+                      [30] = 10
+                      [31] = 23
+                      [32] = 237168
+                      [33] = 28262
+                      [34] = 15426
+                      [35] = 11777
+                      [36] = 8440
+                      [37] = 11247
+                      [38] = 6460
+                      [39] = 6778
+                      [40] = 175539
+                      [41] = 9814
+                      [42] = 1225
+                      [43] = 852
+                      [44] = 112
+                      [45] = 43
+                      [46] = 4
+                      [47] = 20
+                      [48] = 0
+                      [49] = 0
+                      [50] = 0
+                      [51] = 0
+                      [52] = 0
+                      [53] = 0
+                      [54] = 0
+                      [55] = 0
+                      [56] = 0
+                      [57] = 0
+                      [58] = 0
+                      [59] = 0
+                      [60] = 0
+                      [61] = 0
+                      [62] = 0
+                      [63] = 0
+                      [64] = 0
+                      [65] = 0
+                      [66] = 0
+                      [67] = 0
+                      [68] = 0
+                      [69] = 0
+                      [70] = 0
+                      [71] = 0
+                      [72] = 0
+                      [73] = 0
+                      [74] = 0
+                      [75] = 0
+                      [76] = 0
+                      [77] = 0
+                      [78] = 0
+                      [79] = 0
+                      [80] = 0
+                      [81] = 0
+                      [82] = 0
+                      [83] = 0
+                      [84] = 0
+                      [85] = 0
+                      [86] = 0
+                      [87] = 0
+                      [88] = 0
+                      [89] = 0
+                      [90] = 0
+                      [91] = 0
+                      [92] = 0
+                      [93] = 0
+                      [94] = 0
+                      [95] = 0
+                      [96] = 0
+                      [97] = 0
+                      [98] = 0
+                      [99] = 0
+                      [100] = 0
+                      [101] = 0
+                      [102] = 0
+                      [103] = 0
+                      [104] = 0
+                      [105] = 0
+                      [106] = 0
+                      [107] = 0
+                      [108] = 0
+                      [109] = 0
+                      [110] = 0
+                      [111] = 0
+                      [112] = 0
+                      [113] = 0
+                      [114] = 0
+                      [115] = 0
+                      [116] = 0
+                      [117] = 0
+                      [118] = 0
+                      [119] = 0
+                      [120] = 0
+                      [121] = 0
+                      [122] = 0
+                      [123] = 0
+                      [124] = 0
+                      [125] = 0
+                      [126] = 0
+                      [127] = 0
+                      [128] = 0
+                      [129] = 0
+                      [130] = 0
+                      [131] = 0
+                      [132] = 0
+                      [133] = 0
+                      [134] = 0
+                      [135] = 0
+                      [136] = 0
+                      [137] = 0
+                      [138] = 0
+                      [139] = 0
+                      [140] = 0
+                      [141] = 0
+                      [142] = 0
+                      [143] = 0
+                      [144] = 0
+                      [145] = 0
+                      [146] = 0
+                      [147] = 0
+                      [148] = 0
+                      [149] = 0
+                      [150] = 0
+                      [151] = 0
+                      [152] = 0
+                      [153] = 0
+                      [154] = 0
+                      [155] = 0
+                      [156] = 0
+                      [157] = 0
+                      [158] = 0
+                      [159] = 0
+                      [160] = 0
+                      [161] = 0
+                      [162] = 0
+                      [163] = 0
+                      [164] = 0
+                      [165] = 0
+                      [166] = 0
+                      [167] = 0
+                      [168] = 0
+                      [169] = 0
+                      [170] = 0
+                      [171] = 0
+                      [172] = 0
+                      [173] = 0
+                      [174] = 0
+                      [175] = 0
+                      [176] = 0
+                      [177] = 0
+                      [178] = 0
+                      [179] = 0
+                      [180] = 0
+                      [181] = 0
+                      [182] = 0
+                      [183] = 0
+                      [184] = 0
+                      [185] = 0
+                      [186] = 0
+                      [187] = 0
+                      [188] = 0
+                      [189] = 0
+                      [190] = 0
+                      [191] = 0
+                      [192] = 0
+                      [193] = 0
+                      [194] = 0
+                      [195] = 0
+                      [196] = 0
+                      [197] = 0
+                      [198] = 0
+                      [199] = 0
+                      [200] = 0
+                      [201] = 0
+                      [202] = 0
+                      [203] = 0
+                      [204] = 0
+                      [205] = 0
+                      [206] = 0
+                      [207] = 0
+                      [208] = 0
+                      [209] = 0
+                      [210] = 0
+                      [211] = 0
+                      [212] = 0
+                      [213] = 0
+                      [214] = 0
+                      [215] = 0
+                      [216] = 0
+                      [217] = 0
+                      [218] = 0
+                      [219] = 0
+                      [220] = 0
+                      [221] = 0
+                      [222] = 0
+                      [223] = 0
+                      [224] = 0
+                      [225] = 0
+                      [226] = 0
+                      [227] = 0
+                      [228] = 0
+                      [229] = 0
+                      [230] = 0
+                      [231] = 0
+                      [232] = 0
+                      [233] = 0
+                      [234] = 0
+                      [235] = 0
+                      [236] = 0
+                      [237] = 0
+                      [238] = 0
+                      [239] = 0
+                      [240] = 0
+                      [241] = 0
+                      [242] = 0
+                      [243] = 0
+                      [244] = 0
+                      [245] = 0
+                      [246] = 0
+                      [247] = 0
+                      [248] = 0
+                      [249] = 0
+                      [250] = 0
+                      [251] = 0
+                      [252] = 0
+                      [253] = 0
+                      [254] = 0
+                      [255] = 0
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+                      [10] = 0
+                      [11] = 0
+                      [12] = 0
+                      [13] = 0
+                      [14] = 0
+                      [15] = 0
+                      [16] = 0
+                      [17] = 0
+                      [18] = 0
+                      [19] = 0
+                      [20] = 0
+                      [21] = 0
+                      [22] = 0
+                      [23] = 0
+                      [24] = 0
+                      [25] = 0
+                      [26] = 0
+                      [27] = 0
+                      [28] = 0
+                      [29] = 0
+                      [30] = 0
+                      [31] = 0
+                      [32] = 0
+                      [33] = 0
+                      [34] = 0
+                      [35] = 0
+                      [36] = 0
+                      [37] = 0
+                      [38] = 0
+                      [39] = 0
+                      [40] = 0
+                      [41] = 0
+                      [42] = 0
+                      [43] = 0
+                      [44] = 0
+                      [45] = 0
+                      [46] = 0
+                      [47] = 0
+                      [48] = 0
+                      [49] = 0
+                      [50] = 0
+                      [51] = 0
+                      [52] = 0
+                      [53] = 0
+                      [54] = 0
+                      [55] = 0
+                      [56] = 0
+                      [57] = 0
+                      [58] = 0
+                      [59] = 0
+                      [60] = 0
+                      [61] = 0
+                      [62] = 0
+                      [63] = 0
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+   numFormatUserArea:	5
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+                      [10] = 0
+                      [11] = 0
+                      [12] = 0
+                      [13] = 0
+                      [14] = 0
+                      [15] = 0
+                      [16] = 0
+                      [17] = 0
+                      [18] = 0
+                      [19] = 0
+                      [20] = 0
+                      [21] = 0
+                      [22] = 0
+                      [23] = 0
+                      [24] = 0
+                      [25] = 0
+                      [26] = 0
+                      [27] = 0
+                      [28] = 0
+                      [29] = 0
+                      [30] = 0
+                      [31] = 0
+                      [32] = 0
+                      [33] = 0
+                      [34] = 0
+                      [35] = 0
+                      [36] = 0
+                      [37] = 0
+                      [38] = 0
+                      [39] = 0
+                      [40] = 0
+                      [41] = 0
+                      [42] = 0
+                      [43] = 0
+                      [44] = 0
+                      [45] = 0
+                      [46] = 0
+                      [47] = 0
+                      [48] = 0
+                      [49] = 0
+                      [50] = 0
+                      [51] = 0
+                      [52] = 0
+                      [53] = 0
+                      [54] = 0
+                      [55] = 0
+                      [56] = 0
+                      [57] = 0
+                      [58] = 0
+                      [59] = 0
+                      [60] = 0
+                      [61] = 0
+                      [62] = 0
+                      [63] = 0
+                KEY_491:	7
+                KEY_492:	0
+                KEY_493:	0
+                KEY_505:	0
+                KEY_506:	0
+                KEY_507:	0
+            WriteAmp:	0.543975
+IntermediateWriteAmp:	0.981800
+NAND stats:
+===========
+             version:	0x8000000000000001
+      hostWriteXacts:	74064624
+       hostReadXacts:	101210426
+          hostWrites:	346327557
+       hostWritesDyn:	264131351
+    hostWritesStatic:	30412556
+      hostWritesMeta:	51783650
+     hostWritesPhoto:	0
+      pushSyncWrites:	0
+       hostPassiveIO:	58401353
+           hostReads:	819017380
+           shutdowns:	194
+               boots:	196
+        uncleanBoots:	4
+       IND_pool_free:	15813280
+      IND_pool_count:	16781312
+   hostWriteLogHisto:
+                      [0] = 49014165
+                      [1] = 8172941
+                      [2] = 12250869
+                      [3] = 1910705
+                      [4] = 1225742
+                      [5] = 445010
+                      [6] = 496835
+                      [7] = 289061
+                      [8] = 259296
+                      [9] = 0
+    hostReadLogHisto:
+                      [0] = 42093462
+                      [1] = 5851048
+                      [2] = 30135176
+                      [3] = 10159399
+                      [4] = 7069610
+                      [5] = 3428798
+                      [6] = 1252243
+                      [7] = 1164709
+                      [8] = 55981
+                      [9] = 0
+        wearLevMoves:	0
+          nandWrites:	523668770
+           nandReads:	1134336257
+          bandErases:	6814
+                KEY_414:	0
+            numPfail:	0
+            numEfail:	0
+        numRefreshes:	0
+         numSleepOps:	33569
+cntTimeWentBackWardOnBoot:	4
+ cntTimeWentBackWard:	0
+cntCalTimeWentBackWard:	0
+        powerOnHours:	134
+    shutdownDuringGC:	70
+   smartCritWarnings:	0
+          numFlushes:	210794
+           numFences:	2035932
+            numUnmap:	1990570
+         numUnmapSec:	2545107819
+         clogProgram:	974276
+           clogPFail:	0
+            clogRead:	157374
+           clogRFail:	0
+          qosPerCmdQ:
+                      [0] = 67879
+                      [1] = 66539
+                      [2] = 21963
+                      [3] = 12694
+                      [4] = 7264
+                      [5] = 5175
+                      [6] = 5068
+                      [7] = 3817
+                      [8] = 12154
+                      [9] = 3323
+                      [10] = 1325
+                      [11] = 714
+                      [12] = 2139
+                      [13] = 696
+                      [14] = 38
+                      [15] = 6
+                      [16] = 1892148
+                      [17] = 67212
+                      [18] = 3448
+                      [19] = 849
+                      [20] = 493
+                      [21] = 430
+                      [22] = 488
+                      [23] = 802
+                      [24] = 17466
+                      [25] = 3652
+                      [26] = 1592
+                      [27] = 499
+                      [28] = 611
+                      [29] = 159
+                      [30] = 130
+                      [31] = 591
+                      [32] = 11201332
+                      [33] = 243788
+                      [34] = 102367
+                      [35] = 72627
+                      [36] = 43103
+                      [37] = 18596
+                      [38] = 14805
+                      [39] = 11354
+                      [40] = 26874
+                      [41] = 36767
+                      [42] = 12262
+                      [43] = 7076
+                      [44] = 18097
+                      [45] = 14458
+                      [46] = 10323
+                      [47] = 4565
+                      [48] = 40665206
+                      [49] = 648299
+                      [50] = 149363
+                      [51] = 158040
+                      [52] = 110821
+                      [53] = 93735
+                      [54] = 93922
+                      [55] = 88152
+                      [56] = 803461
+                      [57] = 3360577
+                      [58] = 259581
+                      [59] = 152049
+                      [60] = 351441
+                      [61] = 218212
+                      [62] = 232220
+                      [63] = 5164
+                      [64] = 10043108
+                      [65] = 172893
+                      [66] = 79739
+                      [67] = 60148
+                      [68] = 29686
+                      [69] = 22751
+                      [70] = 21536
+                      [71] = 17784
+                      [72] = 215663
+                      [73] = 193323
+                      [74] = 62459
+                      [75] = 39216
+                      [76] = 110799
+                      [77] = 51767
+                      [78] = 28095
+                      [79] = 133216
+                      [80] = 2498633
+                      [81] = 366492
+                      [82] = 187272
+                      [83] = 113526
+                      [84] = 59652
+                      [85] = 39337
+                      [86] = 29399
+                      [87] = 17425
+                      [88] = 60468
+                      [89] = 53834
+                      [90] = 35468
+                      [91] = 17066
+                      [92] = 31095
+                      [93] = 11216
+                      [94] = 7518
+                      [95] = 25403
+                      [96] = 9878563
+                      [97] = 21814848
+                      [98] = 3141880
+                      [99] = 2375912
+                      [100] = 1509425
+                      [101] = 653588
+                      [102] = 336215
+                      [103] = 343377
+                      [104] = 888525
+                      [105] = 514829
+                      [106] = 184036
+                      [107] = 121761
+                      [108] = 110969
+                      [109] = 12891
+                      [110] = 9452
+                      [111] = 30629
+                      [112] = 12705937
+                      [113] = 18097227
+                      [114] = 2846984
+                      [115] = 1370422
+                      [116] = 411829
+                      [117] = 236758
+                      [118] = 172596
+                      [119] = 213580
+                      [120] = 854117
+                      [121] = 491566
+                      [122] = 148043
+                      [123] = 199961
+                      [124] = 290481
+                      [125] = 104668
+                      [126] = 99990
+                      [127] = 418354
+                      [128] = 2320867
+                      [129] = 12013636
+                      [130] = 1333004
+                      [131] = 879223
+                      [132] = 641689
+                      [133] = 381542
+                      [134] = 298743
+                      [135] = 291121
+                      [136] = 772264
+                      [137] = 262396
+                      [138] = 110867
+                      [139] = 116732
+                      [140] = 271301
+                      [141] = 100531
+                      [142] = 79026
+                      [143] = 435410
+                      [144] = 32288
+                      [145] = 244799
+                      [146] = 5307
+                      [147] = 1827
+                      [148] = 929
+                      [149] = 607
+                      [150] = 453
+                      [151] = 366
+                      [152] = 2133
+                      [153] = 1230
+                      [154] = 1108
+                      [155] = 1563
+                      [156] = 4841
+                      [157] = 2342
+                      [158] = 1732
+                      [159] = 11136
+       maxQosPerCmdQ:
+                      [0] = 10362718
+                      [1] = 6921754
+                      [2] = 15159911
+                      [3] = 5902390
+                      [4] = 4438972
+                      [5] = 4971228
+                      [6] = 6973213
+                      [7] = 5014553
+                      [8] = 6505311
+                      [9] = 2594859
+cmd_expedite_num_success:	0
+cmd_expedite_num_failures:	10965
+       num_trimerase:	0
+      staticSizeInMB:	611
+      readCountHisto:
+                      [0] = 349436
+                      [1] = 689
+                      [2] = 170
+                      [3] = 143
+                      [4] = 26
+    slcInvalidations:	325491614
+  slcGCInvalidations:	127912634
+                      [0] = 232
+                      [1] = 11838
+                      [2] = 41895
+                      [3] = 1946929
+                      [4] = 1040197
+                      [5] = 599596
+                      [6] = 120092
+                      [7] = 31050
+                      [8] = 9060
+                      [9] = 1186
+hostSectorsDuringGCon:	16806931
+intermediateBandErases:	36895
+          iolog_lbas:	0
+        bandsAgeBins:
+                      [0] = 6896
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+intermediateBandsAgeBins:
+                      [0] = 36912
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+numBandsRefreshedForAgePerTier:
+                      [0] = 790
+                      [1] = 0
+                      [2] = 0
+         bdrDeltaHot:
+                      [0] = 157
+                      [1] = 61
+                      [2] = 88
+                      [3] = 93
+                      [4] = 103
+                      [5] = 125
+                      [6] = 117
+                      [7] = 125
+                      [8] = 242
+                      [9] = 870
+                      [10] = 409
+                      [11] = 6
+                      [12] = 13
+                      [13] = 8
+                      [14] = 0
+                      [15] = 12
+                      [16] = 1
+                      [17] = 1
+                      [18] = 0
+                      [19] = 10
+numBandsPaddedForAge:	27
+numRefreshOnClockLoss:	0
+numRefreshOnErrNandRefreshRel:	0
+numRefreshOnErrNandRefreshPerf:	0
+          bdrPadding:	49614
+   numBGRefreshMoves:	76
+   numBGPaddingMoves:	2243
+    bandsPerHostFlow:
+                      [0] = 35218
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+ bandsPerSpecialFlow:
+                      [0] = 7067
+                      [1] = 191
+                      [2] = 0
+                      [3] = 0
+                      [4] = 427
+     secsPerHostFlow:
+                      [0] = 323156736
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+  secsPerSpecialFlow:
+                      [0] = 187120512
+                      [1] = 5280768
+                      [2] = 0
+                      [3] = 0
+                      [4] = 3923712
+overWritesPerHostFlow:
+                      [0] = 47678306
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+overWritesPerSpecialFlow:
+                      [0] = 19185540
+                      [1] = 27523
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+   padSectorsPerFlow:
+                      [0] = 770937
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 43196
+                      [5] = 17998834
+                      [6] = 190850
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+            padSizes:
+                      [0] = 738203
+                      [1] = 173
+                      [2] = 0
+                      [3] = 4201
+   unmapsPerHostFlow:
+                      [0] = 146795412
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+unmapsPerSpecialFlow:
+                      [0] = 102695829
+                      [1] = 1770665
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+            gcWrites:	174144264
+       gcLonlyWrites:	0
+          gcPLWrites:	0
+             gcFreeL:	977089
+      gcDestinations:	7258
+         gcFragments:	7607983
+       gcReadsNoBlog:	24608
+   gcSlcDestinations:	444
+GC_MidDestSrcSwitchSLC2TLC:	0
+GC_MidDestSrcSwitchTLC2SLC:	0
+      errInjCounters:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+raidSuccessfulReconstructionInternal:	0
+raidSuccessfulReconstructionHost:	0
+raidFailedReconstructionHost:	0
+raidSuccessfulPMXReconstructionInternal:	0
+raidSuccessfulPMXReconstructionHost:	0
+raidFailedPMXReconstructionInternal:	0
+raidFailedPMXReconstructionHost:	0
+raidSuccessfulRMXReconstructionInternal:	0
+raidSuccessfulRMXReconstructionHost:	0
+raidFailedRMXReconstructionInternal:	0
+raidFailedRMXReconstructionHost:	0
+raidFailedReconstructionInternal:	0
+                KEY_400:	0
+                      [0] = 0
+                      [1] = 0
+                      [0] = 0
+                      [1] = 0
+raidFailedReadParityHost:	0
+                KEY_396:	0
+                KEY_398:	0
+                KEY_397:	0
+                KEY_399:	0
+                KEY_405:	0
+                KEY_403:	0
+raidFailedLbaMismatch:	0
+raidBandsPerHostFlow:	372
+ raidSecsPerHostFlow:	3419136
+                KEY_444:	0
+                KEY_445:	0
+                KEY_440:	0
+                KEY_441:	0
+                KEY_442:	0
+                KEY_443:	0
+raidReconstructReads:	888606
+           ueccReads:	0
+                KEY_416:	0
+                KEY_417:	0
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                KEY_472:	0
+                KEY_473:	0
+raidReconstructSuccessPartition:
+                      [0] = 0
+                      [1] = 0
+raidReconstructFailPartition:
+                      [0] = 0
+                      [1] = 0
+                KEY_408:	0
+                KEY_409:	0
+                KEY_410:	0
+                KEY_411:	0
+                KEY_412:	0
+                KEY_471:	0
+       TempSensorMax:
+                      [0] = 9331882296111890817
+       TempSensorMin:
+                      [0] = 9187201950435737471
+             odtsMax:	0
+       internalUeccs:	0
+ clogLastStripeUeccs:	0
+AbortSkip_ProgramError:	0
+AbortSkip_ReadErrorOpenBand:	0
+AbortSkip_FailedRebuildingParity:	0
+AbortSkip_MPBXReadVerifyClosedBand:	0
+AbortSkip_MPBXReadVerifyOpenBand:	0
+AbortSkip_MBPXFailedRebuildingParity:	0
+                KEY_420:	0
+                KEY_438:	3
+AbortPad_OpenRefreshBand:	10
+ AbortPad_CloseBands:	0
+   AbortPad_SetPhoto:	0
+ AbortPad_GcNoSource:	963
+     AbortPad_Format:	3
+         numMemChoke:	1
+ maxMemChokeDuration:	10806
+    memChokeDuration:	10806
+       numMemExtreme:	0
+maxMemExtremeDuration:	0
+  memExtremeDuration:	0
+           numMemLow:	1
+   maxMemLowDuration:	10806
+      memLowDuration:	10806
+     bandGetsExtreme:	0
+         bandGetsLow:	725
+        numHostChoke:	79
+             e2eFail:	0
+      powerOnSeconds:	2149
+numUnknownTokenHostRead:	0
+numUnmmapedTokenHostRead:	196163
+numOfThrottlingEntriesPerLevel:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+                      [10] = 0
+                      [11] = 0
+                      [12] = 0
+                      [13] = 0
+                      [14] = 0
+                      [15] = 0
+ crcInternalReadFail:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+          wcacheFSWr:	0
+          wcacheDSWr:	346327557
+    wcacheFSEvictCnt:	0
+   wcacheFSEvictSize:	0
+wcacheFSEvictSizeLogDist:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+    RD_openBandCount:	421
+     RD_openBandNops:	2818900
+RD_closedBandEvictCount:	17
+RD_closedBandEvictSectors:	468534
+wcacheFSOverWrLogSizeCnts:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+wcacheFSOverWrSizeByFlow:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+    indmbXferCountTo:
+                      [0] = 1
+                      [1] = 5
+indmbAccumulatedTimeBetweenXfers:
+                      [0] = 10337581527
+                      [1] = 7416534840731
+maxGracefulBootTimeMs:	165840
+maxUngracefulBootTimeMs:	6489
+averageGracefulBootTimeMs:	20265
+averageUngracefulBootTimeMs:	1901
+gracefulBootTimeLogMs:
+                      [0] = 100701
+                      [1] = 6651
+                      [2] = 6692
+                      [3] = 6615
+                      [4] = 7072
+                      [5] = 8747
+                      [6] = 3934
+                      [7] = 3742
+ungracefulBootTimeLogMs:
+                      [0] = 6489
+                      [1] = 300
+                      [2] = 412
+                      [3] = 404
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+         odtsCurrent:	0
+       prefetchReads:	0
+        prefetchHits:	0
+prefetchWritesInvalidation:	0
+    numClogDoubleUnc:	0
+        readAmpHisto:
+                      [0] = 0
+                      [1] = 83171
+                      [2] = 6629
+                      [3] = 32196
+                      [4] = 29851
+                      [5] = 7549
+                      [6] = 4123
+                      [7] = 4920
+                      [8] = 1415
+                      [9] = 476
+                      [10] = 77
+                      [11] = 14
+                      [12] = 0
+                      [13] = 0
+                      [14] = 0
+                      [15] = 0
+        totalReadAmp:	524081
+numBootBlockRefreshSuccess:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+numBootBlockRefreshFail:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+mspBootBlockMismatch:	0
+mspBootBlockMismatchErr:	0
+   numUnsupportedAsi:	24
+NumTerminatedProgramSegs:	0
+ indParityPagesDrops:	99232
+     indFlowPrograms:	971738
+   powerBudgetSelect:
+                      [0] = 1841
+                      [1] = 1851
+                      [2] = 0
+                      [3] = 0
+    RxBurnNandWrites:	0
+  E2EDPErrorCounters:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+                      [10] = 0
+                      [11] = 0
+      wcacheFS_Reads:	0
+      wcacheDS_Reads:	4284353
+mspBootBlockReadFail:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+                      [10] = 0
+                      [11] = 0
+                      [12] = 0
+                      [13] = 0
+                      [14] = 0
+                      [15] = 0
+                      [16] = 0
+                      [17] = 0
+                      [18] = 0
+                      [19] = 0
+                      [20] = 0
+                      [21] = 0
+                      [22] = 0
+                      [23] = 0
+                      [24] = 0
+                      [25] = 0
+                      [26] = 0
+                      [27] = 0
+                      [28] = 0
+                      [29] = 0
+                      [30] = 0
+                      [31] = 0
+mspBootBlockProgFail:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+                      [10] = 0
+                      [11] = 0
+                      [12] = 0
+                      [13] = 0
+                      [14] = 0
+                      [15] = 0
+                      [16] = 0
+                      [17] = 0
+                      [18] = 0
+                      [19] = 0
+                      [20] = 0
+                      [21] = 0
+                      [22] = 0
+                      [23] = 0
+                      [24] = 0
+                      [25] = 0
+                      [26] = 0
+                      [27] = 0
+                      [28] = 0
+                      [29] = 0
+                      [30] = 0
+                      [31] = 0
+mspBootBlockEraseFail:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+                      [10] = 0
+                      [11] = 0
+                      [12] = 0
+                      [13] = 0
+                      [14] = 0
+                      [15] = 0
+                      [16] = 0
+                      [17] = 0
+                      [18] = 0
+                      [19] = 0
+                      [20] = 0
+                      [21] = 0
+                      [22] = 0
+                      [23] = 0
+                      [24] = 0
+                      [25] = 0
+                      [26] = 0
+                      [27] = 0
+                      [28] = 0
+                      [29] = 0
+                      [30] = 0
+                      [31] = 0
+bandsRefreshedOnError:	0
+        perHostReads:
+                      [0] = 819017380
+                      [1] = 0
+    perHostReadXacts:
+                      [0] = 101210426
+                      [1] = 0
+       perHostWrites:
+                      [0] = 346327557
+                      [1] = 0
+   perHostWriteXacts:
+                      [0] = 74064624
+                      [1] = 0
+   perHostNumFlushes:
+                      [0] = 210794
+                      [1] = 0
+    perHostNumFences:
+                      [0] = 2035932
+                      [1] = 0
+commitPadSectorsPerFlow:
+                      [0] = 738273
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 360
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+wcacheDSOverWrLogSizeCnts:
+                      [0] = 5291565
+                      [1] = 2805235
+                      [2] = 2348899
+                      [3] = 55416
+                      [4] = 14787
+                      [5] = 7465
+                      [6] = 14228
+                      [7] = 454
+                      [8] = 0
+                      [9] = 0
+wcacheDSOverWrSizeByFlow:
+                      [0] = 24210135
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+CmdRaisePrioiryEvents:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 1424
+                      [3] = 157
+                      [4] = 332
+                      [5] = 12
+                      [6] = 2
+                      [7] = 2
+                      [8] = 0
+                      [9] = 0
+ utilNumVerification:	27
+       utilRefreshes:	0
+       utilBDRErrors:	0
+     indBandsPerFlow:	434
+      secsPerIndFlow:	3981312
+       indDecodedECC:	0
+     indBoRecoveries:	0
+    indReplayExtUsed:	0
+numBootBlockValidateSuccess:
+                      [0] = 8
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+numBootBlockValidateFail:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+clogPagesFillingPercentage:
+                      [0] = 700044
+                      [1] = 60204
+                      [2] = 132753
+                      [3] = 81275
+ numBootChainUpdates:	2
+    bootChainRdError:	0
+ bootChainBlankError:	0
+bootChainRefreshError:	0
+bootChainVersionError:	0
+         bitflipAddr:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+        bitflipCount:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+        bitflipDupes:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+   bandsMaxTempHisto:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 174
+                      [8] = 745
+                      [9] = 3085
+                      [10] = 6027
+                      [11] = 10071
+                      [12] = 9555
+                      [13] = 6015
+                      [14] = 3651
+                      [15] = 1863
+                      [16] = 1172
+                      [17] = 459
+                      [18] = 6
+                      [19] = 4
+                      [20] = 3
+                      [21] = 0
+   bandsMinTempHisto:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 7
+                      [7] = 346
+                      [8] = 2338
+                      [9] = 4615
+                      [10] = 8038
+                      [11] = 10538
+                      [12] = 7308
+                      [13] = 4372
+                      [14] = 2714
+                      [15] = 1435
+                      [16] = 773
+                      [17] = 346
+                      [18] = 0
+                      [19] = 0
+                      [20] = 0
+                      [21] = 0
+bandsLifeTimeTempHisto:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 1540
+                      [7] = 91901
+                      [8] = 1250294
+                      [9] = 3328031
+                      [10] = 8661097
+                      [11] = 14933544
+                      [12] = 11554731
+                      [13] = 7022303
+                      [14] = 4929180
+                      [15] = 2598145
+                      [16] = 435084
+                      [17] = 15830
+                      [18] = 617
+                      [19] = 91
+                      [20] = 13
+                      [21] = 0
+ bandsDeltaTempHisto:
+                      [0] = 34916
+                      [1] = 6458
+                      [2] = 851
+                      [3] = 239
+                      [4] = 133
+                      [5] = 98
+                      [6] = 61
+                      [7] = 41
+                      [8] = 26
+                      [9] = 7
+                      [10] = 0
+                      [11] = 0
+                      [12] = 0
+                      [13] = 0
+                      [14] = 0
+                      [15] = 0
+                      [16] = 0
+                      [17] = 0
+                      [18] = 0
+                      [19] = 0
+                      [20] = 0
+                      [21] = 0
+ bandsCrossTempHisto:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+                      [10] = 0
+                      [11] = 0
+                      [12] = 0
+                      [13] = 14
+                      [14] = 72
+                      [15] = 275
+                      [16] = 1049
+                      [17] = 3221
+                      [18] = 7124
+                      [19] = 14539
+                      [20] = 25593
+                      [21] = 37364
+                      [22] = 72061
+                      [23] = 28015
+                      [24] = 13710
+                      [25] = 6793
+                      [26] = 3288
+                      [27] = 1398
+                      [28] = 555
+                      [29] = 258
+                      [30] = 108
+                      [31] = 16
+                      [32] = 1
+                      [33] = 0
+                      [34] = 0
+                      [35] = 0
+                      [36] = 0
+                      [37] = 0
+                      [38] = 0
+                      [39] = 0
+                      [40] = 0
+                      [41] = 0
+                      [42] = 0
+                      [43] = 0
+                      [44] = 0
+     wcacheWaitLogMs:
+                      [0] = 77375210
+                      [1] = 18003
+                      [2] = 61287
+                      [3] = 4717
+                      [4] = 1010
+                      [5] = 73
+                      [6] = 1
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+wcacheDS_segsSortedLogSize:
+                      [0] = 1380558
+                      [1] = 945448
+                      [2] = 1075698
+                      [3] = 347061
+                      [4] = 216636
+                      [5] = 92697
+                      [6] = 44872
+                      [7] = 20352
+                      [8] = 0
+                      [9] = 0
+                      [0] = 182744
+                      [1] = 14501
+                      [2] = 5749
+                      [3] = 2608
+                      [4] = 1429
+                      [5] = 773
+                      [6] = 463
+                      [7] = 317
+                      [8] = 280
+                      [9] = 188
+                      [10] = 164
+                      [11] = 132
+                      [12] = 1446
+                      [13] = 0
+                      [14] = 0
+                      [15] = 0
+    numCrossTempUecc:	0
+ latencyMonitorError:	0
+numOfAvoidedGCDueToTemp:	0
+      forceShutdowns:	0
+RxBurnIntBandsProgrammed:	0
+RxBurnUsrBandsProgrammed:	503
+ RxBurnIntNandWrites:	0
+ RxBurnUsrNandWrites:	13903488
+                KEY_426:	0
+nvme_stats_shutdown_count_host0_normal:	360
+nvme_stats_shutdown_count_host1_normal:	0
+nvme_stats_shutdown_count_host0_s2r:	33410
+nvme_stats_shutdown_count_host1_s2r:	0
+gcPDusterIntrSrcValidityHisto:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+                      [10] = 0
+                      [11] = 0
+                      [12] = 0
+                      [13] = 0
+                      [14] = 0
+                      [15] = 0
+gcPDusterUserSrcValidityHisto:
+                      [0] = 234
+                      [1] = 60
+                      [2] = 39
+                      [3] = 44
+                      [4] = 26
+                      [5] = 23
+                      [6] = 18
+                      [7] = 53
+                      [8] = 2
+                      [9] = 6
+                      [10] = 7
+                      [11] = 5
+                      [12] = 6
+                      [13] = 6
+                      [14] = 0
+                      [15] = 0
+       lhotNumSkipes:	0
+   lhotNumIsHotCalls:	0
+         lhotFullLap:	0
+  eraseSuspendEvents:	0
+eraseSuspendedStatuses:	0
+ eraseSuspendedBands:	0
+eraseSuspendSituationsBelowThreshold:	0
+eraseSuspendSituationsAboveThreshold:	0
+       bdrLastDoneHr:	78
+  bdrBackupThreshHrs:	120
+clogPortableProgBufs:	193327
+clogPortableDropBufs:	0
+clogPortablePadSectors:	0
+    openBandReadFail:	0
+                KEY_401:	0
+                KEY_402:	0
+                KEY_404:	0
+                KEY_418:	0
+                KEY_422:	6808
+                KEY_423:	0
+                KEY_424:	444
+                KEY_425:	35213
+    directToTLCBands:	0
+  directToTLCSectors:	0
+                KEY_485:	0
+ fallbackToWaterfall:	0
+balanceProportionBucketsHistogram:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+                      [10] = 0
+           lockToTlc:	0
+  burstSizeHistogram:
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+                KEY_483:	0
+fwUpdatesPercentUsed:	0
+      slcPercentUsed:	0
+         percentUsed:	0
+                KEY_432:	0
+                KEY_433:	0
+                KEY_434:	7067
+                KEY_435:	191
+                KEY_436:	0
+                KEY_437:	0
+                KEY_446:	1
+                KEY_450:	0
+                      [0] = 99178
+                      [1] = 37
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [0] = 5593416
+                      [1] = 1011415
+                      [2] = 385477
+                      [3] = 251029
+                      [4] = 163187
+                      [5] = 149549
+                      [6] = 99779
+                      [7] = 80630
+                      [8] = 362882
+                      [9] = 56043
+                      [10] = 23936
+                      [11] = 8948
+                      [12] = 1389
+                      [13] = 403
+                      [14] = 57
+                      [15] = 49
+                      [16] = 216630
+                      [17] = 25659
+                      [18] = 11205
+                      [19] = 6828
+                      [20] = 4573
+                      [21] = 6614
+                      [22] = 2918
+                      [23] = 3026
+                      [24] = 55005
+                      [25] = 6373
+                      [26] = 2645
+                      [27] = 1917
+                      [28] = 241
+                      [29] = 98
+                      [30] = 10
+                      [31] = 23
+                      [32] = 237168
+                      [33] = 28262
+                      [34] = 15426
+                      [35] = 11777
+                      [36] = 8440
+                      [37] = 11247
+                      [38] = 6460
+                      [39] = 6778
+                      [40] = 175539
+                      [41] = 9814
+                      [42] = 1225
+                      [43] = 852
+                      [44] = 112
+                      [45] = 43
+                      [46] = 4
+                      [47] = 20
+                      [48] = 0
+                      [49] = 0
+                      [50] = 0
+                      [51] = 0
+                      [52] = 0
+                      [53] = 0
+                      [54] = 0
+                      [55] = 0
+                      [56] = 0
+                      [57] = 0
+                      [58] = 0
+                      [59] = 0
+                      [60] = 0
+                      [61] = 0
+                      [62] = 0
+                      [63] = 0
+                      [64] = 0
+                      [65] = 0
+                      [66] = 0
+                      [67] = 0
+                      [68] = 0
+                      [69] = 0
+                      [70] = 0
+                      [71] = 0
+                      [72] = 0
+                      [73] = 0
+                      [74] = 0
+                      [75] = 0
+                      [76] = 0
+                      [77] = 0
+                      [78] = 0
+                      [79] = 0
+                      [80] = 0
+                      [81] = 0
+                      [82] = 0
+                      [83] = 0
+                      [84] = 0
+                      [85] = 0
+                      [86] = 0
+                      [87] = 0
+                      [88] = 0
+                      [89] = 0
+                      [90] = 0
+                      [91] = 0
+                      [92] = 0
+                      [93] = 0
+                      [94] = 0
+                      [95] = 0
+                      [96] = 0
+                      [97] = 0
+                      [98] = 0
+                      [99] = 0
+                      [100] = 0
+                      [101] = 0
+                      [102] = 0
+                      [103] = 0
+                      [104] = 0
+                      [105] = 0
+                      [106] = 0
+                      [107] = 0
+                      [108] = 0
+                      [109] = 0
+                      [110] = 0
+                      [111] = 0
+                      [112] = 0
+                      [113] = 0
+                      [114] = 0
+                      [115] = 0
+                      [116] = 0
+                      [117] = 0
+                      [118] = 0
+                      [119] = 0
+                      [120] = 0
+                      [121] = 0
+                      [122] = 0
+                      [123] = 0
+                      [124] = 0
+                      [125] = 0
+                      [126] = 0
+                      [127] = 0
+                      [128] = 0
+                      [129] = 0
+                      [130] = 0
+                      [131] = 0
+                      [132] = 0
+                      [133] = 0
+                      [134] = 0
+                      [135] = 0
+                      [136] = 0
+                      [137] = 0
+                      [138] = 0
+                      [139] = 0
+                      [140] = 0
+                      [141] = 0
+                      [142] = 0
+                      [143] = 0
+                      [144] = 0
+                      [145] = 0
+                      [146] = 0
+                      [147] = 0
+                      [148] = 0
+                      [149] = 0
+                      [150] = 0
+                      [151] = 0
+                      [152] = 0
+                      [153] = 0
+                      [154] = 0
+                      [155] = 0
+                      [156] = 0
+                      [157] = 0
+                      [158] = 0
+                      [159] = 0
+                      [160] = 0
+                      [161] = 0
+                      [162] = 0
+                      [163] = 0
+                      [164] = 0
+                      [165] = 0
+                      [166] = 0
+                      [167] = 0
+                      [168] = 0
+                      [169] = 0
+                      [170] = 0
+                      [171] = 0
+                      [172] = 0
+                      [173] = 0
+                      [174] = 0
+                      [175] = 0
+                      [176] = 0
+                      [177] = 0
+                      [178] = 0
+                      [179] = 0
+                      [180] = 0
+                      [181] = 0
+                      [182] = 0
+                      [183] = 0
+                      [184] = 0
+                      [185] = 0
+                      [186] = 0
+                      [187] = 0
+                      [188] = 0
+                      [189] = 0
+                      [190] = 0
+                      [191] = 0
+                      [192] = 0
+                      [193] = 0
+                      [194] = 0
+                      [195] = 0
+                      [196] = 0
+                      [197] = 0
+                      [198] = 0
+                      [199] = 0
+                      [200] = 0
+                      [201] = 0
+                      [202] = 0
+                      [203] = 0
+                      [204] = 0
+                      [205] = 0
+                      [206] = 0
+                      [207] = 0
+                      [208] = 0
+                      [209] = 0
+                      [210] = 0
+                      [211] = 0
+                      [212] = 0
+                      [213] = 0
+                      [214] = 0
+                      [215] = 0
+                      [216] = 0
+                      [217] = 0
+                      [218] = 0
+                      [219] = 0
+                      [220] = 0
+                      [221] = 0
+                      [222] = 0
+                      [223] = 0
+                      [224] = 0
+                      [225] = 0
+                      [226] = 0
+                      [227] = 0
+                      [228] = 0
+                      [229] = 0
+                      [230] = 0
+                      [231] = 0
+                      [232] = 0
+                      [233] = 0
+                      [234] = 0
+                      [235] = 0
+                      [236] = 0
+                      [237] = 0
+                      [238] = 0
+                      [239] = 0
+                      [240] = 0
+                      [241] = 0
+                      [242] = 0
+                      [243] = 0
+                      [244] = 0
+                      [245] = 0
+                      [246] = 0
+                      [247] = 0
+                      [248] = 0
+                      [249] = 0
+                      [250] = 0
+                      [251] = 0
+                      [252] = 0
+                      [253] = 0
+                      [254] = 0
+                      [255] = 0
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+                      [10] = 0
+                      [11] = 0
+                      [12] = 0
+                      [13] = 0
+                      [14] = 0
+                      [15] = 0
+                      [16] = 0
+                      [17] = 0
+                      [18] = 0
+                      [19] = 0
+                      [20] = 0
+                      [21] = 0
+                      [22] = 0
+                      [23] = 0
+                      [24] = 0
+                      [25] = 0
+                      [26] = 0
+                      [27] = 0
+                      [28] = 0
+                      [29] = 0
+                      [30] = 0
+                      [31] = 0
+                      [32] = 0
+                      [33] = 0
+                      [34] = 0
+                      [35] = 0
+                      [36] = 0
+                      [37] = 0
+                      [38] = 0
+                      [39] = 0
+                      [40] = 0
+                      [41] = 0
+                      [42] = 0
+                      [43] = 0
+                      [44] = 0
+                      [45] = 0
+                      [46] = 0
+                      [47] = 0
+                      [48] = 0
+                      [49] = 0
+                      [50] = 0
+                      [51] = 0
+                      [52] = 0
+                      [53] = 0
+                      [54] = 0
+                      [55] = 0
+                      [56] = 0
+                      [57] = 0
+                      [58] = 0
+                      [59] = 0
+                      [60] = 0
+                      [61] = 0
+                      [62] = 0
+                      [63] = 0
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+   numFormatUserArea:	5
+                      [0] = 0
+                      [1] = 0
+                      [2] = 0
+                      [3] = 0
+                      [4] = 0
+                      [5] = 0
+                      [6] = 0
+                      [7] = 0
+                      [8] = 0
+                      [9] = 0
+                      [10] = 0
+                      [11] = 0
+                      [12] = 0
+                      [13] = 0
+                      [14] = 0
+                      [15] = 0
+                      [16] = 0
+                      [17] = 0
+                      [18] = 0
+                      [19] = 0
+                      [20] = 0
+                      [21] = 0
+                      [22] = 0
+                      [23] = 0
+                      [24] = 0
+                      [25] = 0
+                      [26] = 0
+                      [27] = 0
+                      [28] = 0
+                      [29] = 0
+                      [30] = 0
+                      [31] = 0
+                      [32] = 0
+                      [33] = 0
+                      [34] = 0
+                      [35] = 0
+                      [36] = 0
+                      [37] = 0
+                      [38] = 0
+                      [39] = 0
+                      [40] = 0
+                      [41] = 0
+                      [42] = 0
+                      [43] = 0
+                      [44] = 0
+                      [45] = 0
+                      [46] = 0
+                      [47] = 0
+                      [48] = 0
+                      [49] = 0
+                      [50] = 0
+                      [51] = 0
+                      [52] = 0
+                      [53] = 0
+                      [54] = 0
+                      [55] = 0
+                      [56] = 0
+                      [57] = 0
+                      [58] = 0
+                      [59] = 0
+                      [60] = 0
+                      [61] = 0
+                      [62] = 0
+                      [63] = 0
+                KEY_492:	0
+                KEY_493:	0
+            WriteAmp:	0.000000

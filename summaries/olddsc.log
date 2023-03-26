@@ -1,0 +1,17 @@
+
+APPLYING DEFAULT FILTERS:
+SDUnitLogPathArray with 0 paths: found no matches
+
+APPLYING DEFAULT FILTERS:
+/private/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/logs/olddsc/DSCSYM-0EF372F3-1DF6-38FF-902E-CEB5A5DE4644, Added to Candidate logs
+/private/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/logs/olddsc/DSCSYM-9E17F07E-6715-31B7-8EF2-7D0982F496EE, Added to Candidate logs
+/private/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/logs/olddsc/DSCSYM-1A77478A-DB7E-39AD-B1C1-7474B3E55221, Added to Candidate logs
+
+
+ENFORCING SIZE LIMIT OF 10 MB ON FILTERED CANDIDATES:
+
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/logs/olddsc/DSCSYM-9E17F07E-6715-31B7-8EF2-7D0982F496EE, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/logs/olddsc/DSCSYM-1A77478A-DB7E-39AD-B1C1-7474B3E55221, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2023.01.21_23-54-21-0700_iPhone-OS_iPhone_17C54.tmp/logs/olddsc/DSCSYM-0EF372F3-1DF6-38FF-902E-CEB5A5DE4644, Added
+
+** DONE Enforcing size limit **

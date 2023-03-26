@@ -1,0 +1,31 @@
+# --- Wi-Fi Status
+
+    MAC Address          : 88:64:40:73:b1:8a
+    Interface Name       : en0
+    Power                : On [On]
+    Op Mode              : None
+    SSID                 : None
+    BSSID                : None
+    RSSI                 : 0 dBm
+    Noise                : 0 dBm
+    Tx Rate              : 0.0 Mbps
+    Security             : None
+    PHY Mode             : None
+    MCS Index            : 11
+    Guard Interval       : 0
+    NSS                  : 2
+    Channel              : 6 (20 MHz, Active)
+    Country Code         : US
+    NetworkServiceID     : FE70AA2B-4FF3-433A-8B59-650939B5B3ED
+    IPv4 Config Method   : BOOTP
+    IPv4 Address         : None
+    IPv4 Router          : None
+    IPv6 Config Method   : Automatic
+    IPv6 Address         : None
+    IPv6 Router          : None
+    DNS                  : None
+    BTC Mode             : Unavailable
+    Desense              : Unavailable
+    Chain Ack            : Unavailable
+
+

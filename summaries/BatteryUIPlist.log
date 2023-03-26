@@ -1,0 +1,10 @@
+
+APPLYING DEFAULT FILTERS:
+/var/containers/Shared/SystemGroup/99167566-4FCC-4A28-A66D-24C4DF8D642A/Library/BatteryLife/Debug/BatteryUI.plist, Added to Candidate logs
+
+
+ENFORCING SIZE LIMIT OF 5 MB ON FILTERED CANDIDATES:
+
+/var/containers/Shared/SystemGroup/99167566-4FCC-4A28-A66D-24C4DF8D642A/Library/BatteryLife/Debug/BatteryUI.plist, Added
+
+** DONE Enforcing size limit **
