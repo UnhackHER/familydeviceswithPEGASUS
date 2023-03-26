@@ -1,0 +1,255 @@
+16:03:18: main: MSUEarlyBootTask running..Found data created by previous ramdisk. Assuming first boot after update at time Thu Feb  2 16:03:18 2023
+
+16:03:18: MSUEarlyBootTask: Successfully set up ACL for folder stashed by ramdisk
+16:03:18: MSUEarlyBootTasks: Cleaning up stale stashed paths
+16:03:18: main: Running fixup var operations
+16:03:18: entering update_var_directory_hierarchy
+16:03:18: Created system mount point at /private/var/MobileSoftwareUpdate/mnt1
+16:03:18: System is currently rooted from a snapshot
+16:03:18: msuearlyboottask_mount_filesystem: Attempting to mount /dev/disk1s1 at /private/var/MobileSoftwareUpdate/mnt1
+16:03:18: Reverting to snapshot(com.apple.os.update-DAB6251063D564A8ADE055F986B345C283360109AEC4FF89394008DB59887AF9668063A1E02B9F7F82D746907F5F300B)
+16:03:18: Reverting system snapshot succeeded. Remounting.
+16:03:18: Unmounting system volume..
+16:03:18: Remounting system volume at /private/var/MobileSoftwareUpdate/mnt1
+16:03:18: msuearlyboottask_mount_filesystem: Attempting to mount /dev/disk1s1 at /private/var/MobileSoftwareUpdate/mnt1
+16:03:18: Successfully re-mounted system volume...
+16:03:18: msuearlyboottask_dump_mounted_filesystem_info:**********DUMPING MOUNTED FILESYSTEMS********
+16:03:18: msuearlyboottask_dump_mounted_filesystem_info: 12 filesystems are mounted
+16:03:18: /dev/disk1s1 is mounted at /private/var/MobileSoftwareUpdate/mnt1
+16:03:18: /private/var/hardware/FactoryData/System/Library/Caches/com.apple.factorydata is mounted at /System/Library/Caches/com.apple.factorydata
+16:03:18: /private/var/hardware/Pearl/System/Library/Pearl/ReferenceFrames is mounted at /System/Library/Pearl/ReferenceFrames
+16:03:18: /dev/disk1s7 is mounted at /private/var/hardware
+16:03:18: /dev/disk1s5 is mounted at /private/var/MobileSoftwareUpdate
+16:03:18: /dev/disk1s4 is mounted at /private/var/wireless/baseband_data
+16:03:18: /dev/disk1s2 is mounted at /private/var
+16:03:18: /private/preboot/DAB6251063D564A8ADE055F986B345C283360109AEC4FF89394008DB59887AF9668063A1E02B9F7F82D746907F5F300B/usr/standalone/firmware is mounted at /usr/standalone/firmware
+16:03:18: /dev/disk1s3 is mounted at /private/xarts
+16:03:18: /dev/disk1s6 is mounted at /private/preboot
+16:03:18: devfs is mounted at /dev
+16:03:18: com.apple.os.update-DAB6251063D564A8ADE055F986B345C283360109AEC4FF89394008DB59887AF9668063A1E02B9F7F82D746907F5F300B@/dev/disk1s1 is mounted at /
+16:03:18: msuearlyboottask_dump_mounted_filesystem_info: *********DONE DUMPING MOUNTED FILESYSTEMS********
+16:03:18: fixing ownership on /private/var/preferences/Logging: 0:0 -> 272:272
+16:03:18: fixing ownership on /private/var/preferences/Logging/Processes: 0:0 -> 272:272
+16:03:18: fixing ownership on /private/var/preferences/Logging/Subsystems: 0:0 -> 272:272
+16:03:18: fixing permissions on /private/var/mobile/Library/ExternalAccessory: 40755 -> 40775
+16:03:18: fixing ownership on /private/var/mobile/Library/ExternalAccessory: 501:501 -> 501:286
+16:03:18: fixing ownership on /private/var/mobile/Library/Logs: 501:250 -> 501:501
+16:03:18: fixing permissions on /private/var/mobile/Library/Logs/CrashReporter: 40770 -> 40775
+16:03:18: fixing ownership on /private/var/mobile/Library/Logs/CrashReporter: 501:250 -> 501:501
+16:03:18: fixing permissions on /private/var/db/timezone: 40555 -> 40755
+16:03:18: fixing ownership on /private/var/db/ondemand: 249:249 -> 0:0
+16:03:18: fixing ownership on /private/var/db/astris: 0:0 -> 245:245
+16:03:18: fixing ownership on /private/var/db/diagnostics: 0:0 -> 272:272
+16:03:18: fixing ownership on /private/var/db/nearbyd: 268:268 -> 501:501
+16:03:18: Unmounting system volume from /private/var/MobileSoftwareUpdate/mnt1.
+16:03:18: msuearlyboottask_dump_mounted_filesystem_info:**********DUMPING MOUNTED FILESYSTEMS********
+16:03:18: msuearlyboottask_dump_mounted_filesystem_info: 11 filesystems are mounted
+16:03:18: /private/var/hardware/FactoryData/System/Library/Caches/com.apple.factorydata is mounted at /System/Library/Caches/com.apple.factorydata
+16:03:18: /private/var/hardware/Pearl/System/Library/Pearl/ReferenceFrames is mounted at /System/Library/Pearl/ReferenceFrames
+16:03:18: /dev/disk1s7 is mounted at /private/var/hardware
+16:03:18: /dev/disk1s5 is mounted at /private/var/MobileSoftwareUpdate
+16:03:18: /dev/disk1s4 is mounted at /private/var/wireless/baseband_data
+16:03:18: /dev/disk1s2 is mounted at /private/var
+16:03:18: /private/preboot/DAB6251063D564A8ADE055F986B345C283360109AEC4FF89394008DB59887AF9668063A1E02B9F7F82D746907F5F300B/usr/standalone/firmware is mounted at /usr/standalone/firmware
+16:03:18: /dev/disk1s3 is mounted at /private/xarts
+16:03:18: /dev/disk1s6 is mounted at /private/preboot
+16:03:18: devfs is mounted at /dev
+16:03:18: com.apple.os.update-DAB6251063D564A8ADE055F986B345C283360109AEC4FF89394008DB59887AF9668063A1E02B9F7F82D746907F5F300B@/dev/disk1s1 is mounted at /
+16:03:18: msuearlyboottask_dump_mounted_filesystem_info: *********DONE DUMPING MOUNTED FILESYSTEMS********
+16:03:18: main: Successfully completed fixup_var operations
+16:03:18: main: Checking for and creating overprovisioning file if needed
+16:03:18: msu_reserve_space_for_overprovisioning: Space already reserved for overprovisioning
+16:03:18: main: Succesfully checked for/created overprovisioning file
+16:03:18: main: Checking if clearing out of FIPS data file is needed
+16:03:18: main: Clearing of FIPS data file not required.
+16:03:18: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate//dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/MobileAsset/PreinstalledAssetsV2
+16:03:18: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/MobileAsset/PreinstalledAssetsV2
+16:03:18: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate//dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/MobileAsset/PreinstalledAssetsV2 to /private/var/MobileAsset/PreinstalledAssetsV2
+16:03:18: Done moving of preinstalled MobileAssets to data volume
+16:03:18: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate//dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/wireless/Library/Logs
+16:03:18: moveFolderContentsIfItExists: Source folder /private/var/MobileSoftwareUpdate//dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/wireless/Library/Logs does not exist
+16:03:18: Done moving of Wireless/Library folder to data volume
+16:03:18: Creating cookie file for earlyBootTaskHasCompletedOnce
+16:03:18: Successfully created earlyBootTaskHasCompletedOnceCookie
+16:03:18: main: Datamigrator is supported on target. /private/var/MobileSoftwareUpdate//dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps exists, and /private/var/staged_system_apps exists. Clearing the latter.
+16:03:18: Setting up ACL's for the staged_system_apps on update volume
+16:03:19: Done setting up ACL's for staged_system_apps
+16:03:19: creating directory (owner=501 group=501 mode=775, class=-1) /private/var/staged_system_apps
+16:03:19: MSUEarlyBootTask: Created staged_system_apps folder. Updating permissions
+16:03:19: Successfully setup ACL for staged_system_apps folder
+16:03:19: Operations completed at Thu Feb  2 16:03:19 2023
+
+16:04:17: MobileSoftwareUpdate DataMigrator plugin found data left by previous ramdisk
+16:04:17: Attempting to remove old staged system apps from the data volume
+16:04:17: Successfully removed old staged system apps from the data volume
+16:04:17: Moving App com.apple.Maps
+16:04:17: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.Maps
+16:04:17: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.Maps
+16:04:17: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.Maps to /private/var/staged_system_apps/com.apple.Maps
+16:04:17: Successfully moved com.apple.Maps to data volume in 0.915340 seconds
+16:04:17: Moving App com.apple.Bridge
+16:04:17: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.Bridge
+16:04:17: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.Bridge
+16:04:20: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.Bridge to /private/var/staged_system_apps/com.apple.Bridge
+16:04:20: Successfully moved com.apple.Bridge to data volume in 2.314638 seconds
+16:04:20: Moving App com.apple.freeform
+16:04:20: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.freeform
+16:04:20: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.freeform
+16:04:20: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.freeform to /private/var/staged_system_apps/com.apple.freeform
+16:04:20: Successfully moved com.apple.freeform to data volume in 0.280543 seconds
+16:04:20: Moving App com.apple.facetime
+16:04:20: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.facetime
+16:04:20: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.facetime
+16:04:20: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.facetime to /private/var/staged_system_apps/com.apple.facetime
+16:04:20: Successfully moved com.apple.facetime to data volume in 0.071326 seconds
+16:04:20: Moving App com.apple.Home
+16:04:20: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.Home
+16:04:20: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.Home
+16:04:20: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.Home to /private/var/staged_system_apps/com.apple.Home
+16:04:20: Successfully moved com.apple.Home to data volume in 0.199756 seconds
+16:04:20: Moving App com.apple.calculator
+16:04:20: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.calculator
+16:04:20: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.calculator
+16:04:20: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.calculator to /private/var/staged_system_apps/com.apple.calculator
+16:04:20: Successfully moved com.apple.calculator to data volume in 0.023009 seconds
+16:04:20: Moving App com.apple.Health
+16:04:20: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.Health
+16:04:20: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.Health
+16:04:21: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.Health to /private/var/staged_system_apps/com.apple.Health
+16:04:21: Successfully moved com.apple.Health to data volume in 0.120141 seconds
+16:04:21: Moving App com.apple.VoiceMemos
+16:04:21: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.VoiceMemos
+16:04:21: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.VoiceMemos
+16:04:21: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.VoiceMemos to /private/var/staged_system_apps/com.apple.VoiceMemos
+16:04:21: Successfully moved com.apple.VoiceMemos to data volume in 0.120194 seconds
+16:04:21: Moving App com.apple.MobileAddressBook
+16:04:21: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.MobileAddressBook
+16:04:21: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.MobileAddressBook
+16:04:21: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.MobileAddressBook to /private/var/staged_system_apps/com.apple.MobileAddressBook
+16:04:21: Successfully moved com.apple.MobileAddressBook to data volume in 0.032579 seconds
+16:04:21: Moving App com.apple.Magnifier
+16:04:21: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.Magnifier
+16:04:21: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.Magnifier
+16:04:21: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.Magnifier to /private/var/staged_system_apps/com.apple.Magnifier
+16:04:21: Successfully moved com.apple.Magnifier to data volume in 0.023535 seconds
+16:04:21: Moving App com.apple.Music
+16:04:21: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.Music
+16:04:21: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.Music
+16:04:23: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.Music to /private/var/staged_system_apps/com.apple.Music
+16:04:23: Successfully moved com.apple.Music to data volume in 2.415957 seconds
+16:04:23: Moving App com.apple.mobilenotes
+16:04:23: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.mobilenotes
+16:04:23: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.mobilenotes
+16:04:24: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.mobilenotes to /private/var/staged_system_apps/com.apple.mobilenotes
+16:04:24: Successfully moved com.apple.mobilenotes to data volume in 0.564720 seconds
+16:04:24: Moving App com.apple.findmy
+16:04:24: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.findmy
+16:04:24: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.findmy
+16:04:24: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.findmy to /private/var/staged_system_apps/com.apple.findmy
+16:04:24: Successfully moved com.apple.findmy to data volume in 0.644423 seconds
+16:04:24: Moving App com.apple.mobiletimer
+16:04:24: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.mobiletimer
+16:04:24: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.mobiletimer
+16:04:24: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.mobiletimer to /private/var/staged_system_apps/com.apple.mobiletimer
+16:04:24: Successfully moved com.apple.mobiletimer to data volume in 0.076984 seconds
+16:04:24: Moving App com.apple.tips
+16:04:24: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.tips
+16:04:24: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.tips
+16:04:25: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.tips to /private/var/staged_system_apps/com.apple.tips
+16:04:25: Successfully moved com.apple.tips to data volume in 0.123658 seconds
+16:04:25: Moving App com.apple.mobilemail
+16:04:25: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.mobilemail
+16:04:25: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.mobilemail
+16:04:25: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.mobilemail to /private/var/staged_system_apps/com.apple.mobilemail
+16:04:25: Successfully moved com.apple.mobilemail to data volume in 0.278228 seconds
+16:04:25: Moving App com.apple.reminders
+16:04:25: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.reminders
+16:04:25: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.reminders
+16:04:25: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.reminders to /private/var/staged_system_apps/com.apple.reminders
+16:04:25: Successfully moved com.apple.reminders to data volume in 0.265619 seconds
+16:04:25: Moving App com.apple.MobileStore
+16:04:25: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.MobileStore
+16:04:25: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.MobileStore
+16:04:25: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.MobileStore to /private/var/staged_system_apps/com.apple.MobileStore
+16:04:25: Successfully moved com.apple.MobileStore to data volume in 0.037664 seconds
+16:04:25: Moving App com.apple.news
+16:04:25: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.news
+16:04:25: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.news
+16:04:25: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.news to /private/var/staged_system_apps/com.apple.news
+16:04:25: Successfully moved com.apple.news to data volume in 0.237566 seconds
+16:04:25: Moving App com.apple.DocumentsApp
+16:04:25: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.DocumentsApp
+16:04:25: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.DocumentsApp
+16:04:25: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.DocumentsApp to /private/var/staged_system_apps/com.apple.DocumentsApp
+16:04:25: Successfully moved com.apple.DocumentsApp to data volume in 0.060995 seconds
+16:04:25: Moving App com.apple.Translate
+16:04:25: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.Translate
+16:04:25: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.Translate
+16:04:25: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.Translate to /private/var/staged_system_apps/com.apple.Translate
+16:04:25: Successfully moved com.apple.Translate to data volume in 0.052232 seconds
+16:04:25: Moving App com.apple.measure
+16:04:25: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.measure
+16:04:25: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.measure
+16:04:26: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.measure to /private/var/staged_system_apps/com.apple.measure
+16:04:26: Successfully moved com.apple.measure to data volume in 0.072133 seconds
+16:04:26: Moving App com.apple.weather
+16:04:26: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.weather
+16:04:26: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.weather
+16:04:26: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.weather to /private/var/staged_system_apps/com.apple.weather
+16:04:26: Successfully moved com.apple.weather to data volume in 0.407420 seconds
+16:04:26: Moving App com.apple.compass
+16:04:26: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.compass
+16:04:26: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.compass
+16:04:26: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.compass to /private/var/staged_system_apps/com.apple.compass
+16:04:26: Successfully moved com.apple.compass to data volume in 0.376563 seconds
+16:04:26: Moving App com.apple.Passbook
+16:04:26: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.Passbook
+16:04:26: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.Passbook
+16:04:26: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.Passbook to /private/var/staged_system_apps/com.apple.Passbook
+16:04:26: Successfully moved com.apple.Passbook to data volume in 0.112856 seconds
+16:04:26: Moving App com.apple.mobilecal
+16:04:26: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.mobilecal
+16:04:26: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.mobilecal
+16:04:30: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.mobilecal to /private/var/staged_system_apps/com.apple.mobilecal
+16:04:30: Successfully moved com.apple.mobilecal to data volume in 3.425321 seconds
+16:04:30: Moving App com.apple.podcasts
+16:04:30: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.podcasts
+16:04:30: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.podcasts
+16:04:30: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.podcasts to /private/var/staged_system_apps/com.apple.podcasts
+16:04:30: Successfully moved com.apple.podcasts to data volume in 0.572790 seconds
+16:04:30: Moving App com.apple.shortcuts
+16:04:30: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.shortcuts
+16:04:30: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.shortcuts
+16:04:31: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.shortcuts to /private/var/staged_system_apps/com.apple.shortcuts
+16:04:31: Successfully moved com.apple.shortcuts to data volume in 0.307073 seconds
+16:04:31: Moving App com.apple.stocks
+16:04:31: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.stocks
+16:04:31: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.stocks
+16:04:31: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.stocks to /private/var/staged_system_apps/com.apple.stocks
+16:04:31: Successfully moved com.apple.stocks to data volume in 0.085202 seconds
+16:04:31: Moving App com.apple.tv
+16:04:31: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.tv
+16:04:31: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.tv
+16:04:31: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.tv to /private/var/staged_system_apps/com.apple.tv
+16:04:31: Successfully moved com.apple.tv to data volume in 0.106593 seconds
+16:04:31: Moving App com.apple.Fitness
+16:04:31: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.Fitness
+16:04:31: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.Fitness
+16:04:31: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.Fitness to /private/var/staged_system_apps/com.apple.Fitness
+16:04:31: Successfully moved com.apple.Fitness to data volume in 0.167914 seconds
+16:04:31: Moving App com.apple.iBooks
+16:04:31: moveFolderContentsIfItExists: Checking for source folder at: /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.iBooks
+16:04:31: moveFolderContentsIfItExists: Folder exists..Attempting to move to /private/var/staged_system_apps/com.apple.iBooks
+16:04:32: moveFolderContentsIfItExists: Successfully moved /private/var/MobileSoftwareUpdate/dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData/staged_system_apps/com.apple.iBooks to /private/var/staged_system_apps/com.apple.iBooks
+16:04:32: Successfully moved com.apple.iBooks to data volume in 0.985008 seconds
+16:04:32: App Migration Stats:
+	Num apps: 33
+	Total Time: 15.487941 seconds 
+	Average Time: 0.469332 seconds 
+	Longest Time: com.apple.mobilecal (3.425321 seconds)
+16:04:32: Total data moved: 489932121 bytes. Time taken: 13.472108 seconds
+16:04:32: -[MSUDataMigrator performMigration]: Failed to remove /private/var/MobileSoftwareUpdate//dab6251063d564a8ade055f986b345c283360109aec4ff89394008db59887af9668063a1e02b9f7f82d746907f5f300b-MSUData folder(Unable to parse error reason). Writing cookie file for earlyBootTask
+16:04:32: MobileSoftwareUpdate DataMigrator plugin completed successfully
+16:35:26: MSUEarlyBootTask running. Found cookie written by DataMigrator indicating the first boot operations have already completed: Thu Feb  2 16:35:26 2023
+
+16:35:26: main: Successfully removed folder stashed by previous ramdisk

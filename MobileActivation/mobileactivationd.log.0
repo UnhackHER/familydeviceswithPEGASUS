@@ -1,0 +1,292 @@
+Fri Feb  3 09:32:27 2023 [148] <debug> (0x16b7df000) MA: dealwith_activation: Activation State: Activated
+Fri Feb  3 09:32:31 2023 [148] <notice> (0x16b63b000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Fri Feb  3 09:32:32 2023 [148] <notice> (0x16b753000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Fri Feb  3 09:32:32 2023 [148] <notice> (0x16b6c7000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Fri Feb  3 09:32:32 2023 [148] <notice> (0x16b753000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Thu Feb 16 21:02:48 2023 [146] <debug> (0x16d9bb000) MA: main: ____________________ Mobile Activation Startup _____________________
+Thu Feb 16 21:02:48 2023 [146] <debug> (0x16d9bb000) MA: main: build_version: 20D47
+Thu Feb 16 21:02:48 2023 [146] <debug> (0x16d9bb000) MA: main: internal_build: false
+Thu Feb 16 21:02:48 2023 [146] <debug> (0x16d9bb000) MA: main: uid: 501
+Thu Feb 16 21:02:48 2023 [146] <debug> (0x16d9bb000) MA: main: user_name: mobile
+Thu Feb 16 21:02:48 2023 [146] <debug> (0x16d9bb000) MA: main: system_container_path: /private/var/containers/Data/System/4D7B7C8D-EC05-44D2-844A-1DEC7D49FBD2
+Thu Feb 16 21:02:48 2023 [146] <debug> (0x16d9bb000) MA: main: regulatory_images_path: /private/var/containers/Shared/SystemGroup/F95D5B03-DBF4-4BFB-87B8-79A3D192B98F
+Thu Feb 16 21:02:48 2023 [146] <debug> (0x16d9bb000) MA: main: hardware_model: N104AP
+Thu Feb 16 21:02:48 2023 [146] <debug> (0x16d9bb000) MA: main: product_type: iPhone12,1
+Thu Feb 16 21:02:48 2023 [146] <debug> (0x16d9bb000) MA: main: device_class: iPhone
+Thu Feb 16 21:02:48 2023 [146] <debug> (0x16d9bb000) MA: main: has_baseband: true
+Thu Feb 16 21:02:48 2023 [146] <debug> (0x16d9bb000) MA: main: should_hactivate: false
+Thu Feb 16 21:02:48 2023 [146] <debug> (0x16d9bb000) MA: main: is_fpga: false
+Thu Feb 16 21:02:48 2023 [146] <debug> (0x16d9bb000) MA: main: is_devfused_undemoted: false
+Thu Feb 16 21:02:48 2023 [146] <debug> (0x16d9bb000) MA: main: is_prodfused_demoted: false
+Thu Feb 16 21:02:48 2023 [146] <debug> (0x16d9bb000) MA: main: soc_generation: H12
+Thu Feb 16 21:02:48 2023 [146] <debug> (0x16d9bb000) MA: main: ____________________________________________________________________
+Thu Feb 16 21:02:48 2023 [146] <debug> (0x16dad3000) MA: dealwith_activation: Activation State: Activated
+Thu Feb 16 21:02:52 2023 [146] <notice> (0x16d92f000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Thu Feb 16 21:02:52 2023 [146] <notice> (0x16da47000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Thu Feb 16 21:02:53 2023 [146] <notice> (0x16da47000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Thu Feb 16 21:02:53 2023 [146] <notice> (0x16db5f000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Thu Feb 16 21:08:36 2023 [146] <notice> (0x16da47000) MA: -[MobileActivationDaemon issueClientCertificateWithReferenceKey:options:completion:]: Client certification requested by FindMyDeviceIdentityXPCService
+Thu Feb 16 21:08:38 2023 [146] <notice> (0x16da47000) MA: -[MobileActivationDaemon issueClientCertificateWithReferenceKey:options:completion:]: Client certification requested by FindMyDeviceIdentityXPCService
+Thu Feb 16 21:08:43 2023 [146] <notice> (0x16db5f000) MA: -[MobileActivationDaemon issueClientCertificateWithReferenceKey:options:completion:]: Client certification requested by FindMyDeviceIdentityXPCService
+Thu Feb 16 21:08:44 2023 [146] <notice> (0x16d9bb000) MA: -[MobileActivationDaemon issueClientCertificateWithReferenceKey:options:completion:]: Client certification requested by ndoagent
+Fri Feb 17 22:07:00 2023 [7020] <debug> (0x16b417000) MA: main: ____________________ Mobile Activation Startup _____________________
+Fri Feb 17 22:07:00 2023 [7020] <debug> (0x16b417000) MA: main: build_version: 20D47
+Fri Feb 17 22:07:00 2023 [7020] <debug> (0x16b417000) MA: main: internal_build: false
+Fri Feb 17 22:07:00 2023 [7020] <debug> (0x16b417000) MA: main: uid: 501
+Fri Feb 17 22:07:00 2023 [7020] <debug> (0x16b417000) MA: main: user_name: mobile
+Fri Feb 17 22:07:00 2023 [7020] <debug> (0x16b417000) MA: main: system_container_path: /private/var/containers/Data/System/4D7B7C8D-EC05-44D2-844A-1DEC7D49FBD2
+Fri Feb 17 22:07:00 2023 [7020] <debug> (0x16b417000) MA: main: regulatory_images_path: /private/var/containers/Shared/SystemGroup/F95D5B03-DBF4-4BFB-87B8-79A3D192B98F
+Fri Feb 17 22:07:00 2023 [7020] <debug> (0x16b417000) MA: main: hardware_model: N104AP
+Fri Feb 17 22:07:00 2023 [7020] <debug> (0x16b417000) MA: main: product_type: iPhone12,1
+Fri Feb 17 22:07:00 2023 [7020] <debug> (0x16b417000) MA: main: device_class: iPhone
+Fri Feb 17 22:07:00 2023 [7020] <debug> (0x16b417000) MA: main: has_baseband: true
+Fri Feb 17 22:07:00 2023 [7020] <debug> (0x16b417000) MA: main: should_hactivate: false
+Fri Feb 17 22:07:00 2023 [7020] <debug> (0x16b417000) MA: main: is_fpga: false
+Fri Feb 17 22:07:00 2023 [7020] <debug> (0x16b417000) MA: main: is_devfused_undemoted: false
+Fri Feb 17 22:07:00 2023 [7020] <debug> (0x16b417000) MA: main: is_prodfused_demoted: false
+Fri Feb 17 22:07:00 2023 [7020] <debug> (0x16b417000) MA: main: soc_generation: H12
+Fri Feb 17 22:07:00 2023 [7020] <debug> (0x16b417000) MA: main: ____________________________________________________________________
+Fri Feb 17 22:07:00 2023 [7020] <debug> (0x16b5bb000) MA: dealwith_activation: Activation State: Activated
+Fri Feb 17 22:14:27 2023 [7020] <notice> (0x16b4a3000) MA: -[MobileActivationDaemon issueClientCertificateWithReferenceKey:options:completion:]: Client certification requested by searchpartyd
+Sat Feb 18 11:26:46 2023 [7020] <notice> (0x16b4a3000) MA: -[MobileActivationDaemon issueClientCertificateWithReferenceKey:options:completion:]: Client certification requested by locationd
+Sat Feb 18 11:48:27 2023 [9514] <debug> (0x16d8af000) MA: main: ____________________ Mobile Activation Startup _____________________
+Sat Feb 18 11:48:27 2023 [9514] <debug> (0x16d8af000) MA: main: build_version: 20D47
+Sat Feb 18 11:48:27 2023 [9514] <debug> (0x16d8af000) MA: main: internal_build: false
+Sat Feb 18 11:48:27 2023 [9514] <debug> (0x16d8af000) MA: main: uid: 501
+Sat Feb 18 11:48:27 2023 [9514] <debug> (0x16d8af000) MA: main: user_name: mobile
+Sat Feb 18 11:48:27 2023 [9514] <debug> (0x16d8af000) MA: main: system_container_path: /private/var/containers/Data/System/4D7B7C8D-EC05-44D2-844A-1DEC7D49FBD2
+Sat Feb 18 11:48:27 2023 [9514] <debug> (0x16d8af000) MA: main: regulatory_images_path: /private/var/containers/Shared/SystemGroup/F95D5B03-DBF4-4BFB-87B8-79A3D192B98F
+Sat Feb 18 11:48:27 2023 [9514] <debug> (0x16d8af000) MA: main: hardware_model: N104AP
+Sat Feb 18 11:48:27 2023 [9514] <debug> (0x16d8af000) MA: main: product_type: iPhone12,1
+Sat Feb 18 11:48:27 2023 [9514] <debug> (0x16d8af000) MA: main: device_class: iPhone
+Sat Feb 18 11:48:27 2023 [9514] <debug> (0x16d8af000) MA: main: has_baseband: true
+Sat Feb 18 11:48:27 2023 [9514] <debug> (0x16d8af000) MA: main: should_hactivate: false
+Sat Feb 18 11:48:27 2023 [9514] <debug> (0x16d8af000) MA: main: is_fpga: false
+Sat Feb 18 11:48:27 2023 [9514] <debug> (0x16d8af000) MA: main: is_devfused_undemoted: false
+Sat Feb 18 11:48:27 2023 [9514] <debug> (0x16d8af000) MA: main: is_prodfused_demoted: false
+Sat Feb 18 11:48:27 2023 [9514] <debug> (0x16d8af000) MA: main: soc_generation: H12
+Sat Feb 18 11:48:27 2023 [9514] <debug> (0x16d8af000) MA: main: ____________________________________________________________________
+Sat Feb 18 11:48:27 2023 [9514] <debug> (0x16dadf000) MA: dealwith_activation: Activation State: Activated
+Sat Feb 18 15:35:56 2023 [143] <debug> (0x16d9c3000) MA: main: ____________________ Mobile Activation Startup _____________________
+Sat Feb 18 15:35:56 2023 [143] <debug> (0x16d9c3000) MA: main: build_version: 20D47
+Sat Feb 18 15:35:56 2023 [143] <debug> (0x16d9c3000) MA: main: internal_build: false
+Sat Feb 18 15:35:56 2023 [143] <debug> (0x16d9c3000) MA: main: uid: 501
+Sat Feb 18 15:35:56 2023 [143] <debug> (0x16d9c3000) MA: main: user_name: mobile
+Sat Feb 18 15:35:56 2023 [143] <debug> (0x16d9c3000) MA: main: system_container_path: /private/var/containers/Data/System/4D7B7C8D-EC05-44D2-844A-1DEC7D49FBD2
+Sat Feb 18 15:35:56 2023 [143] <debug> (0x16d9c3000) MA: main: regulatory_images_path: /private/var/containers/Shared/SystemGroup/F95D5B03-DBF4-4BFB-87B8-79A3D192B98F
+Sat Feb 18 15:35:56 2023 [143] <debug> (0x16d9c3000) MA: main: hardware_model: N104AP
+Sat Feb 18 15:35:56 2023 [143] <debug> (0x16d9c3000) MA: main: product_type: iPhone12,1
+Sat Feb 18 15:35:56 2023 [143] <debug> (0x16d9c3000) MA: main: device_class: iPhone
+Sat Feb 18 15:35:56 2023 [143] <debug> (0x16d9c3000) MA: main: has_baseband: true
+Sat Feb 18 15:35:56 2023 [143] <debug> (0x16d9c3000) MA: main: should_hactivate: false
+Sat Feb 18 15:35:56 2023 [143] <debug> (0x16d9c3000) MA: main: is_fpga: false
+Sat Feb 18 15:35:56 2023 [143] <debug> (0x16d9c3000) MA: main: is_devfused_undemoted: false
+Sat Feb 18 15:35:56 2023 [143] <debug> (0x16d9c3000) MA: main: is_prodfused_demoted: false
+Sat Feb 18 15:35:56 2023 [143] <debug> (0x16d9c3000) MA: main: soc_generation: H12
+Sat Feb 18 15:35:56 2023 [143] <debug> (0x16d9c3000) MA: main: ____________________________________________________________________
+Sat Feb 18 15:35:56 2023 [143] <debug> (0x16db67000) MA: dealwith_activation: Activation State: Activated
+Sat Feb 18 15:36:00 2023 [143] <notice> (0x16da4f000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Sat Feb 18 15:36:01 2023 [143] <notice> (0x16da4f000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Sat Feb 18 15:36:01 2023 [143] <notice> (0x16da4f000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Sat Feb 18 15:36:01 2023 [143] <notice> (0x16da4f000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Sat Feb 18 20:50:44 2023 [139] <debug> (0x16f097000) MA: main: ____________________ Mobile Activation Startup _____________________
+Sat Feb 18 20:50:44 2023 [139] <debug> (0x16f097000) MA: main: build_version: 20D47
+Sat Feb 18 20:50:44 2023 [139] <debug> (0x16f097000) MA: main: internal_build: false
+Sat Feb 18 20:50:44 2023 [139] <debug> (0x16f097000) MA: main: uid: 501
+Sat Feb 18 20:50:44 2023 [139] <debug> (0x16f097000) MA: main: user_name: mobile
+Sat Feb 18 20:50:44 2023 [139] <debug> (0x16f097000) MA: main: system_container_path: /private/var/containers/Data/System/4D7B7C8D-EC05-44D2-844A-1DEC7D49FBD2
+Sat Feb 18 20:50:44 2023 [139] <debug> (0x16f097000) MA: main: regulatory_images_path: /private/var/containers/Shared/SystemGroup/F95D5B03-DBF4-4BFB-87B8-79A3D192B98F
+Sat Feb 18 20:50:44 2023 [139] <debug> (0x16f097000) MA: main: hardware_model: N104AP
+Sat Feb 18 20:50:44 2023 [139] <debug> (0x16f097000) MA: main: product_type: iPhone12,1
+Sat Feb 18 20:50:44 2023 [139] <debug> (0x16f097000) MA: main: device_class: iPhone
+Sat Feb 18 20:50:44 2023 [139] <debug> (0x16f097000) MA: main: has_baseband: true
+Sat Feb 18 20:50:44 2023 [139] <debug> (0x16f097000) MA: main: should_hactivate: false
+Sat Feb 18 20:50:44 2023 [139] <debug> (0x16f097000) MA: main: is_fpga: false
+Sat Feb 18 20:50:44 2023 [139] <debug> (0x16f097000) MA: main: is_devfused_undemoted: false
+Sat Feb 18 20:50:44 2023 [139] <debug> (0x16f097000) MA: main: is_prodfused_demoted: false
+Sat Feb 18 20:50:44 2023 [139] <debug> (0x16f097000) MA: main: soc_generation: H12
+Sat Feb 18 20:50:44 2023 [139] <debug> (0x16f097000) MA: main: ____________________________________________________________________
+Sat Feb 18 20:50:44 2023 [139] <debug> (0x16f097000) MA: dealwith_activation: Activation State: Activated
+Sat Feb 18 20:50:45 2023 [139] <notice> (0x16f23b000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Sat Feb 18 20:50:45 2023 [139] <notice> (0x16f123000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Sat Feb 18 20:50:45 2023 [139] <notice> (0x16f23b000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Sat Feb 18 20:50:45 2023 [139] <notice> (0x16f23b000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Sun Feb 19 11:05:06 2023 [141] <debug> (0x16b43b000) MA: main: ____________________ Mobile Activation Startup _____________________
+Sun Feb 19 11:05:06 2023 [141] <debug> (0x16b43b000) MA: main: build_version: 20D47
+Sun Feb 19 11:05:06 2023 [141] <debug> (0x16b43b000) MA: main: internal_build: false
+Sun Feb 19 11:05:06 2023 [141] <debug> (0x16b43b000) MA: main: uid: 501
+Sun Feb 19 11:05:06 2023 [141] <debug> (0x16b43b000) MA: main: user_name: mobile
+Sun Feb 19 11:05:06 2023 [141] <debug> (0x16b43b000) MA: main: system_container_path: /private/var/containers/Data/System/4D7B7C8D-EC05-44D2-844A-1DEC7D49FBD2
+Sun Feb 19 11:05:06 2023 [141] <debug> (0x16b43b000) MA: main: regulatory_images_path: /private/var/containers/Shared/SystemGroup/F95D5B03-DBF4-4BFB-87B8-79A3D192B98F
+Sun Feb 19 11:05:06 2023 [141] <debug> (0x16b43b000) MA: main: hardware_model: N104AP
+Sun Feb 19 11:05:06 2023 [141] <debug> (0x16b43b000) MA: main: product_type: iPhone12,1
+Sun Feb 19 11:05:06 2023 [141] <debug> (0x16b43b000) MA: main: device_class: iPhone
+Sun Feb 19 11:05:06 2023 [141] <debug> (0x16b43b000) MA: main: has_baseband: true
+Sun Feb 19 11:05:06 2023 [141] <debug> (0x16b43b000) MA: main: should_hactivate: false
+Sun Feb 19 11:05:06 2023 [141] <debug> (0x16b43b000) MA: main: is_fpga: false
+Sun Feb 19 11:05:06 2023 [141] <debug> (0x16b43b000) MA: main: is_devfused_undemoted: false
+Sun Feb 19 11:05:06 2023 [141] <debug> (0x16b43b000) MA: main: is_prodfused_demoted: false
+Sun Feb 19 11:05:06 2023 [141] <debug> (0x16b43b000) MA: main: soc_generation: H12
+Sun Feb 19 11:05:06 2023 [141] <debug> (0x16b43b000) MA: main: ____________________________________________________________________
+Sun Feb 19 11:05:06 2023 [141] <debug> (0x16b4c7000) MA: dealwith_activation: Activation State: Activated
+Sun Feb 19 11:05:11 2023 [141] <notice> (0x16b43b000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Sun Feb 19 11:05:11 2023 [141] <notice> (0x16b4c7000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Sun Feb 19 11:05:11 2023 [141] <notice> (0x16b43b000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Sun Feb 19 11:05:12 2023 [141] <notice> (0x16b66b000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Sun Feb 19 11:05:12 2023 [141] <notice> (0x16b43b000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Sun Feb 19 15:03:11 2023 [139] <debug> (0x16fc43000) MA: main: ____________________ Mobile Activation Startup _____________________
+Sun Feb 19 15:03:11 2023 [139] <debug> (0x16fc43000) MA: main: build_version: 20D47
+Sun Feb 19 15:03:11 2023 [139] <debug> (0x16fc43000) MA: main: internal_build: false
+Sun Feb 19 15:03:11 2023 [139] <debug> (0x16fc43000) MA: main: uid: 501
+Sun Feb 19 15:03:11 2023 [139] <debug> (0x16fc43000) MA: main: user_name: mobile
+Sun Feb 19 15:03:11 2023 [139] <debug> (0x16fc43000) MA: main: system_container_path: /private/var/containers/Data/System/4D7B7C8D-EC05-44D2-844A-1DEC7D49FBD2
+Sun Feb 19 15:03:11 2023 [139] <debug> (0x16fc43000) MA: main: regulatory_images_path: /private/var/containers/Shared/SystemGroup/F95D5B03-DBF4-4BFB-87B8-79A3D192B98F
+Sun Feb 19 15:03:11 2023 [139] <debug> (0x16fc43000) MA: main: hardware_model: N104AP
+Sun Feb 19 15:03:11 2023 [139] <debug> (0x16fc43000) MA: main: product_type: iPhone12,1
+Sun Feb 19 15:03:11 2023 [139] <debug> (0x16fc43000) MA: main: device_class: iPhone
+Sun Feb 19 15:03:11 2023 [139] <debug> (0x16fc43000) MA: main: has_baseband: true
+Sun Feb 19 15:03:11 2023 [139] <debug> (0x16fc43000) MA: main: should_hactivate: false
+Sun Feb 19 15:03:11 2023 [139] <debug> (0x16fc43000) MA: main: is_fpga: false
+Sun Feb 19 15:03:11 2023 [139] <debug> (0x16fc43000) MA: main: is_devfused_undemoted: false
+Sun Feb 19 15:03:11 2023 [139] <debug> (0x16fc43000) MA: main: is_prodfused_demoted: false
+Sun Feb 19 15:03:11 2023 [139] <debug> (0x16fc43000) MA: main: soc_generation: H12
+Sun Feb 19 15:03:11 2023 [139] <debug> (0x16fc43000) MA: main: ____________________________________________________________________
+Sun Feb 19 15:03:11 2023 [139] <debug> (0x16fc43000) MA: dealwith_activation: Activation State: Activated
+Sun Feb 19 15:03:11 2023 [139] <notice> (0x16fc43000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Sun Feb 19 15:03:12 2023 [139] <notice> (0x16fc43000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Sun Feb 19 15:03:12 2023 [139] <notice> (0x16fd5b000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Sun Feb 19 15:03:12 2023 [139] <notice> (0x16fd5b000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Sun Feb 19 16:23:41 2023 [139] <debug> (0x16de5f000) MA: main: ____________________ Mobile Activation Startup _____________________
+Sun Feb 19 16:23:41 2023 [139] <debug> (0x16de5f000) MA: main: build_version: 20D47
+Sun Feb 19 16:23:41 2023 [139] <debug> (0x16de5f000) MA: main: internal_build: false
+Sun Feb 19 16:23:41 2023 [139] <debug> (0x16de5f000) MA: main: uid: 501
+Sun Feb 19 16:23:41 2023 [139] <debug> (0x16de5f000) MA: main: user_name: mobile
+Sun Feb 19 16:23:41 2023 [139] <debug> (0x16de5f000) MA: main: system_container_path: /private/var/containers/Data/System/4D7B7C8D-EC05-44D2-844A-1DEC7D49FBD2
+Sun Feb 19 16:23:41 2023 [139] <debug> (0x16de5f000) MA: main: regulatory_images_path: /private/var/containers/Shared/SystemGroup/F95D5B03-DBF4-4BFB-87B8-79A3D192B98F
+Sun Feb 19 16:23:41 2023 [139] <debug> (0x16de5f000) MA: main: hardware_model: N104AP
+Sun Feb 19 16:23:41 2023 [139] <debug> (0x16de5f000) MA: main: product_type: iPhone12,1
+Sun Feb 19 16:23:41 2023 [139] <debug> (0x16de5f000) MA: main: device_class: iPhone
+Sun Feb 19 16:23:41 2023 [139] <debug> (0x16de5f000) MA: main: has_baseband: true
+Sun Feb 19 16:23:43 2023 [139] <debug> (0x16de5f000) MA: main: should_hactivate: false
+Sun Feb 19 16:23:43 2023 [139] <debug> (0x16de5f000) MA: main: is_fpga: false
+Sun Feb 19 16:23:43 2023 [139] <debug> (0x16de5f000) MA: main: is_devfused_undemoted: false
+Sun Feb 19 16:23:43 2023 [139] <debug> (0x16de5f000) MA: main: is_prodfused_demoted: false
+Sun Feb 19 16:23:43 2023 [139] <debug> (0x16de5f000) MA: main: soc_generation: H12
+Sun Feb 19 16:23:43 2023 [139] <debug> (0x16de5f000) MA: main: ____________________________________________________________________
+Sun Feb 19 16:23:43 2023 [139] <debug> (0x16de5f000) MA: dealwith_activation: Activation State: Activated
+Sun Feb 19 16:23:45 2023 [139] <notice> (0x16ddd3000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Sun Feb 19 16:23:46 2023 [139] <notice> (0x16ddd3000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Sun Feb 19 16:23:46 2023 [139] <notice> (0x16df77000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Sun Feb 19 16:23:46 2023 [139] <notice> (0x16e08f000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Sun Feb 19 19:30:07 2023 [141] <debug> (0x16d3af000) MA: main: ____________________ Mobile Activation Startup _____________________
+Sun Feb 19 19:30:07 2023 [141] <debug> (0x16d3af000) MA: main: build_version: 20D47
+Sun Feb 19 19:30:07 2023 [141] <debug> (0x16d3af000) MA: main: internal_build: false
+Sun Feb 19 19:30:07 2023 [141] <debug> (0x16d3af000) MA: main: uid: 501
+Sun Feb 19 19:30:07 2023 [141] <debug> (0x16d3af000) MA: main: user_name: mobile
+Sun Feb 19 19:30:07 2023 [141] <debug> (0x16d3af000) MA: main: system_container_path: /private/var/containers/Data/System/4D7B7C8D-EC05-44D2-844A-1DEC7D49FBD2
+Sun Feb 19 19:30:07 2023 [141] <debug> (0x16d3af000) MA: main: regulatory_images_path: /private/var/containers/Shared/SystemGroup/F95D5B03-DBF4-4BFB-87B8-79A3D192B98F
+Sun Feb 19 19:30:07 2023 [141] <debug> (0x16d3af000) MA: main: hardware_model: N104AP
+Sun Feb 19 19:30:07 2023 [141] <debug> (0x16d3af000) MA: main: product_type: iPhone12,1
+Sun Feb 19 19:30:07 2023 [141] <debug> (0x16d3af000) MA: main: device_class: iPhone
+Sun Feb 19 19:30:07 2023 [141] <debug> (0x16d3af000) MA: main: has_baseband: true
+Sun Feb 19 19:30:07 2023 [141] <debug> (0x16d3af000) MA: main: should_hactivate: false
+Sun Feb 19 19:30:07 2023 [141] <debug> (0x16d3af000) MA: main: is_fpga: false
+Sun Feb 19 19:30:07 2023 [141] <debug> (0x16d3af000) MA: main: is_devfused_undemoted: false
+Sun Feb 19 19:30:07 2023 [141] <debug> (0x16d3af000) MA: main: is_prodfused_demoted: false
+Sun Feb 19 19:30:07 2023 [141] <debug> (0x16d3af000) MA: main: soc_generation: H12
+Sun Feb 19 19:30:07 2023 [141] <debug> (0x16d3af000) MA: main: ____________________________________________________________________
+Sun Feb 19 19:30:07 2023 [141] <debug> (0x16d3af000) MA: dealwith_activation: Activation State: Activated
+Sun Feb 19 19:30:12 2023 [141] <notice> (0x16d4c7000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Sun Feb 19 19:30:12 2023 [141] <notice> (0x16d323000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Sun Feb 19 19:30:12 2023 [141] <notice> (0x16d43b000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Sun Feb 19 19:30:12 2023 [141] <notice> (0x16d43b000) MA: -[MobileActivationDaemon unbrickDeviceWithCompletionBlock:]: Unbrick requested by CommCenter
+Mon Feb 20 15:03:42 2023 [6798] <debug> (0x16d8af000) MA: main: ____________________ Mobile Activation Startup _____________________
+Mon Feb 20 15:03:42 2023 [6798] <debug> (0x16d8af000) MA: main: build_version: 20D47
+Mon Feb 20 15:03:42 2023 [6798] <debug> (0x16d8af000) MA: main: internal_build: false
+Mon Feb 20 15:03:42 2023 [6798] <debug> (0x16d8af000) MA: main: uid: 501
+Mon Feb 20 15:03:42 2023 [6798] <debug> (0x16d8af000) MA: main: user_name: mobile
+Mon Feb 20 15:03:42 2023 [6798] <debug> (0x16d8af000) MA: main: system_container_path: /private/var/containers/Data/System/4D7B7C8D-EC05-44D2-844A-1DEC7D49FBD2
+Mon Feb 20 15:03:42 2023 [6798] <debug> (0x16d8af000) MA: main: regulatory_images_path: /private/var/containers/Shared/SystemGroup/F95D5B03-DBF4-4BFB-87B8-79A3D192B98F
+Mon Feb 20 15:03:42 2023 [6798] <debug> (0x16d8af000) MA: main: hardware_model: N104AP
+Mon Feb 20 15:03:42 2023 [6798] <debug> (0x16d8af000) MA: main: product_type: iPhone12,1
+Mon Feb 20 15:03:42 2023 [6798] <debug> (0x16d8af000) MA: main: device_class: iPhone
+Mon Feb 20 15:03:42 2023 [6798] <debug> (0x16d8af000) MA: main: has_baseband: true
+Mon Feb 20 15:03:42 2023 [6798] <debug> (0x16d8af000) MA: main: should_hactivate: false
+Mon Feb 20 15:03:42 2023 [6798] <debug> (0x16d8af000) MA: main: is_fpga: false
+Mon Feb 20 15:03:42 2023 [6798] <debug> (0x16d8af000) MA: main: is_devfused_undemoted: false
+Mon Feb 20 15:03:42 2023 [6798] <debug> (0x16d8af000) MA: main: is_prodfused_demoted: false
+Mon Feb 20 15:03:42 2023 [6798] <debug> (0x16d8af000) MA: main: soc_generation: H12
+Mon Feb 20 15:03:42 2023 [6798] <debug> (0x16d8af000) MA: main: ____________________________________________________________________
+Mon Feb 20 15:03:42 2023 [6798] <debug> (0x16d9c7000) MA: dealwith_activation: Activation State: Activated
+Mon Feb 20 21:17:46 2023 [9122] <debug> (0x16f42f000) MA: main: ____________________ Mobile Activation Startup _____________________
+Mon Feb 20 21:17:46 2023 [9122] <debug> (0x16f42f000) MA: main: build_version: 20D47
+Mon Feb 20 21:17:46 2023 [9122] <debug> (0x16f42f000) MA: main: internal_build: false
+Mon Feb 20 21:17:46 2023 [9122] <debug> (0x16f42f000) MA: main: uid: 501
+Mon Feb 20 21:17:46 2023 [9122] <debug> (0x16f42f000) MA: main: user_name: mobile
+Mon Feb 20 21:17:46 2023 [9122] <debug> (0x16f42f000) MA: main: system_container_path: /private/var/containers/Data/System/4D7B7C8D-EC05-44D2-844A-1DEC7D49FBD2
+Mon Feb 20 21:17:46 2023 [9122] <debug> (0x16f42f000) MA: main: regulatory_images_path: /private/var/containers/Shared/SystemGroup/F95D5B03-DBF4-4BFB-87B8-79A3D192B98F
+Mon Feb 20 21:17:46 2023 [9122] <debug> (0x16f42f000) MA: main: hardware_model: N104AP
+Mon Feb 20 21:17:46 2023 [9122] <debug> (0x16f42f000) MA: main: product_type: iPhone12,1
+Mon Feb 20 21:17:46 2023 [9122] <debug> (0x16f42f000) MA: main: device_class: iPhone
+Mon Feb 20 21:17:46 2023 [9122] <debug> (0x16f42f000) MA: main: has_baseband: true
+Mon Feb 20 21:17:46 2023 [9122] <debug> (0x16f42f000) MA: main: should_hactivate: false
+Mon Feb 20 21:17:46 2023 [9122] <debug> (0x16f42f000) MA: main: is_fpga: false
+Mon Feb 20 21:17:46 2023 [9122] <debug> (0x16f42f000) MA: main: is_devfused_undemoted: false
+Mon Feb 20 21:17:46 2023 [9122] <debug> (0x16f42f000) MA: main: is_prodfused_demoted: false
+Mon Feb 20 21:17:46 2023 [9122] <debug> (0x16f42f000) MA: main: soc_generation: H12
+Mon Feb 20 21:17:46 2023 [9122] <debug> (0x16f42f000) MA: main: ____________________________________________________________________
+Mon Feb 20 21:17:46 2023 [9122] <debug> (0x16f42f000) MA: dealwith_activation: Activation State: Activated
+Wed Feb 22 14:12:26 2023 [15360] <debug> (0x16d5df000) MA: main: ____________________ Mobile Activation Startup _____________________
+Wed Feb 22 14:12:26 2023 [15360] <debug> (0x16d5df000) MA: main: build_version: 20D47
+Wed Feb 22 14:12:26 2023 [15360] <debug> (0x16d5df000) MA: main: internal_build: false
+Wed Feb 22 14:12:26 2023 [15360] <debug> (0x16d5df000) MA: main: uid: 501
+Wed Feb 22 14:12:26 2023 [15360] <debug> (0x16d5df000) MA: main: user_name: mobile
+Wed Feb 22 14:12:26 2023 [15360] <debug> (0x16d5df000) MA: main: system_container_path: /private/var/containers/Data/System/4D7B7C8D-EC05-44D2-844A-1DEC7D49FBD2
+Wed Feb 22 14:12:26 2023 [15360] <debug> (0x16d5df000) MA: main: regulatory_images_path: /private/var/containers/Shared/SystemGroup/F95D5B03-DBF4-4BFB-87B8-79A3D192B98F
+Wed Feb 22 14:12:26 2023 [15360] <debug> (0x16d5df000) MA: main: hardware_model: N104AP
+Wed Feb 22 14:12:26 2023 [15360] <debug> (0x16d5df000) MA: main: product_type: iPhone12,1
+Wed Feb 22 14:12:26 2023 [15360] <debug> (0x16d5df000) MA: main: device_class: iPhone
+Wed Feb 22 14:12:26 2023 [15360] <debug> (0x16d5df000) MA: main: has_baseband: true
+Wed Feb 22 14:12:26 2023 [15360] <debug> (0x16d5df000) MA: main: should_hactivate: false
+Wed Feb 22 14:12:26 2023 [15360] <debug> (0x16d5df000) MA: main: is_fpga: false
+Wed Feb 22 14:12:26 2023 [15360] <debug> (0x16d5df000) MA: main: is_devfused_undemoted: false
+Wed Feb 22 14:12:26 2023 [15360] <debug> (0x16d5df000) MA: main: is_prodfused_demoted: false
+Wed Feb 22 14:12:26 2023 [15360] <debug> (0x16d5df000) MA: main: soc_generation: H12
+Wed Feb 22 14:12:26 2023 [15360] <debug> (0x16d5df000) MA: main: ____________________________________________________________________
+Wed Feb 22 14:12:26 2023 [15360] <debug> (0x16d80f000) MA: dealwith_activation: Activation State: Activated
+Wed Feb 22 18:16:24 2023 [16687] <debug> (0x16f77b000) MA: main: ____________________ Mobile Activation Startup _____________________
+Wed Feb 22 18:16:24 2023 [16687] <debug> (0x16f77b000) MA: main: build_version: 20D47
+Wed Feb 22 18:16:24 2023 [16687] <debug> (0x16f77b000) MA: main: internal_build: false
+Wed Feb 22 18:16:24 2023 [16687] <debug> (0x16f77b000) MA: main: uid: 501
+Wed Feb 22 18:16:24 2023 [16687] <debug> (0x16f77b000) MA: main: user_name: mobile
+Wed Feb 22 18:16:24 2023 [16687] <debug> (0x16f77b000) MA: main: system_container_path: /private/var/containers/Data/System/4D7B7C8D-EC05-44D2-844A-1DEC7D49FBD2
+Wed Feb 22 18:16:24 2023 [16687] <debug> (0x16f77b000) MA: main: regulatory_images_path: /private/var/containers/Shared/SystemGroup/F95D5B03-DBF4-4BFB-87B8-79A3D192B98F
+Wed Feb 22 18:16:24 2023 [16687] <debug> (0x16f77b000) MA: main: hardware_model: N104AP
+Wed Feb 22 18:16:24 2023 [16687] <debug> (0x16f77b000) MA: main: product_type: iPhone12,1
+Wed Feb 22 18:16:24 2023 [16687] <debug> (0x16f77b000) MA: main: device_class: iPhone
+Wed Feb 22 18:16:24 2023 [16687] <debug> (0x16f77b000) MA: main: has_baseband: true
+Wed Feb 22 18:16:24 2023 [16687] <debug> (0x16f77b000) MA: main: should_hactivate: false
+Wed Feb 22 18:16:24 2023 [16687] <debug> (0x16f77b000) MA: main: is_fpga: false
+Wed Feb 22 18:16:24 2023 [16687] <debug> (0x16f77b000) MA: main: is_devfused_undemoted: false
+Wed Feb 22 18:16:24 2023 [16687] <debug> (0x16f77b000) MA: main: is_prodfused_demoted: false
+Wed Feb 22 18:16:24 2023 [16687] <debug> (0x16f77b000) MA: main: soc_generation: H12
+Wed Feb 22 18:16:24 2023 [16687] <debug> (0x16f77b000) MA: main: ____________________________________________________________________
+Wed Feb 22 18:16:24 2023 [16687] <debug> (0x16f807000) MA: dealwith_activation: Activation State: Activated
+Thu Feb 23 21:41:55 2023 [21796] <debug> (0x16f897000) MA: main: ____________________ Mobile Activation Startup _____________________
+Thu Feb 23 21:41:55 2023 [21796] <debug> (0x16f897000) MA: main: build_version: 20D47
+Thu Feb 23 21:41:55 2023 [21796] <debug> (0x16f897000) MA: main: internal_build: false
+Thu Feb 23 21:41:55 2023 [21796] <debug> (0x16f897000) MA: main: uid: 501
+Thu Feb 23 21:41:55 2023 [21796] <debug> (0x16f897000) MA: main: user_name: mobile
+Thu Feb 23 21:41:55 2023 [21796] <debug> (0x16f897000) MA: main: system_container_path: /private/var/containers/Data/System/4D7B7C8D-EC05-44D2-844A-1DEC7D49FBD2
+Thu Feb 23 21:41:55 2023 [21796] <debug> (0x16f897000) MA: main: regulatory_images_path: /private/var/containers/Shared/SystemGroup/F95D5B03-DBF4-4BFB-87B8-79A3D192B98F
+Thu Feb 23 21:41:55 2023 [21796] <debug> (0x16f897000) MA: main: hardware_model: N104AP
+Thu Feb 23 21:41:55 2023 [21796] <debug> (0x16f897000) MA: main: product_type: iPhone12,1
+Thu Feb 23 21:41:55 2023 [21796] <debug> (0x16f897000) MA: main: device_class: iPhone
+Thu Feb 23 21:41:55 2023 [21796] <debug> (0x16f897000) MA: main: has_baseband: true
+Thu Feb 23 21:41:55 2023 [21796] <debug> (0x16f897000) MA: main: should_hactivate: false
+Thu Feb 23 21:41:55 2023 [21796] <debug> (0x16f897000) MA: main: is_fpga: false
+Thu Feb 23 21:41:55 2023 [21796] <debug> (0x16f897000) MA: main: is_devfused_undemoted: false
+Thu Feb 23 21:41:55 2023 [21796] <debug> (0x16f897000) MA: main: is_prodfused_demoted: false
+Thu Feb 23 21:41:55 2023 [21796] <debug> (0x16f897000) MA: main: soc_generation: H12
+Thu Feb 23 21:41:55 2023 [21796] <debug> (0x16f897000) MA: main: ____________________________________________________________________
+Thu Feb 23 21:41:55 2023 [21796] <debug> (0x16fbdf000) MA: dealwith_activation: Activation State: Activated

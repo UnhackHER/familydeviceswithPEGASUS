@@ -1,0 +1,26 @@
+05:53:21.100 [478BF] BEGIN   Bluetooth Logs
+05:53:21.100 [DC3A8] BEGIN   Bluetooth Status
+05:53:21.100 [382F3] BEGIN   CoreCapture Collect BT (24h)
+05:53:21.101 [478BF] END     Bluetooth Logs, took 0.000316s
+05:53:21.101 [771E2] BEGIN   CoreCapture Collect AMFM (24h)
+05:53:21.102 [382F3] END     CoreCapture Collect BT (24h), took 0.001177s
+05:53:21.102 [771E2] END     CoreCapture Collect AMFM (24h), took 0.000738s
+05:53:21.102 [88B05] BEGIN   CoreCapture Dump (BluetoothDebug~sysdiag[51292])
+05:53:21.103 [88B05] END     CoreCapture Dump (BluetoothDebug~sysdiag[51292]), took 0.000011s
+05:53:21.104 [80D67] BEGIN   CoreCapture Dump (BluetoothDebug~AMFM~sysdiag[51292])
+05:53:21.104 [80D67] END     CoreCapture Dump (BluetoothDebug~AMFM~sysdiag[51292]), took 0.000009s
+05:53:21.105 [1C5F4] BEGIN   Delay
+05:53:21.259 [DC3A8] END     Bluetooth Status, took 0.158265s
+05:53:23.106 [1C5F4] END     Delay, took 2.000302s
+05:53:23.107 [EFB26] BEGIN   CoreCapture Collect (BluetoothDebug~sysdiag[51292])
+05:53:23.108 [EFB26] END     CoreCapture Collect (BluetoothDebug~sysdiag[51292]), took 0.000921s
+05:53:23.110 [B05FE] BEGIN   CoreCapture Collect (BluetoothDebug~AMFM~sysdiag[51292])
+05:53:23.111 [B05FE] END     CoreCapture Collect (BluetoothDebug~AMFM~sysdiag[51292]), took 0.000714s
+
+INCOMPLETE:
+
+PATHS:
+./CoreCapture
+./CoreCapture/BT
+./CoreCapture/MultiFunctionManager
+./bluetooth_status.txt

@@ -1,0 +1,160 @@
+Battery 0 health info:
+{
+    "Battery Service Flags" = 3;
+    "Battery Service State" = 0;
+    "Maximum Capacity Percent" = 98;
+    calibration0 =     {
+        baseline =         {
+            AlgoChemID = 1005792710;
+            AppleRawMaxCapacity = 3008;
+            "Battery Serial" = F8Y930302DVM6YN5Y;
+            "Battery Service Flags" = 3;
+            "Battery Service State" = 0;
+            CycleCount = 90;
+            GasGaugeFirmwareVersion = 109050658;
+            LifetimeUPOCount = 0;
+            "Maximum Capacity Percent" = 96;
+            MaximumFCC = 3256;
+            MaximumQmax = 3277;
+            MinimumFCC = 2822;
+            MinimumQmax = 2976;
+            NCCMax = 3180;
+            NCCMin = 2879;
+            NominalChargeCapacity = 2976;
+            Qmax = 3076;
+            Ra00 = 101;
+            Ra01 = 81;
+            Ra02 = 94;
+            Ra03 = 109;
+            Ra04 = 101;
+            Ra05 = 107;
+            Ra06 = 130;
+            Ra07 = 113;
+            Ra08 = 121;
+            Ra09 = 126;
+            Ra10 = 141;
+            Ra11 = 134;
+            Ra12 = 168;
+            Ra13 = 522;
+            Ra14 = 4136;
+            TimeAtHighSoc = fd0000006a0000000000000000000000;
+            TotalOperatingTime = 4331;
+            WeightedRa = 106;
+            epoch = 1675379005;
+        };
+        calibrationFlags = 1120;
+        exitTotalOperatingTime = 4829;
+        snapshots =         {
+            100 =             {
+                "Battery Service Flags" = 2147483651;
+                "Battery Service State" = 9;
+                CycleCount = 100;
+                LifetimeUPOCount = 0;
+                "Maximum Capacity Percent" = 98;
+                NominalChargeCapacity = 3005;
+                TotalOperatingTime = 4814;
+                WeightedRa = 124;
+            };
+            90 =             {
+                "Battery Service Flags" = 3;
+                "Battery Service State" = 0;
+                CycleCount = 90;
+                LifetimeUPOCount = 0;
+                "Maximum Capacity Percent" = 96;
+                NominalChargeCapacity = 2976;
+                TotalOperatingTime = 4331;
+                WeightedRa = 106;
+            };
+            91 =             {
+                "Battery Service Flags" = 2147483651;
+                "Battery Service State" = 9;
+                CycleCount = 91;
+                LifetimeUPOCount = 0;
+                "Maximum Capacity Percent" = 97;
+                NominalChargeCapacity = 2979;
+                TotalOperatingTime = 4697;
+                WeightedRa = 108;
+            };
+            92 =             {
+                "Battery Service Flags" = 2147483651;
+                "Battery Service State" = 9;
+                CycleCount = 92;
+                LifetimeUPOCount = 0;
+                "Maximum Capacity Percent" = 97;
+                NominalChargeCapacity = 2981;
+                TotalOperatingTime = 4711;
+                WeightedRa = 111;
+            };
+            93 =             {
+                "Battery Service Flags" = 2147483651;
+                "Battery Service State" = 9;
+                CycleCount = 93;
+                LifetimeUPOCount = 0;
+                "Maximum Capacity Percent" = 97;
+                NominalChargeCapacity = 2982;
+                TotalOperatingTime = 4716;
+                WeightedRa = 110;
+            };
+            94 =             {
+                "Battery Service Flags" = 2147483651;
+                "Battery Service State" = 9;
+                CycleCount = 94;
+                LifetimeUPOCount = 0;
+                "Maximum Capacity Percent" = 97;
+                NominalChargeCapacity = 2984;
+                TotalOperatingTime = 4734;
+                WeightedRa = 113;
+            };
+            95 =             {
+                "Battery Service Flags" = 2147483651;
+                "Battery Service State" = 9;
+                CycleCount = 95;
+                LifetimeUPOCount = 0;
+                "Maximum Capacity Percent" = 97;
+                NominalChargeCapacity = 2984;
+                TotalOperatingTime = 4744;
+                WeightedRa = 113;
+            };
+            96 =             {
+                "Battery Service Flags" = 2147483651;
+                "Battery Service State" = 9;
+                CycleCount = 96;
+                LifetimeUPOCount = 0;
+                "Maximum Capacity Percent" = 97;
+                NominalChargeCapacity = 2993;
+                TotalOperatingTime = 4758;
+                WeightedRa = 123;
+            };
+            97 =             {
+                "Battery Service Flags" = 2147483651;
+                "Battery Service State" = 9;
+                CycleCount = 97;
+                LifetimeUPOCount = 0;
+                "Maximum Capacity Percent" = 97;
+                NominalChargeCapacity = 2999;
+                TotalOperatingTime = 4764;
+                WeightedRa = 119;
+            };
+            98 =             {
+                "Battery Service Flags" = 2147483651;
+                "Battery Service State" = 9;
+                CycleCount = 98;
+                LifetimeUPOCount = 0;
+                "Maximum Capacity Percent" = 97;
+                NominalChargeCapacity = 3004;
+                TotalOperatingTime = 4771;
+                WeightedRa = 115;
+            };
+            99 =             {
+                "Battery Service Flags" = 2147483651;
+                "Battery Service State" = 9;
+                CycleCount = 99;
+                LifetimeUPOCount = 0;
+                "Maximum Capacity Percent" = 98;
+                NominalChargeCapacity = 3012;
+                TotalOperatingTime = 4792;
+                WeightedRa = 119;
+            };
+        };
+    };
+}

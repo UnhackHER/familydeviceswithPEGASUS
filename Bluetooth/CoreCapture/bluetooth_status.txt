@@ -1,0 +1,59 @@
+# --- Bluetooth Status
+
+    Power                : On
+    MAC Address          : 88:64:40:7E:F8:EE
+    Discoverable         : No
+    Connectable          : Yes
+    Scanning             : No
+    Devices              : 8 (paired=8 cloud=1 connected=0)
+
+    iPhone
+    Address          : 081DBCE3-7B9E-C52F-6151-369D6D7721A6
+    Paired           : Yes
+    CloudPaired      : Yes
+    Connected        : No
+
+    BUMPBOXX PAGER
+    Address          : 63:A8:3F:05:8C:A1
+    Paired           : Yes
+    CloudPaired      : No
+    Connected        : No
+
+    sophia AirPods
+    Address          : E4:90:FD:32:63:9D
+    Paired           : Yes
+    CloudPaired      : No
+    Connected        : No
+
+    nessa airpods pro
+    Address          : 24:D0:DF:8A:61:91
+    Paired           : Yes
+    CloudPaired      : No
+    Connected        : No
+
+    i-box Dawn
+    Address          : CB:56:08:CA:21:B0
+    Paired           : Yes
+    CloudPaired      : No
+    Connected        : No
+
+    Isabella’s AirPods
+    Address          : E8:85:4B:E5:7C:20
+    Paired           : Yes
+    CloudPaired      : No
+    Connected        : No
+
+    Cammies air pods🫶🏽
+    Address          : D4:FB:8E:B2:4B:15
+    Paired           : Yes
+    CloudPaired      : No
+    Connected        : No
+
+    jodaddies hurrpods - Find My
+    Address          : 1C:B3:C9:AA:00:EE
+    Paired           : Yes
+    CloudPaired      : No
+    Connected        : No
+
+
+
